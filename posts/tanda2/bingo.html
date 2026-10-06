@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../_base/base.css">
+<style>
+.carton { display: grid; grid-template-columns: repeat(4, 1fr); border: 3px solid var(--negro); background: var(--hueso); }
+.carton div { aspect-ratio: 1; border: 1.5px solid var(--negro); display: flex; align-items: center; justify-content: center; text-align: center; padding: 14px; font-family: 'Space Mono'; font-size: 24px; line-height: 1.22; color: var(--negro); position: relative; }
+.carton .gratis { background: var(--morado); color: var(--hueso); font-weight: 700; font-size: 26px; }
+.carton .tachada::after { content: ''; position: absolute; width: 78%; height: 78%; border: 6px solid var(--morado); border-radius: 50%; transform: rotate(-8deg); }
+.portada-carton { position: absolute; width: 760px; right: -40px; bottom: -150px; transform: rotate(-9deg); box-shadow: 0 30px 80px rgba(0,0,0,.6); }
+.portada-carton div { font-size: 19px; }
+.portada .logo { position: absolute; right: 90px; top: 160px; width: 130px; }
+.bloque { border-top: 2px solid rgba(239,235,228,.25); padding: 34px 0 30px; }
+.bloque .rango { font-family: 'Space Mono'; font-weight: 700; color: var(--morado); font-size: 34px; }
+.bloque .fase { font-family: 'Anton'; font-size: 76px; text-transform: uppercase; line-height: 1; margin: 6px 0 14px; }
+.bloque p { font-size: 34px; }
+.mini { width: 520px; margin: 70px auto 0; }
+.mini div { font-size: 0; }
+.mini .linea { background: var(--morado); }
+</style></head><body>
+
+<!-- 1 · Portada -->
+<section class="slide portada">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">1/7</div>
+  <img class="logo" src="../_base/logo.png">
+  <h1 class="titular t-xl">Bingo<br>del primer<br>tatuaje</h1>
+  <p class="sub">Comenta cuántas casillas tachas.</p>
+  <div class="carton portada-carton">
+    <div>Carpeta de fotos llamada "tatu"</div><div class="tachada">Zoom a un ojo tatuado</div><div>Ya sabes la zona</div><div>"De broma" a tu madre</div>
+    <div>"¿Duele?"</div><div class="gratis">SIGUES AQUÍ</div><div class="tachada">La frase sin la letra</div><div>A las 2 de la mañana</div>
+    <div>El perro, movido</div><div>DM abierto y cerrado</div><div>Otra idea desde ayer</div><div>"Algo pequeñito"</div>
+  </div>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- 2 · El cartón -->
+<section class="slide claro" style="padding-top:150px">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">2/7</div>
+  <div class="carton">
+    <div>Tienes una carpeta de fotos llamada "tatu"</div>
+    <div>Has hecho zoom a un ojo tatuado: ¿era foto?</div>
+    <div>Ya sabes la zona. El diseño, no.</div>
+    <div>Se lo has dicho a tu madre "de broma"</div>
+    <div>Has preguntado "¿duele?" a todo el mundo</div>
+    <div class="gratis">SIGUES AQUÍ</div>
+    <div>Tienes la frase, pero no la letra</div>
+    <div>Lo has mirado a las 2 de la mañana</div>
+    <div>Tienes la foto de tu perro. Sale movida.</div>
+    <div>Has abierto el DM y lo has cerrado</div>
+    <div>Has cambiado de idea desde ayer</div>
+    <div>Has dicho "algo pequeñito, para empezar"</div>
+    <div>Ya tienes elegida la foto para un retrato</div>
+    <div>Te lo has dibujado con boli</div>
+    <div>Has buscado tatuajes de tu anime favorito</div>
+    <div>Has guardado un post de tatuajes "para luego"</div>
+  </div>
+  <p style="margin-top:40px; font-size:36px; font-weight:500">Tacha las tuyas. La del medio ya es tuya.</p>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- 3 · Resultados -->
+<section class="slide">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">3/7</div>
+  <h2 class="titular t-m" style="margin-bottom:40px">¿Cuántas llevas?</h2>
+  <div class="bloque"><div class="rango">1-5</div><div class="fase">Fase curiosidad</div><p>Estás mirando. Sin prisa. Guárdalo y vuelve a jugar dentro de un tiempo.</p></div>
+  <div class="bloque"><div class="rango">6-11</div><div class="fase">Fase peligro</div><p>Ya no es "algún día". Tienes zona, foto o frase. Empieza a juntarlo todo.</p></div>
+  <div class="bloque"><div class="rango">12-16</div><div class="fase morado">Fase DM</div><p>Esto ya no es curiosidad. Pasa a la siguiente.</p></div>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- 4 · Línea -->
+<section class="slide">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">4/7</div>
+  <h2 class="titular t-l">¿Has cantado<br>línea?</h2>
+  <div class="carton mini">
+    <div></div><div></div><div></div><div></div>
+    <div class="linea"></div><div class="linea"></div><div class="linea"></div><div class="linea"></div>
+    <div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div>
+  </div>
+  <p style="margin-top:70px; font-size:46px; font-weight:700">Cuatro en fila = medio DM hecho.</p>
+  <p style="margin-top:20px; font-size:36px" class="suave">La otra mitad está en la Guía 01, fijada en nuestro perfil. Cópiala, rellénala y mándala.</p>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- 5 · Fase DM -->
+<section class="slide" style="display:flex;flex-direction:column;justify-content:center">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">5/7</div>
+  <h2 class="titular morado" style="font-size:230px">Fase DM</h2>
+  <p style="margin-top:40px; font-size:48px; font-weight:500">Si has llegado aquí con 12 o más, ya lo sabes.</p>
+  <p style="margin-top:24px; font-size:36px" class="suave">El DM que te contestan antes: Guía 01, fijada en el perfil.</p>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- 6 · Cartón en blanco -->
+<section class="slide" style="padding-top:150px">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">6/7</div>
+  <h2 class="titular t-s" style="margin-bottom:36px">Haz captura. Táchalas en stories.</h2>
+  <div class="carton" style="width:820px; margin:0 auto">
+    <div>Tienes una carpeta de fotos llamada "tatu"</div>
+    <div>Has hecho zoom a un ojo tatuado: ¿era foto?</div>
+    <div>Ya sabes la zona. El diseño, no.</div>
+    <div>Se lo has dicho a tu madre "de broma"</div>
+    <div>Has preguntado "¿duele?" a todo el mundo</div>
+    <div class="gratis">SIGUES AQUÍ</div>
+    <div>Tienes la frase, pero no la letra</div>
+    <div>Lo has mirado a las 2 de la mañana</div>
+    <div>Tienes la foto de tu perro. Sale movida.</div>
+    <div>Has abierto el DM y lo has cerrado</div>
+    <div>Has cambiado de idea desde ayer</div>
+    <div>Has dicho "algo pequeñito, para empezar"</div>
+    <div>Ya tienes elegida la foto para un retrato</div>
+    <div>Te lo has dibujado con boli</div>
+    <div>Has buscado tatuajes de tu anime favorito</div>
+    <div>Has guardado un post de tatuajes "para luego"</div>
+  </div>
+  <p style="margin-top:32px; font-size:30px" class="suave">Menciona a @pharaonstudio y a quien tenga la carpeta "tatu" más llena.</p>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- 7 · Cierre -->
+<section class="slide cierre foto">
+  <div class="etiqueta">PHARAON · JUEGO 03</div><div class="contador">7/7</div>
+  <div class="frase">Cuéntanos<br>tu número en<br>comentarios.</div>
+  <div class="datos"><b>Cita previa por DM</b> · @pharaonstudio<br>Martes a sábado · 9:00-19:00<br>C/ Prolongació Falguera, 2 · Sant Feliu de Llobregat</div>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+</body></html>

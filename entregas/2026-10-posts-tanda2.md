@@ -8,6 +8,8 @@
 >
 > Ningún carrusel se publica con un [VALIDAR], [___] o [ANOTACIÓN DEL ARTISTA] a la vista.
 
+**Maquetados (06/10/2026):** Canva agotó la cuota de generación con IA, así que el Director los ha maquetado como PNG de 1080×1350 con el mismo sistema visual (fuentes Anton, DM Sans y Space Mono; morado #9925AE; logo y foto de la pared morada). Fuentes en `posts/tanda2/*.html`, imágenes en `posts/tanda2/<post>/NN.png`, zips listos para subir en `posts/tanda2/<post>.zip`. Para regenerar: `NODE_PATH=$(npm root -g) node posts/_base/render.js posts/tanda2/<post>.html`. Los recuadros amarillos "VALIDAR" marcan lo pendiente y se quitan del HTML antes de la versión final.
+
 | Carrusel | Diap. | Estado | Bloqueante |
 |---|---|---|---|
 | JUEGO 03 · Bingo del primer tatuaje | 7 | Listo | Tono; Guía 01 fijada |

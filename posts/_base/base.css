@@ -1,0 +1,62 @@
+/* Sistema visual de los posts de PHARAON (ver estudio/pharaon.md, Identidad visual) */
+@font-face { font-family: 'Anton'; src: url(fuentes/Anton-Regular.ttf); }
+@font-face { font-family: 'DM Sans'; font-weight: 400; src: url(fuentes/DMSans-400.ttf); }
+@font-face { font-family: 'DM Sans'; font-weight: 500; src: url(fuentes/DMSans-500.ttf); }
+@font-face { font-family: 'DM Sans'; font-weight: 700; src: url(fuentes/DMSans-700.ttf); }
+@font-face { font-family: 'Space Mono'; font-weight: 400; src: url(fuentes/SpaceMono-400.ttf); }
+@font-face { font-family: 'Space Mono'; font-weight: 700; src: url(fuentes/SpaceMono-700.ttf); }
+
+:root {
+  --negro: #111111;
+  --hueso: #EFEBE4;
+  --morado: #9925AE;
+  --gris: #2A2A2A;
+  --gris-texto: #8C8A85;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #000; }
+
+.slide {
+  position: relative;
+  width: 1080px; height: 1350px;
+  overflow: hidden;
+  background: var(--negro);
+  color: var(--hueso);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 40px;
+  line-height: 1.35;
+  padding: 170px 90px 140px;
+  margin-bottom: 20px;
+}
+.slide.claro { background: var(--hueso); color: var(--negro); }
+
+/* Elementos fijos */
+.etiqueta { position: absolute; top: 70px; left: 90px; font-family: 'Space Mono'; font-size: 26px; letter-spacing: 2px; text-transform: uppercase; }
+.contador { position: absolute; top: 66px; right: 90px; font-family: 'Space Mono'; font-weight: 700; font-size: 30px; color: var(--morado); }
+.firma { position: absolute; bottom: 64px; left: 90px; font-size: 26px; opacity: .55; }
+.slide.claro .firma { opacity: .5; }
+
+/* Tipografía */
+.titular { font-family: 'Anton'; text-transform: uppercase; line-height: .98; letter-spacing: .5px; }
+.t-xl { font-size: 150px; }
+.t-l { font-size: 112px; }
+.t-m { font-size: 84px; }
+.t-s { font-size: 60px; }
+.sub { font-size: 40px; margin-top: 34px; }
+.mono { font-family: 'Space Mono'; }
+.morado { color: var(--morado); }
+.suave { opacity: .7; }
+.centro { text-align: center; }
+
+/* Cierre fijo */
+.cierre .frase { font-family: 'Anton'; text-transform: uppercase; font-size: 112px; line-height: .98; margin-top: 160px; }
+.cierre .datos { margin-top: 70px; font-size: 32px; line-height: 1.6; }
+.cierre .datos b { font-weight: 700; }
+.cierre .logo { position: absolute; right: 90px; bottom: 120px; width: 150px; opacity: .9; }
+.cierre.foto { background: url(pared-morada.jpg) center 30% / cover; }
+.cierre.foto::before { content: ''; position: absolute; inset: 0; background: rgba(11,11,11,.62); }
+.cierre.foto > * { position: relative; }
+.cierre.foto .etiqueta, .cierre.foto .contador, .cierre.foto .firma { position: absolute; }
+
+.pendiente { display: inline-block; background: #FFE14D; color: #111; font-family: 'Space Mono'; font-size: .55em; padding: 2px 10px; border-radius: 4px; vertical-align: middle; letter-spacing: 0; text-transform: none; line-height: 1.3; }
