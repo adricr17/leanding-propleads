@@ -13,11 +13,11 @@
 | Carrusel | Diap. | Estado | Bloqueante |
 |---|---|---|---|
 | JUEGO 03 · Bingo del primer tatuaje | 7 | Listo | Tono; Guía 01 fijada |
-| GUÍA 03 · Tu nota del móvil, traducida | 6 | Listo tras validar | Cierre "Pégala tal cual" y tres frases |
-| GUÍA 04 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
+| GUÍA 03 · Tu nota del móvil, traducida | 6 | **Listo** (validado 06/10) | — |
+| GUÍA 04 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri; frases validadas | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
 | JUEGO 04 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
-| CASA 01 · Tus derechos en una camilla de PHARAON | 7 | Bloqueado | Uri valida artículo por artículo; menos de 4, no sale |
-| GUÍA 05 · El ticket de tu tatuaje | 7 | Bloqueado | Factores reales del precio, diseño incluido o no, presupuesto por DM. Sin cifras |
+| CASA 01 · Tus derechos en una camilla de PHARAON | 7 | **Listo** (los 6 artículos validados 06/10) | — |
+| GUÍA 05 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color DEPENDE) | — |
 
 ---
 
@@ -190,3 +190,8 @@ Fuera por decisión del critic: los dientes, el guerrero griego y el Joker (dere
 **Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la más difícil: una es piel y la otra, cera de verdad. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Guía 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
 
 **Antes de publicar:** foto de la vela real · prueba con 3 personas de fuera (cada ronda la acierta entre un 30 y un 70 %; si no, cambiar el recorte) · OK de Uri al crédito · si hay originales a más resolución, regenerar (los recortes se ven algo blandos) · separarlo al menos 2 semanas de "Seis ojos" y de "Ojos de realista".
+
+---
+
+## Validación del usuario (06/10/2026)
+Confirmadas todas las frases [VALIDAR] de Nota del móvil, Ojos de realista, Derechos y Ticket. Ticket: DISEÑO PERSONALIZADO = INCLUIDO; COLOR = DEPENDE (en sesión de realismo no cambia el precio; en minis, microrrealismo o piezas pequeñas y medianas, sí suma); HORAS = "Cuantas más horas de trabajo, más cuenta". "Lo que no suma" usa "NADA" en vez de cifras.
