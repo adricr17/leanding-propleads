@@ -175,3 +175,27 @@ Cambios de B': solo se describe el aspecto físico, sin pistas de contexto · un
 **Producidas:** W42 Retrato robot perro con rueda: sí. W43 Peritos sin fotogramas: sí. W44 3 realistas Halloween: dudosa (jurado, votos, saturación de Halloween).
 
 **Lectura:** los posts son mejores que los vídeos nuevos, y las series abiertas siguen por encima de lo nuevo. Hay que alimentarlas antes de abrir frentes.
+
+---
+
+# CRITIC — POSTS TANDA 2 (Q01-Q22) · 06/10/2026
+
+Criterios /60: portada, utilidad para el cliente, guardados/compartidos, comentarios, personalidad PHARAON, viabilidad ya.
+
+| # | Post | Total | Veredicto | Bloqueo principal |
+|---|---|---|---|---|
+| 1 | Q01 Bingo del primer tatuaje | 44 | SÍ | Escribir las 16 casillas (2-3 propias de un estudio de realismo) |
+| 2 | Q02+Q03 Nota del móvil, traducida | 39 | SÍ fusionadas | "Pégala tal cual" [VALIDAR]; 3-4 semanas después de la guía 01 |
+| 3 | Q06 Ojos de realista | 39 | SÍ con condición | Anotaciones a mano de un artista; pausa para comentar antes |
+| 4 | Q14 Derechos en la camilla | 39 | SÍ cuando se valide | Artículos con Uri (si confirma menos de 4, no sale); artículo 7 en blanco |
+| 5 | Q04 Ticket de tu tatuaje | 38 | DUDOSA (bloqueado) | Factores reales del precio, sin cifras |
+| 6 | Q13 Mapa del dolor colectivo | 36 | DUDOSA | Mínimo de respuestas |
+| 7 | Q19 La pared es vuestra | 36 | DUDOSA | Premio con Uri |
+| 8 | Q09 Esto o esto | 35 | DUDOSA | Respuestas reales del equipo; choca con ¿A o B? |
+| 9 | Q11 Frase de tu abuela | 34 | DUDOSA | Lettering de un artista, no tipografías de Canva |
+| — | Q08 ¿Foto o tatuaje? | 31 | NO (rescatable) | Permisos de clientes |
+| — | Q17, Q07, Q12, Q10, Q16, Q20, Q05, Q18, Q15, Q22, Q21 | 12-29 | NO | Genéricos, FAQ disfrazada, anuncios o sin datos |
+
+Lectura del critic: nivel medio, más flojo que la tanda 1. Sobra cebo de comentarios genérico y FAQ con otro envoltorio. La línea a explotar es la mirada de seis realistas (Q06).
+
+**Selección del Director (el usuario pidió 5):** los cinco primeros del ranking, sin tirar de eliminados para llegar a la cifra. Solo Q01 sale tal cual; Q02+Q03 necesita un OK; Q06, Q14 y Q04 se maquetan como borrador y no se publican hasta tener las anotaciones del artista, los artículos de Uri y los factores de precio. Numeración: JUEGO 03 Bingo · GUÍA 03 Nota del móvil · GUÍA 04 Ojos de realista · CASA 01 Derechos · GUÍA 05 Ticket.
