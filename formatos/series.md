@@ -31,10 +31,16 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 - Próximos: gato o perro de un seguidor · "tu abuela" (con consentimientos).
 
 ### 3 REALISTAS · 1 PALABRA
-- Estado: semilla (ep. 1 grabación 2026-10-09) · Tipo: producida
+- Estado: guionizada, en reserva (W41) · Tipo: producida
 - Premisa: la misma palabra, tres realistas con una restricción secreta cada uno, un jurado ciego, y quien pierde paga los cafés.
 - Elementos fijos: rótulo "3 REALISTAS · 1 PALABRA · 20 MIN", sobres de restricción, cinta A, B y C, pausa para votar, "¿Cuál te tatuarías?", destape de firmas, cafés.
 - Próximos: palabra votada en comentarios · palabra de un cliente.
+
+### PERITOS DE FICCIÓN
+- Estado: semilla (Informe 01, grabación 2026-10-10) · Tipo: rápida
+- Premisa: un realista tasa con seriedad técnica un tatuaje famoso de ficción: horas, sesiones, cicatrización y veredicto VEROSÍMIL / IMPOSIBLE.
+- Elementos fijos: "INFORME Nº __", tablilla con formulario, silueta, casillas, pausa antes del sello, tampón rojo, "Peritaje cerrado.", "¿Qué tatuaje de ficción peritamos ahora?".
+- Próximos: Once (Stranger Things) · Lisbeth (Millennium) · Maui · Memento · Ace (One Piece).
 
 ### TODO O NADA (¿Foto o tatuaje?)
 - Estado: guionizada, en reserva · Tipo: producida (calle)
@@ -47,7 +53,7 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 - Elementos fijos: POV cenital, "Techo nº X", cierre pidiendo el cartel siguiente.
 
 ### LA OTRA MANO
-- Estado: semilla (ep. 1 publicación 2026-10-10) · Tipo: rápida
+- Estado: banco (se acumulan manos, sin fecha de publicación) · Tipo: rápida
 - Premisa: lo que hace la mano que no se está tatuando. Rótulo de zona y hora, de más tensa a más relajada.
 - Elementos fijos: encuadre fijo de la mano libre, rótulo "Zona · hora X", cierre "¿Cuál serías tú? 1-6".
 
