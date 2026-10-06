@@ -10,7 +10,7 @@
 |---|---|---|
 | Nombre / nombre artístico | Delia | [Usuario] |
 | Rol en PHARAON | Artista del estudio | [Usuario] |
-| Especialidad / estilo | Realismo. Capacitado/a también para lettering y anime | [Usuario] |
+| Especialidad / estilo | Realismo. Capacitado/a también para lettering, anime y blackwork | [Usuario] |
 | Descripción profesional | PENDIENTE (bio de pharaonstudio.es no accesible desde el entorno) | — |
 | Instagram | @delia.tattoo | [Usuario] |
 | TikTok / otras redes | PENDIENTE | — |

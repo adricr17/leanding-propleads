@@ -10,7 +10,7 @@
 |---|---|---|
 | Nombre / nombre artístico | Uri CR. Se presenta como "URI CR \| TATUADOR PROFESIONAL" | [Índice TikTok] |
 | Rol en PHARAON | **Fundador** del estudio, además de artista. Las redes del estudio NO las lleva él: las gestiona el usuario | [Usuario] |
-| Especialidad / estilo | Realismo ("tatuaje realista", "tatuajes realistas · diseños únicos"). Capacitado también para lettering y anime | [Índice TikTok], [Usuario] |
+| Especialidad / estilo | Realismo ("tatuaje realista", "tatuajes realistas · diseños únicos"). Capacitado también para lettering, anime y blackwork | [Índice TikTok], [Usuario] |
 | Descripción profesional | **PENDIENTE** (falta la bio de la web oficial) | — |
 | Instagram | @uri.cr_tattoo — sus vídeos indican que atiende consultas por Instagram | [Índice TikTok] |
 | TikTok | @uri.cr_tattoo (cuenta activa con vídeos de proyectos) | [Índice TikTok] |

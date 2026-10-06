@@ -41,7 +41,7 @@ Leyenda de fuentes:
 ## Estilos
 
 - **Realismo: lo trabajan los 6 artistas.** Es la seña de identidad del estudio. [Usuario]
-- **Lettering y anime: cualquiera de los 6 artistas puede hacerlos.** [Usuario]
+- **Lettering, anime y blackwork: cualquiera de los 6 artistas puede hacerlos.** [Usuario]
 - Fine line, microrrealismo, cromados y otros: lo hace Meii. [Usuario]
 
 ## Herramientas de trabajo
@@ -55,7 +55,7 @@ Leyenda de fuentes:
 - **El universo egipcio es solo el nombre** [Usuario]. Matiz visto en las fotos que pasó el usuario: el **logo** es un tocado de faraón (nemes) estilizado y en la recepción hay una pequeña esfinge, pero el resto del local no usa estética egipcia. El logo se usa tal cual como firma de marca. Lo que no se hace sin aprobación explícita del usuario es crear contenido con estética o chistes egipcios.
 - **Claim oficial (portada de pharaonstudio.es, captura del usuario del 06/10/2026):** "TATUAJES QUE MARCAN HISTORIA. ARTE ÚNICO SOBRE TU PIEL."
 - **Texto de la web:** "Estudio de tatuajes en Sant Feliu de Llobregat (Barcelona), especializado en realismo, anime, lettering, fine line, blackwork y tatuajes totalmente personalizados." "Cientos de clientes ya han confiado en Pharaon Studio para convertir sus ideas en piezas únicas." El botón principal es "CONTACTAR POR INSTAGRAM".
-- **Blackwork:** la web lo anuncia, pero ninguna ficha de artista lo tiene. PENDIENTE: confirmar quién lo hace antes de usarlo en un contenido.
+- **Blackwork:** lo hacen todos los artistas [Usuario, 06/10/2026].
 - **Merch:** las camisetas blancas con el monograma negro son merch del estudio [Usuario] y **hay modelos nuevos en camino**. PENDIENTE: fecha de llegada, precio y si se venden solo en el estudio o también online.
 
 ## Identidad visual (fotos y logo del usuario, `estudio/marca/`)
@@ -80,12 +80,12 @@ Fichas individuales en `estudio/artistas/` (plantilla: `_plantilla.md`).
 
 | Artista | Instagram | Estilos | Disposición a salir en vídeos |
 |---|---|---|---|
-| Uri CR (fundador) | @uri.cr_tattoo | Realismo · lettering · anime | **Muy alta**: "cualquier cosa" |
-| Andrea (Avilas) | @avilastattoo | Realismo · lettering · anime | **Muy alta**: "cualquier cosa" |
-| Meii | @meii.tattoo | Realismo, fine line, microrrealismo, cromados · lettering · anime | **Muy alta**: "cualquier cosa" |
-| Kike (Siz0) | @siz0.tattoo | Realismo · lettering · anime | Tímido para salir en vídeos |
-| Carlos Moreno | @carlosmoreno.es | Realismo · lettering · anime | Viene poco al estudio ahora: baja disponibilidad |
-| Delia | @delia.tattoo | Realismo · lettering · anime | Viene poco al estudio ahora: baja disponibilidad |
+| Uri CR (fundador) | @uri.cr_tattoo | Realismo · lettering · anime · blackwork | **Muy alta**: "cualquier cosa" |
+| Andrea (Avilas) | @avilastattoo | Realismo · lettering · anime · blackwork | **Muy alta**: "cualquier cosa" |
+| Meii | @meii.tattoo | Realismo, fine line, microrrealismo, cromados · lettering · anime · blackwork | **Muy alta**: "cualquier cosa" |
+| Kike (Siz0) | @siz0.tattoo | Realismo · lettering · anime · blackwork | Tímido para salir en vídeos |
+| Carlos Moreno | @carlosmoreno.es | Realismo · lettering · anime · blackwork | Viene poco al estudio ahora: baja disponibilidad |
+| Delia | @delia.tattoo | Realismo · lettering · anime · blackwork | Viene poco al estudio ahora: baja disponibilidad |
 
 Todo el equipo se lleva muy bien. Fuente del equipo, estilos, disposición y dinámica: [Usuario].
 

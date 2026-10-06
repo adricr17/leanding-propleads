@@ -32,7 +32,7 @@
    Quiero tatuarme ____ en ____.
    Tamaño aprox.: ____ cm.
    Estilo: realismo / lettering / anime /
-   fine line / microrrealismo / cromados / no lo sé.
+   blackwork / fine line / microrrealismo / cromados / no lo sé.
    Te adjunto referencias.
    Me gustaría con ____ (o me da igual).
    Puedo ____ (días / franja).
@@ -62,7 +62,7 @@
 > Hola, me llamo ___.
 > Quiero tatuarme ___ en ___.
 > Tamaño aprox.: ___ cm.
-> Estilo: realismo / lettering / anime / fine line / microrrealismo / cromados / no lo sé.
+> Estilo: realismo / lettering / anime / blackwork / fine line / microrrealismo / cromados / no lo sé.
 > Te adjunto referencias.
 > Me gustaría con ___ (o me da igual).
 > Puedo ___.
