@@ -206,3 +206,9 @@ Importados como imagen (idénticos a los PNG; el texto se cambia en el HTML y se
 - GUÍA 05 · Ticket: https://www.canva.com/d/38wWlrcqvCqS_2m
 Ojos de realista y Zoom extremo no están en Canva: llevan fotos de clientes y solo se pueden subir sin pasar por una URL pública (hace falta permitir www.canva.com en la red del entorno).
 Sobran en Canva, para borrar: los cinco intentos editables sin "(FINAL)" (Bingo ×2, Nota, Derechos, Ticket) y el primer borrador en formato historia del DM.
+
+---
+
+## Cambio del usuario (06/10/2026): Nota del móvil con humor más natural
+Nota nueva: "- el nombre de mi perro ¿con la huella?" · "- algo de anime pero discreto" · "- la flor esa (ver captura)" · "- ¿brazo o pierna?" · "- preguntar si duele mucho". Traductor: "Idea clara. Pon el nombre tal cual. Lo de la huella lo vemos contigo." · "Dinos qué anime y qué parte: un símbolo, un personaje o una escena. 'Discreto' también es una pista." · "Manda la captura. Si sale borrosa, busca la original (Guía 02)." · "Pon las dos. La zona la podemos decidir juntos." · "Pregúntalo. Para eso estamos." Comentarios: "Sin vergüenza: aquí todos tenemos una." Sin chistes de ex.
+**Caption nuevo:** "Todos tenemos una nota en el móvil que se llama "Ideas tatu (no borrar)". Te la traducimos a lo que nos hace falta para dibujarla. / Comenta la línea más rara de la tuya (la nuestra favorita: "algo de anime pero discreto"). / ¿Lista para mandar? Pégala en el DM tal cual y añade el tamaño y cuándo puedes venir. La plantilla completa está en la Guía 01, fijada en el perfil. / #ideastatuaje #primertatuaje #tatuajepersonalizado #santfeliudellobregat #baixllobregat"
