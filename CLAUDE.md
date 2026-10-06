@@ -83,6 +83,17 @@ No proponer:
 
 Estos formatos solo pueden aprobarse si existe un giro creativo suficientemente fuerte que transforme el concepto. El giro debe explicarse explícitamente.
 
+## MEZCLA DE CONTENIDO (regla del usuario)
+
+No todo puede ser competición o juego. Cada semana debe combinar dos tipos de pieza:
+
+- **Piezas producidas**: competiciones, juegos, calle, formatos de TV. Necesitan preparación y que los artistas paren a grabar. **Máximo 1-2 por semana.**
+- **Piezas rápidas**: las graba quien lleva las redes con el móvil **mientras los artistas trabajan con normalidad** (durante una sesión real, entre clientes, en el día a día del estudio), o cualquier cosa que se resuelva en menos de 30 minutos entre grabación y edición, sin parar el trabajo. **Al menos 1-2 por semana**, y deben ser mayoría cuando la agenda esté apretada.
+
+Las piezas rápidas siguen pasando el FILTRO FINAL y la lista de PROHIBIDOS. Grabar durante una sesión no puede convertirse en timelapse ni en enseñar el resultado: el interés debe estar en una situación, una frase, una pregunta, un detalle o un giro, no en el tatuaje en sí. Cualquier cliente que aparezca necesita consentimiento.
+
+Las piezas rápidas también pueden ser series: un formato fijo y barato que se repite cada semana es el motor más sostenible de la cuenta.
+
 ## FORMATOS PROPIOS
 
 Priorizar conceptos que puedan convertirse en **series reconocibles de PHARAON**: episodios, temporadas, rankings, personajes recurrentes, competiciones, running jokes, universos propios.

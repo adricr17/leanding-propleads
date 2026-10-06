@@ -34,6 +34,10 @@ Un buen concepto de PHARAON:
 - Muestra la personalidad de los tatuadores.
 - Es ejecutable por un estudio real con un móvil y algo de ingenio.
 
+## Mezcla obligatoria
+
+No todo puede ser competición o juego. En cada tanda, **al menos un tercio de los conceptos deben ser PIEZAS RÁPIDAS**: las graba quien lleva las redes con el móvil mientras los artistas trabajan con normalidad (sesiones reales, entre clientes, día a día), o se resuelven en menos de 30 minutos entre grabación y edición, sin parar el trabajo. Que sea rápida no la libra de los prohibidos: el interés tiene que estar en una situación, frase, pregunta o giro, nunca en el timelapse o en el resultado. Marca cada concepto como `Pieza: producida` o `Pieza: rápida`.
+
 ## Prohibido por defecto
 
 Timelapse tatuando · Antes y después · Reacción básica del cliente · "3 consejos antes de tatuarte" · FAQ genéricas · Enseñar simplemente un resultado · "Un día en el estudio" · Vídeos cuyo único argumento es que el tatuaje es espectacular.

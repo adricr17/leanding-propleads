@@ -32,6 +32,10 @@ Elimina cualquier idea que sea:
 
 Para cada eliminada: una línea con el motivo concreto. Sin suavizar.
 
+## Mezcla
+
+Evalúa las piezas rápidas con su propia vara: no las penalices por ser sencillas, sino solo si no tienen hook, giro o payoff. Recomienda siempre una semana que combine 1-2 piezas producidas con 1-2 piezas rápidas (regla del usuario), no solo las de mayor puntuación absoluta.
+
 ## Puntuación (solo las supervivientes)
 
 Puntúa de 1 a 10 cada criterio. Sé exigente: un 7 ya es bueno; un 9-10 debe ser raro y justificado.
