@@ -16,6 +16,8 @@ Reglas:
 - No inventar artistas, estilos, servicios ni frases oficiales.
 - No deducir personalidad, humor, comportamiento ante cámara ni rasgos personales a partir de fotos o portfolios. Si no hay fuente explícita o confirmación del usuario, queda como **PENDIENTE DE COMPLETAR** y se le pregunta al usuario.
 - Si un concepto depende de un dato pendiente (p. ej. que un artista se atreva a hablar a cámara), indicarlo como requisito a confirmar.
+- **En los vídeos solo sale gente del equipo** (regla del usuario): nada de clientes que vengan a propósito, dueños, familiares, audios ni material de personas de fuera. Los clientes en sesión solo pueden aparecer de fondo, sin cara y con consentimiento.
+- Imágenes de terceros: solo de bancos con licencia de uso comercial (Unsplash, Pexels). Nunca de Google, Instagram o Pinterest.
 - Antes de pedir al usuario información pública, investigar primero las fuentes públicas (pharaonstudio.es, redes del estudio y de los artistas).
 
 ## MISIÓN

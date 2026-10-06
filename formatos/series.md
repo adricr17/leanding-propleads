@@ -26,9 +26,9 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 
 ### RETRATO ROBOT
 - Estado: semilla (ep. 1 grabación 2026-10-07) · Tipo: producida
-- Premisa (versión simple, W41): el dueño manda un audio de WhatsApp describiendo a su perro sin decir la raza; un realista lo dibuja en 10 min escuchándolo. Al final, la foto real al lado y un segundo audio con la reacción del dueño. Nadie viene al estudio.
-- Elementos fijos: el audio en pantalla en el hook, "EXP. 00X", temporizador de 10:00, pausa "Puntúa del 1 al 10", foto real deslizándose, segundo audio del dueño, sello "CASO CERRADO/ABIERTO".
-- Próximos: audios que manden los seguidores (CTA del ep. 1) · un gato.
+- Premisa (versión solo equipo, W41): el manager elige una foto de un banco libre (Unsplash/Pexels) y se la describe a un realista sin enseñársela. El realista dibuja 10 min y al final ve la foto por primera vez.
+- Elementos fijos: "Solo tiene mi descripción", "EXP. 00X", temporizador de 10:00, pausa "Puntúa del 1 al 10", reacción real al ver la foto, foto deslizándose, sello "CASO CERRADO/ABIERTO".
+- Próximos: otro animal (gato, caballo, pájaro raro) y otro artista. Nunca fotos de Google o Instagram.
 
 ### 3 REALISTAS · 1 PALABRA
 - Estado: guionizada, en reserva (W41) · Tipo: producida
