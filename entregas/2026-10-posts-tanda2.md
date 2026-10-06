@@ -14,7 +14,8 @@
 |---|---|---|---|
 | JUEGO 03 · Bingo del primer tatuaje | 7 | Listo | Tono; Guía 01 fijada |
 | GUÍA 03 · Tu nota del móvil, traducida | 6 | Listo tras validar | Cierre "Pégala tal cual" y tres frases |
-| GUÍA 04 · Ojos de realista | 8 (4 de Procreate) | Borrador | Foto (Pexels o tatuaje propio con permiso) y anotaciones de un artista |
+| GUÍA 04 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
+| JUEGO 04 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
 | CASA 01 · Tus derechos en una camilla de PHARAON | 7 | Bloqueado | Uri valida artículo por artículo; menos de 4, no sale |
 | GUÍA 05 · El ticket de tu tatuaje | 7 | Bloqueado | Factores reales del precio, diseño incluido o no, presupuesto por DM. Sin cifras |
 
@@ -168,3 +169,24 @@ Cada concepto [VALIDAR]; quitar los que el estudio no reconozca.
 **Caption:** "El precio de un tatuaje no sale de una tabla: sale de un ticket como este. Tamaño, zona, nivel de detalle y horas de trabajo. / Por eso no te podemos decir "cuánto cuesta uno pequeño" sin verlo. Mándanos tu idea, la zona y el tamaño aproximado por DM (la plantilla está en la Guía 01, fijada en el perfil) y te damos el total. / ¿Qué línea del ticket no te esperabas? / #preciotatuaje #primertatuaje #tatuajerealista #santfeliudellobregat #baixllobregat"
 
 **Antes de publicar:** Uri (o quien fije precios) valida cada concepto y frase · diseño incluido o no · si el color influye · presupuesto por DM y quién contesta · ni una cifra, tampoco en respuestas · respuesta tipo preparada para #preciotatuaje.
+
+---
+
+## 6 · JUEGO 04 · "ZOOM EXTREMO" (nuevo, propuesto por el Director con las fotos de Uri)
+
+> Critic: 39/60 tal cual (DUDOSA), unos 44 con sus cambios (SÍ), todos aplicados. Pasa el filtro de "enseñar el resultado" solo porque el recorte no se lee como tatuaje y la pieza entera aparece como respuesta.
+
+Trabajos de Uri con permiso de los clientes. Fotos y renders en `privado/` y `posts/tanda2/privado-*`, fuera del repositorio público. Fuente: `posts/tanda2/privado-zoom-extremo.html`.
+
+1. Portada: recorte de la cera de la vela. `ESTO ES PIEL. ¿QUÉ ES?` / "4 rondas. Zoom extremo. Cuenta tus aciertos."
+2-3. Ronda 1 (fácil): escamas de serpiente → medusa del antebrazo, con el recorte marcado en morado.
+4-5. Ronda 2: pelo de lobo → vikingo con piel de lobo.
+6-7. Ronda 3 (difícil): una grieta → "Una grieta. Dibujada sobre piel." (cara agrietada con vela).
+8-9. Ronda 4 (bonus): "Una es piel. La otra, cera de verdad. ¿A o B?" → "La A era piel." La B es una foto de una vela real que hace el manager con el móvil (en B/N y con el mismo encuadre), en vez de Pexels, que además está bloqueado en este entorno.
+10. Cierre: "¿Cuántas de 4? Sin mentir." / "Todo esto es piel. Realismo, por Uri (@uri.cr_tattoo)." + cierre fijo.
+
+Fuera por decisión del critic: los dientes, el guerrero griego y el Joker (derechos). La catrina queda para el episodio 2. Se llama "zoom extremo" y no "400 %" porque los recortes son de unos 3×.
+
+**Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la más difícil: una es piel y la otra, cera de verdad. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Guía 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
+
+**Antes de publicar:** foto de la vela real · prueba con 3 personas de fuera (cada ronda la acierta entre un 30 y un 70 %; si no, cambiar el recorte) · OK de Uri al crédito · si hay originales a más resolución, regenerar (los recortes se ven algo blandos) · separarlo al menos 2 semanas de "Seis ojos" y de "Ojos de realista".

@@ -1,0 +1,6 @@
+# Material privado: fotos de trabajos de clientes. No se sube al repositorio (es público).
+privado/
+# Renders que usan fotos de trabajos de clientes
+posts/**/privado-*/
+posts/**/privado-*.zip
+posts/**/privado-*.png

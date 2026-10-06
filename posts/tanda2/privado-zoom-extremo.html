@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../_base/base.css">
+<!-- JUEGO 04 · Zoom extremo · trabajos de Uri con permiso de los clientes. Usa privado/ (fuera del repositorio). -->
+<style>
+.z { position: absolute; inset: 0; background: center / cover; }
+.entera { position: absolute; inset: 0; background: #0b0b0b center / contain no-repeat; }
+.banda { position: absolute; left: 0; right: 0; top: 0; padding: 150px 90px 110px; background: linear-gradient(rgba(17,17,17,.9) 60%, rgba(17,17,17,0)); }
+.pie { position: absolute; left: 0; right: 0; bottom: 0; padding: 90px 90px 120px; background: linear-gradient(rgba(17,17,17,0), rgba(17,17,17,.92) 45%); }
+.pie .resp { font-family: 'Anton'; font-size: 84px; text-transform: uppercase; line-height: 1; }
+.pie .cred { font-family: 'Space Mono'; font-size: 28px; margin-top: 16px; color: var(--hueso); }
+.ronda { font-family: 'Space Mono'; font-weight: 700; font-size: 30px; color: var(--morado); letter-spacing: 2px; margin-bottom: 10px; }
+.slide > .etiqueta, .slide > .contador, .slide > .firma { z-index: 3; text-shadow: 0 2px 10px rgba(0,0,0,.8); }
+.duo { position: absolute; left: 90px; right: 90px; top: 430px; bottom: 210px; display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.duo div { background: center / cover; position: relative; border-radius: 8px; }
+.duo .letra { position: absolute; top: 16px; left: 16px; font-family: 'Anton'; font-size: 70px; color: var(--hueso); text-shadow: 0 2px 12px rgba(0,0,0,.8); }
+.hueco-vela { background: repeating-linear-gradient(45deg,#1b1b1b 0 26px,#232323 26px 52px) !important; display: flex; align-items: center; justify-content: center; text-align: center; font-family: 'Space Mono'; font-size: 24px; color: #9a978f; padding: 30px; }
+.duo .marca { position: absolute; inset: 0; border: 8px solid var(--morado); border-radius: 8px; }
+</style></head><body>
+
+<!-- 1 · Portada -->
+<section class="slide">
+  <div class="z" style="background-image:url(../../privado/zoom/r4-cera.jpg)"></div>
+  <div class="banda"><h1 class="titular t-xl">Esto es piel.<br><span class="morado">¿Qué es?</span></h1>
+  <p class="sub">4 rondas. Zoom extremo. Cuenta tus aciertos.</p></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">1/10</div><div class="firma">@pharaonstudio</div>
+</section>
+
+<!-- Ronda 1 -->
+<section class="slide">
+  <div class="z" style="background-image:url(../../privado/zoom/r1-escamas.jpg)"></div>
+  <div class="banda"><div class="ronda">RONDA 1 · FÁCIL</div><h2 class="titular t-m">¿Qué es?</h2><p class="sub">Piénsalo antes de deslizar.</p></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">2/10</div><div class="firma">@pharaonstudio</div>
+</section>
+<section class="slide">
+  <div class="entera" style="background-image:url(../../privado/zoom/r1-escamas-entera.jpg)"></div>
+  <div class="pie"><div class="resp">Escamas de serpiente</div><div class="cred">Medusa · antebrazo · Uri</div></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">3/10</div>
+</section>
+
+<!-- Ronda 2 -->
+<section class="slide">
+  <div class="z" style="background-image:url(../../privado/zoom/r2-pelo-lobo.jpg)"></div>
+  <div class="banda"><div class="ronda">RONDA 2</div><h2 class="titular t-m">¿Qué es?</h2><p class="sub">Piénsalo antes de deslizar.</p></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">4/10</div><div class="firma">@pharaonstudio</div>
+</section>
+<section class="slide">
+  <div class="entera" style="background-image:url(../../privado/zoom/r2-pelo-lobo-entera.jpg)"></div>
+  <div class="pie"><div class="resp">Pelo de lobo</div><div class="cred">Vikingo con piel de lobo · antebrazo · Uri</div></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">5/10</div>
+</section>
+
+<!-- Ronda 3 -->
+<section class="slide">
+  <div class="z" style="background-image:url(../../privado/zoom/r3-grieta.jpg)"></div>
+  <div class="banda"><div class="ronda">RONDA 3 · DIFÍCIL</div><h2 class="titular t-m">¿Qué es?</h2><p class="sub">Piénsalo antes de deslizar.</p></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">6/10</div><div class="firma">@pharaonstudio</div>
+</section>
+<section class="slide">
+  <div class="entera" style="background-image:url(../../privado/zoom/r3-grieta-entera.jpg)"></div>
+  <div class="pie"><div class="resp">Una grieta. Dibujada sobre piel.</div><div class="cred">Cara agrietada con vela · antebrazo · Uri</div></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">7/10</div>
+</section>
+
+<!-- Ronda 4 · bonus -->
+<section class="slide">
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">8/10</div>
+  <div class="ronda">RONDA 4 · BONUS</div>
+  <h2 class="titular t-m">Una es piel.<br>La otra, cera de verdad.</h2>
+  <div class="duo">
+    <div style="background-image:url(../../privado/zoom/r4-cera.jpg)"><span class="letra">A</span></div>
+    <div class="hueco-vela">FOTO: vela real derritiéndose. Hazla tú con el móvil, mismo encuadre, pásala a blanco y negro.<span class="letra">B</span></div>
+  </div>
+  <p style="position:absolute; left:90px; bottom:120px; font-size:40px; font-weight:700">¿A o B? Piénsalo antes de deslizar.</p>
+</section>
+<section class="slide">
+  <div class="entera" style="background-image:url(../../privado/zoom/r4-cera-entera.jpg)"></div>
+  <div class="pie"><div class="resp">La A era piel.</div><div class="cred">La cera de la vela · la misma pieza · Uri</div></div>
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">9/10</div>
+</section>
+
+<!-- 10 · Cierre -->
+<section class="slide cierre foto">
+  <div class="etiqueta">PHARAON · JUEGO 04</div><div class="contador">10/10</div>
+  <div class="frase" style="font-size:96px">¿Cuántas de 4?<br><span style="font-size:60px">Sin mentir.</span></div>
+  <p style="margin-top:36px; font-size:36px">Todo esto es piel. Realismo, por Uri (@uri.cr_tattoo).</p>
+  <div class="datos"><b>Cita previa por DM</b> · @pharaonstudio<br>Martes a sábado · 9:00-19:00<br>C/ Prolongació Falguera, 2 · Sant Feliu de Llobregat</div>
+  <div class="firma">@pharaonstudio</div>
+</section>
+
+</body></html>
