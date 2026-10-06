@@ -97,3 +97,40 @@ Tres frases fijas. Todo lo demás es improvisado:
 - [ ] La pantalla de tu móvil no sale en ningún plano
 - [ ] Unos 15 minutos sin cliente para los dos
 - [ ] La portada sin el nombre
+
+---
+
+## TOP 3 DE SOSPECHOSOS (NO compartir con quien dibuja · no está en la página del equipo)
+
+Elegidos por el Director: personajes animados muy conocidos, sin derecho a la propia imagen ni riesgo de polémica, y con rasgos muy marcados. Se elige en el momento. **Estrategia:** describir de lo más general a lo más revelador, y dejar el color y el rasgo estrella para los últimos 2-3 minutos.
+
+### 1. Homer Simpson (recomendado)
+1. Cara redonda, papada, cuello ancho.
+2. Ojos muy grandes, redondos, saltones.
+3. Calvo, casi entero.
+4. Barba de varios días, oscura, solo alrededor de la boca, como una mancha.
+5. La boca sobresale hacia delante. Expresión de no estar entendiendo nada.
+6. Últimos minutos: dos pelos curvados en lo alto de la cabeza y un pelo en zigzag sobre cada oreja.
+7. Solo al final, si hace falta: piel amarilla.
+
+### 2. Shrek (reserva)
+1. Cara muy ancha, redonda y grande. Cabeza sin pelo.
+2. Nariz ancha y chata, mofletes grandes.
+3. Ojos pequeños y simpáticos, cejas gruesas y expresivas.
+4. Sonrisa enorme, de oreja a oreja.
+5. Últimos minutos: orejas como dos tubitos o trompetillas que salen hacia los lados.
+6. Solo al final: piel verde.
+
+### 3. Gollum (si adivina rápido los otros)
+1. Cara muy delgada, huesuda, pómulos marcados.
+2. Ojos enormes, desproporcionados, muy claros, casi sin párpados.
+3. Orejas grandes y puntiagudas.
+4. Casi calvo: cuatro o cinco pelos largos y lacios.
+5. Pocos dientes, separados. Nariz pequeña y chata.
+6. Últimos minutos: piel muy pálida, casi gris. Expresión desconfiada o asustada.
+
+### Prohibido con cualquiera
+Nombre, serie o película, "es de dibujos", frases típicas ("¡D'oh!", "¡Mi tesoro!"), familia, amigos, casa, trabajo, el anillo y la ropa característica (camisa de Homer, chaleco de Shrek). Si se escapa una: se corta o sale el sello "FALTA".
+
+### Derechos
+Personajes con propiedad intelectual (Disney/Fox, DreamWorks, Warner/New Line). Dibujo a mano dentro de un juego y revelado con el nombre en texto: riesgo bajo. Nunca fotogramas, logos ni música de la serie o las películas, y nunca como reclamo.
