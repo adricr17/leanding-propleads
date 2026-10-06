@@ -212,3 +212,9 @@ Sobran en Canva, para borrar: los cinco intentos editables sin "(FINAL)" (Bingo 
 ## Cambio del usuario (06/10/2026): Nota del móvil con humor más natural
 Nota nueva: "- el nombre de mi perro ¿con la huella?" · "- algo de anime pero discreto" · "- la flor esa (ver captura)" · "- ¿brazo o pierna?" · "- preguntar si duele mucho". Traductor: "Idea clara. Pon el nombre tal cual. Lo de la huella lo vemos contigo." · "Dinos qué anime y qué parte: un símbolo, un personaje o una escena. 'Discreto' también es una pista." · "Manda la captura. Si sale borrosa, busca la original (Guía 02)." · "Pon las dos. La zona la podemos decidir juntos." · "Pregúntalo. Para eso estamos." Comentarios: "Sin vergüenza: aquí todos tenemos una." Sin chistes de ex.
 **Caption nuevo:** "Todos tenemos una nota en el móvil que se llama "Ideas tatu (no borrar)". Te la traducimos a lo que nos hace falta para dibujarla. / Comenta la línea más rara de la tuya (la nuestra favorita: "algo de anime pero discreto"). / ¿Lista para mandar? Pégala en el DM tal cual y añade el tamaño y cuándo puedes venir. La plantilla completa está en la Guía 01, fijada en el perfil. / #ideastatuaje #primertatuaje #tatuajepersonalizado #santfeliudellobregat #baixllobregat"
+
+---
+
+## Zoom extremo · versión final (06/10/2026)
+La ronda 4 ya no necesita foto de una vela: es "la de la portada" (¿Ya sabes qué es? → "Cera de una vela. Sí, también es piel."). Listo para publicar, como imágenes (tiene fotos de clientes, así que no pasa por URL pública ni por Canva).
+**Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la de la portada. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Guía 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
