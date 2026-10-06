@@ -8,7 +8,9 @@
 |---|---|---|---|---|---|
 | 1 | **Retrato robot · Exp. 001** | Producida | Mié 7 · Uri dibuja, Andrea interroga | Jue 8 | 62/80 |
 | 2 | **El Techo de PHARAON · nº 1** | Rápida | Jue 8 · sesión bocarriba de Uri (y de Meii si la hay) | Vie 9 | 55/80 |
-| 3 | **Peritos de ficción · Informe 01** | Rápida | Sáb 10 · Uri o Andrea (plan B: Andrea el miércoles) | Dom 11 (programado) | 57/80 |
+| 3 | **Peritos de ficción · Informe 01** | Rápida | **Mié 7 · Meii** (unos 15 min entre clientes) | Sáb 10 | 57/80 |
+
+> **Cambio de agenda (6 oct):** Meii también viene el miércoles. Peritos pasa al miércoles con Meii, así cada artista del núcleo lleva un vídeo y el sábado queda libre como colchón.
 
 **Reserva:** 3 realistas · 1 palabra (C01, 54/80, guion en `2026-W41-guiones-producidos.md`) · ¿Cuánto sabe tu tatuador de ti? (K07, 53/80, sin guion: depende de un cliente con un proyecto largo).
 
@@ -31,7 +33,7 @@
 - Es el hook más fuerte para un desconocido (perro + reto imposible) y funciona igual si acierta que si falla.
 - Es la idea mejor puntuada (62) y abre la serie con más recorrido.
 - Es la que más preparación necesita (dueño, 4 fotos de perros, cesiones). Si se deja para después, no se hace.
-- **Plan B:** si mañana no está todo listo, el miércoles se graba Peritos con Andrea (preparación mínima) y Retrato robot pasa al sábado con Uri y Andrea.
+- **Plan B:** si mañana no está todo listo para Retrato robot, Peritos se graba igual el miércoles con Meii y Retrato robot pasa al sábado con Uri y Andrea.
 
 ---
 
@@ -160,7 +162,7 @@ Una historia real que nadie conocía, con el silencio de la máquina haciendo de
 **CONCEPTO:** Un realista hace de perito con un tatuaje famoso de cine o series y lo tasa con seriedad técnica: horas, sesiones y si cicatrizaría como en pantalla. Al final sella el veredicto: **VEROSÍMIL** o **IMPOSIBLE**. Se juzga la ficción y no se da ningún consejo. El tatuaje se enseña con un boceto rápido del propio artista, nunca con imágenes de la serie.
 **DURACIÓN:** 32-37 s · **DIFICULTAD:** baja (un artista, unos 15 min, un formulario impreso y un tampón) · **OBJETIVO:** comentarios (apuesta y siguiente caso) y alcance. Como objetivo secundario, demuestra oficio sin enseñar trabajos.
 
-**Reparto y día:** sábado 10 con Uri o Andrea, en un hueco de unos 15 minutos. Si se graba el miércoles, mejor Andrea, para que Uri no salga dibujando en dos piezas seguidas.
+**Reparto y día:** miércoles 7 con Meii, en un hueco de unos 15 minutos entre clientes. Meii elige el caso que conozca mejor.
 
 **Casos (elige el artista: solo uno que conozca y pueda peritar con criterio):**
 | # | Caso | Época | Nota |
@@ -244,6 +246,6 @@ Un cliente con un proyecto largo y su tatuador responden por separado 5 pregunta
 ## A CONFIRMAR POR EL USUARIO
 1. **Retrato robot (para mañana):** el dueño con la cesión firmada, las 4 fotos con permiso, unos 40 minutos sin cliente para Uri y Andrea, y si el perro puede asomarse a la puerta.
 2. **Techo:** una sesión bocarriba de Uri (o de Meii) el jueves y el OK del cliente.
-3. **Peritos:** quién lo graba y qué día, que conozca el caso, el formulario impreso y el tampón rojo (si no hay tampón, una plantilla impresa).
+3. **Peritos (miércoles, Meii):** qué caso elige, el formulario impreso y el tampón rojo (si no hay tampón, una plantilla impresa).
 4. En pantalla, "Andrea" o "Avilas".
 5. Cuentas de empresa (música comercial) y documento de cesión de imagen.

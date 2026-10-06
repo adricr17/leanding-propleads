@@ -37,7 +37,7 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 - Próximos: palabra votada en comentarios · palabra de un cliente.
 
 ### PERITOS DE FICCIÓN
-- Estado: semilla (Informe 01, grabación 2026-10-10) · Tipo: rápida
+- Estado: semilla (Informe 01, grabación 2026-10-07 con Meii) · Tipo: rápida
 - Premisa: un realista tasa con seriedad técnica un tatuaje famoso de ficción: horas, sesiones, cicatrización y veredicto VEROSÍMIL / IMPOSIBLE.
 - Elementos fijos: "INFORME Nº __", tablilla con formulario, silueta, casillas, pausa antes del sello, tampón rojo, "Peritaje cerrado.", "¿Qué tatuaje de ficción peritamos ahora?".
 - Próximos: Once (Stranger Things) · Lisbeth (Millennium) · Maui · Memento · Ace (One Piece).
