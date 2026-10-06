@@ -83,12 +83,12 @@
 1. **Portada:** cuadrícula 2×3 de ojos numerados. "SEIS REALISTAS. SEIS OJOS." / "¿Cuál te tatuarías?"
 2-7. Un ojo por diapositiva, a sangre, con el número enorme. Sin nombres, y el **orden mezclado** [1 = ___, 2 = ___…]. En la 7: "¿Ya lo tienes? Comenta el número antes de deslizar."
 8. **MISMO ESTUDIO. SEIS MANOS.** La cuadrícula con cada ficha (solo nombre, @ y estilos):
-   - Uri CR · @uri.cr_tattoo · Realismo · lettering · anime
-   - Avilas · @avilastattoo · Realismo · lettering · anime
-   - Meii · @meii.tattoo · Realismo · fine line · microrrealismo · cromados · lettering · anime
-   - Siz0 · @siz0.tattoo · Realismo · lettering · anime
-   - Carlos Moreno · @carlosmoreno.es · Realismo · lettering · anime
-   - Delia · @delia.tattoo · Realismo · lettering · anime
+   - Uri CR · @uri.cr_tattoo · Realismo · lettering · anime · blackwork
+   - Avilas · @avilastattoo · Realismo · lettering · anime · blackwork
+   - Meii · @meii.tattoo · Realismo · fine line · microrrealismo · cromados · lettering · anime · blackwork
+   - Siz0 · @siz0.tattoo · Realismo · lettering · anime · blackwork
+   - Carlos Moreno · @carlosmoreno.es · Realismo · lettering · anime · blackwork
+   - Delia · @delia.tattoo · Realismo · lettering · anime · blackwork
 9. **Cierre:** "Los seis hacen realismo." + ("Si tienes artista, dilo en el DM." / "Te asignamos según tu idea.")
 
 **Variante de 4:** "CUATRO REALISTAS. CUATRO OJOS." con Uri CR, Avilas, Meii y Siz0, en 7 diapositivas.
