@@ -4,7 +4,7 @@
 
 ## SISTEMA VISUAL COMÚN
 - **Lienzo** 1080×1350 (4:5). Márgenes de seguridad: 90 px a los lados y 80 px arriba y abajo.
-- **Colores:** fondo #111111, texto y fondos claros hueso #EFEBE4, un único acento **morado de marca #A855F7** (#7E22CE sobre fondo claro), solo para huecos, la palabra clave y el contador. Sacado de la retroiluminación del logo de la recepción (ver `estudio/pharaon.md`, Identidad visual).
+- **Colores:** fondo #111111, texto y fondos claros hueso #EFEBE4, un único acento **morado de marca #9925AE** (el del botón de la web), solo para huecos, la palabra clave y el contador (ver `estudio/pharaon.md`, Identidad visual).
 - **Logo y fotos:** logo blanco en la portada; en el cierre, la foto de la pared con el logo morado oscurecida al 55 %. Archivos en `estudio/marca/`.
 - **Tipografías (Canva):** titulares en **Anton** mayúsculas (110-150 px en portada, 70-90 px dentro) · texto en **DM Sans** (38-46 px, mínimo 34) · plantillas y datos en **Space Mono** (36-42 px).
 - **Elementos fijos:**

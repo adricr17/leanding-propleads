@@ -58,4 +58,5 @@
 9. **Peritos:** qué caso elige el artista.
 
 ## Noviembre (adelanto)
+**Merch nuevo en camino** (confirmado por el usuario): en cuanto haya fecha, preparar un post de lanzamiento y una pieza de manager que no sea un anuncio disfrazado. Pasa por `creative` y `critic` como todo lo demás.
 Viernes 13 de noviembre (tradición del flash en el sector, a decidir), P02 "Has mandado el DM, ¿y ahora qué?" como segunda parte de P03, y P06 si el láser tiene fecha.
