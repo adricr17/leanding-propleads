@@ -34,7 +34,7 @@ Para cada eliminada: una línea con el motivo concreto. Sin suavizar.
 
 ## Mezcla
 
-Evalúa las piezas rápidas con su propia vara: no las penalices por ser sencillas, sino solo si no tienen hook, giro o payoff. Recomienda siempre una semana que combine 1-2 piezas producidas con 1-2 piezas rápidas (regla del usuario), no solo las de mayor puntuación absoluta.
+Evalúa las piezas de manager (voz en off + tomas de artistas trabajando, sin pararles) con su propia vara: no las penalices por ser sencillas, sino solo si no tienen hook, giro o payoff. Penaliza cualquier pieza de manager que en realidad obligue a los artistas a parar. Recomienda siempre una semana con **1 pieza producida como máximo** y el resto de manager (regla del usuario).
 
 ## Puntuación (solo las supervivientes)
 

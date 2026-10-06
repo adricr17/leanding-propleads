@@ -36,7 +36,7 @@ Un buen concepto de PHARAON:
 
 ## Mezcla obligatoria
 
-No todo puede ser competición o juego. En cada tanda, **al menos un tercio de los conceptos deben ser PIEZAS RÁPIDAS**: las graba quien lleva las redes con el móvil mientras los artistas trabajan con normalidad (sesiones reales, entre clientes, día a día), o se resuelven en menos de 30 minutos entre grabación y edición, sin parar el trabajo. Que sea rápida no la libra de los prohibidos: el interés tiene que estar en una situación, frase, pregunta o giro, nunca en el timelapse o en el resultado. Marca cada concepto como `Pieza: producida` o `Pieza: rápida`.
+Solo cabe **1 pieza producida por semana** (los artistas paran a grabar). El resto son **PIEZAS DE MANAGER**: las hace quien lleva las redes, solo, con tomas de los artistas trabajando con normalidad y **voz en off propia** + textos + montaje. En cada tanda, **al menos la mitad de los conceptos deben ser piezas de manager**, y su gancho tiene que estar en el guion de la voz en off y el montaje, no en pedir nada a los artistas. Que sea rápida no la libra de los prohibidos: el interés tiene que estar en una situación, frase, pregunta o giro, nunca en el timelapse o en el resultado. Marca cada concepto como `Pieza: producida` o `Pieza: manager`.
 
 ## Prohibido por defecto
 

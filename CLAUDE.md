@@ -89,12 +89,12 @@ Estos formatos solo pueden aprobarse si existe un giro creativo suficientemente 
 
 No todo puede ser competición o juego. Cada semana debe combinar dos tipos de pieza:
 
-- **Piezas producidas**: competiciones, juegos, calle, formatos de TV. Necesitan preparación y que los artistas paren a grabar. **Máximo 1-2 por semana.**
-- **Piezas rápidas**: las graba quien lleva las redes con el móvil **mientras los artistas trabajan con normalidad** (durante una sesión real, entre clientes, en el día a día del estudio), o cualquier cosa que se resuelva en menos de 30 minutos entre grabación y edición, sin parar el trabajo. **Al menos 1-2 por semana**, y deben ser mayoría cuando la agenda esté apretada.
+- **Pieza producida**: competiciones, juegos, calle, formatos de TV. Necesita preparación y que los artistas paren de trabajar para grabar. **Máximo 1 por semana** (regla del usuario: los artistas no pueden parar más).
+- **Piezas de manager**: el resto de la semana (normalmente 2). Las hace **quien lleva las redes, solo**: graba con el móvil tomas de los artistas **mientras trabajan con normalidad** y monta el vídeo con **voz en off propia**, textos en pantalla y edición. A los artistas no se les pide parar; como mucho una frase espontánea o algo que ya iban a hacer. Lo que sostiene el vídeo es el guion de la voz en off y el montaje, no lo que hacen los artistas para la cámara.
 
-Las piezas rápidas siguen pasando el FILTRO FINAL y la lista de PROHIBIDOS. Grabar durante una sesión no puede convertirse en timelapse ni en enseñar el resultado: el interés debe estar en una situación, una frase, una pregunta, un detalle o un giro, no en el tatuaje en sí. Cualquier cliente que aparezca necesita consentimiento.
+Las piezas de manager siguen pasando el FILTRO FINAL y la lista de PROHIBIDOS. Grabar durante una sesión no puede convertirse en timelapse ni en enseñar el resultado: el interés debe estar en una situación, una frase, una pregunta, un detalle o un giro, no en el tatuaje en sí. Cualquier cliente que aparezca necesita consentimiento.
 
-Las piezas rápidas también pueden ser series: un formato fijo y barato que se repite cada semana es el motor más sostenible de la cuenta.
+Las piezas de manager también pueden ser series: un formato fijo y barato que se repite cada semana es el motor más sostenible de la cuenta.
 
 ## FORMATOS PROPIOS
 

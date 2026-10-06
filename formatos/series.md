@@ -2,7 +2,7 @@
 
 Memoria viva de los formatos propios del estudio. El Director Creativo lo consulta antes de cada semana y lo actualiza después de cada entrega.
 
-Regla: si un formato funciona, no se abandona por buscar novedades. Cada semana combina 1-2 piezas producidas con 1-2 piezas rápidas (ver CLAUDE.md).
+Regla: si un formato funciona, no se abandona por buscar novedades. Cada semana: 1 pieza producida como máximo y el resto piezas de manager (voz en off + tomas sin parar a los artistas). Ver CLAUDE.md.
 
 ## Cómo registrar una serie
 
