@@ -1,4 +1,4 @@
-# Avilas (@avilastattoo) — Ficha de artista
+# Andrea · Avilas (@avilastattoo) — Ficha de artista
 
 > Regla: no deducir personalidad, humor, comportamiento ante cámara ni rasgos personales a partir de fotos o portfolio. Lo no declarado explícitamente queda como **PENDIENTE DE COMPLETAR**.
 
@@ -8,7 +8,7 @@
 
 | Campo | Dato | Fuente |
 |---|---|---|
-| Nombre / nombre artístico | Avilas (nombre real PENDIENTE) | [Usuario] |
+| Nombre / nombre artístico | Nombre real: **Andrea**. Nombre artístico: Avilas | [Usuario] |
 | Rol en PHARAON | Artista del estudio | [Usuario] |
 | Especialidad / estilo | Realismo. Capacitado/a también para lettering y anime | [Usuario] |
 | Descripción profesional | PENDIENTE (bio de pharaonstudio.es no accesible desde el entorno) | — |

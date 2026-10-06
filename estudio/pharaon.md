@@ -67,9 +67,9 @@ Fichas individuales en `estudio/artistas/` (plantilla: `_plantilla.md`).
 | Artista | Instagram | Estilos | Disposición a salir en vídeos |
 |---|---|---|---|
 | Uri CR (fundador) | @uri.cr_tattoo | Realismo · lettering · anime | **Muy alta**: "cualquier cosa" |
-| Avilas | @avilastattoo | Realismo · lettering · anime | **Muy alta**: "cualquier cosa" |
+| Andrea (Avilas) | @avilastattoo | Realismo · lettering · anime | **Muy alta**: "cualquier cosa" |
 | Meii | @meii.tattoo | Realismo, fine line, microrrealismo, cromados · lettering · anime | **Muy alta**: "cualquier cosa" |
-| Siz0 | @siz0.tattoo | Realismo · lettering · anime | Tímido para salir en vídeos |
+| Kike (Siz0) | @siz0.tattoo | Realismo · lettering · anime | Tímido para salir en vídeos |
 | Carlos Moreno | @carlosmoreno.es | Realismo · lettering · anime | Viene poco al estudio ahora: baja disponibilidad |
 | Delia | @delia.tattoo | Realismo · lettering · anime | Viene poco al estudio ahora: baja disponibilidad |
 
@@ -82,3 +82,7 @@ Todo el equipo se lleva muy bien. Fuente del equipo, estilos, disposición y din
 - La buena relación del equipo permite piques, competiciones y bromas entre ellos. Lo que no se sabe es **cómo** es cada uno (personalidad, humor, aficiones): no inventarlo.
 - Si un concepto necesita un dato PENDIENTE, indicarlo como requisito ("necesita confirmar X") en vez de suponerlo.
 - CTA de reserva cuando aporte valor: "cita previa por Instagram @pharaonstudio".
+
+## Agenda semanal
+
+La agenda cambia cada semana. El Director la pide al usuario y la apunta en la entrega de esa semana (`entregas/AAAA-Www.md`), no en esta ficha.

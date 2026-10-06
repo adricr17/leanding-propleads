@@ -1,4 +1,4 @@
-# Siz0 (@siz0.tattoo) — Ficha de artista
+# Kike · Siz0 (@siz0.tattoo) — Ficha de artista
 
 > Regla: no deducir personalidad, humor, comportamiento ante cámara ni rasgos personales a partir de fotos o portfolio. Lo no declarado explícitamente queda como **PENDIENTE DE COMPLETAR**.
 
@@ -8,7 +8,7 @@
 
 | Campo | Dato | Fuente |
 |---|---|---|
-| Nombre / nombre artístico | Siz0 (nombre real PENDIENTE) | [Usuario] |
+| Nombre / nombre artístico | Nombre real: **Kike**. Nombre artístico: Siz0 | [Usuario] |
 | Rol en PHARAON | Artista del estudio | [Usuario] |
 | Especialidad / estilo | Realismo. Capacitado/a también para lettering y anime | [Usuario] |
 | Descripción profesional | PENDIENTE (bio de pharaonstudio.es no accesible desde el entorno) | — |
