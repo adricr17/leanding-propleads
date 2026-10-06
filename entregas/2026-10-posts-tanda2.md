@@ -201,7 +201,7 @@ Confirmadas todas las frases [VALIDAR] de Nota del móvil, Ojos de realista, Der
 ## En Canva (06/10/2026)
 Importados como imagen (idénticos a los PNG; el texto se cambia en el HTML y se vuelve a importar, porque la importación editable desde PDF descolocaba el texto):
 - JUEGO 03 · Bingo: https://www.canva.com/d/JNOiiRkPVgZ6520
-- GUÍA 03 · Nota del móvil: https://www.canva.com/d/yrLBbIAeVERVue1
+- GUÍA 03 · Nota del móvil: https://www.canva.com/d/uI5ZBvqOFipVCcx (v2, humor natural; la versión anterior yrLBbIAeVERVue1 sobra)
 - CASA 01 · Derechos: https://www.canva.com/d/Dh85taZqp8gPOId
 - GUÍA 05 · Ticket: https://www.canva.com/d/38wWlrcqvCqS_2m
 Ojos de realista y Zoom extremo no están en Canva: llevan fotos de clientes y solo se pueden subir sin pasar por una URL pública (hace falta permitir www.canva.com en la red del entorno).
