@@ -81,4 +81,4 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 _Ninguna todavía._
 
 ## ZOOM EXTREMO (post, JUEGO 04) · nace el 06/10/2026
-Recortes extremos de trabajos del estudio que no se leen como tatuaje; la pieza entera es la respuesta. 4 rondas de fácil a difícil, la última "¿piel o foto?". Un episodio por artista (ep. 1: Uri). Reserva para el ep. 2: la catrina con rosa morada. Nunca personajes con derechos (Joker).
+Recortes extremos de trabajos del estudio que no se leen como tatuaje; la pieza entera es la respuesta. 4 rondas de fácil a difícil, la última "¿piel o foto?". Un episodio por artista (ep. 1: Uri). Reserva para el ep. 2: la catrina (recortar sin las marcas moradas del stencil). Nunca personajes con derechos (Joker).

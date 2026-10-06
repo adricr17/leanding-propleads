@@ -181,7 +181,7 @@ Trabajos de Uri con permiso de los clientes. Fotos y renders en `privado/` y `po
 1. Portada: recorte de la cera de la vela. `ESTO ES PIEL. ¿QUÉ ES?` / "4 rondas. Zoom extremo. Cuenta tus aciertos."
 2-3. Ronda 1 (fácil): escamas de serpiente → medusa del antebrazo, con el recorte marcado en morado.
 4-5. Ronda 2: pelo de lobo → vikingo con piel de lobo.
-6-7. Ronda 3 (difícil): una grieta → "Una grieta. Dibujada sobre piel." (cara agrietada con vela).
+6-7. Ronda 3 (difícil): una grieta → "Una grieta. Dibujada sobre piel." (cara agrietada con vela; recorte sin las marcas moradas del stencil).
 8-9. Ronda 4 (bonus): "Una es piel. La otra, cera de verdad. ¿A o B?" → "La A era piel." La B es una foto de una vela real que hace el manager con el móvil (en B/N y con el mismo encuadre), en vez de Pexels, que además está bloqueado en este entorno.
 10. Cierre: "¿Cuántas de 4? Sin mentir." / "Todo esto es piel. Realismo, por Uri (@uri.cr_tattoo)." + cierre fijo.
 

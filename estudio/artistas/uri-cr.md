@@ -49,7 +49,7 @@
 - https://www.instagram.com/pharaonstudio/ (vía índice del buscador)
 
 ## Trabajos aportados para contenido (06/10/2026)
-Fotos de 8 trabajos de realismo de Uri, con permiso de los clientes [Usuario]: dos medusas con serpientes (una con la piel agrietada), un vikingo con piel de lobo y ojos rojos, un guerrero griego con casco y greca, una mujer riendo, una catrina con rosa morada, un payaso con el texto "Why so serious" y una cara agrietada con vela (dos fotos de la misma pieza).
+Fotos de 8 trabajos de realismo de Uri, con permiso de los clientes [Usuario]: dos medusas con serpientes (una con la piel agrietada), un vikingo con piel de lobo y ojos rojos, un guerrero griego con casco y greca, una mujer riendo, una catrina con una rosa (el morado de la foto es del stencil, no tinta), un payaso con el texto "Why so serious" y una cara agrietada con vela (dos fotos de la misma pieza).
 - Las fotos están en `privado/trabajos/uri/`, que no se sube al repositorio porque es público.
 - El payaso "Why so serious" es un personaje con derechos: se puede enseñar como trabajo, pero nunca como portada ni como reclamo.
-- Varias piezas llevan acentos de color (rojo, morado). PENDIENTE: confirmar si el estudio hace también color completo.
+- Color: solo el vikingo lleva color (rojo). El morado que se ve en otras fotos son restos del stencil, no tinta [Usuario]. Al recortar o encuadrar, evitar las marcas de stencil o no presentarlas como color.
