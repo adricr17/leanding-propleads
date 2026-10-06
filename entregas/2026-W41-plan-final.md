@@ -4,11 +4,11 @@
 >
 > | Vídeo | Tipo | Se graba | Se publica |
 > |---|---|---|---|
-> | **Retrato robot · Exp. 001 (versión simple)** | Producida (la única) | Mié 7 · solo Uri, unos 15 min. El manager le describe un perro de un banco de imágenes libre | Jue 8 |
+> | **Retrato robot · Exp. 001 (versión simple)** | Producida (la única) | Mié 7 · dos artistas (entre Uri, Andrea y Meii): uno describe un perro de Unsplash o Pexels, otro lo dibuja en Procreate sin verlo. Unos 15 min | Jue 8 |
 > | **¿Qué suena? · Ep. 1** | Manager (voz en off) | Sonidos de martes a jueves, sin molestar | Vie 9 |
 > | **Sin contexto · Ep. 1** | Manager (voz en off) | Tomas de miércoles a viernes, sin molestar | Sáb 10 |
 >
-> Guiones de manager: `2026-W41-guiones-manager.md`. **Retrato robot: versión simple en `2026-W41-retrato-robot-v2.md`.** Solo sale gente del equipo: el manager le describe a Uri un perro de Unsplash o Pexels, y Uri lo dibuja y luego ve la foto por primera vez. Ni dueños, ni audios de fuera, ni rueda, ni Andrea. La versión de abajo queda como histórico.
+> Guiones de manager: `2026-W41-guiones-manager.md`. **Retrato robot: versión simple en `2026-W41-retrato-robot-v2.md`.** Solo sale gente del equipo: un artista describe un perro de Unsplash o Pexels, otro lo dibuja en Procreate y al final ve la foto por primera vez. El manager graba. Ni dueños, ni audios de fuera, ni rueda, ni Andrea. La versión de abajo queda como histórico.
 > **Al banco:** Peritos de ficción (pieza producida de otra semana: obliga a parar ~15 min) y Techo nº 1 (no es voz en off). Los guiones de abajo se conservan.
 > **Comodines:** si viene un acompañante en una sesión larga ("El que acompaña") o un cliente con referencias en el móvil ("La razón"), pueden sustituir a ¿Qué suena?.
 

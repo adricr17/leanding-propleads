@@ -1,80 +1,94 @@
 # RETRATO ROBOT · Exp. 001 — versión solo equipo, en iPad (vigente)
 
-> Cambios pedidos por el usuario: no se trae a nadie al estudio, y **no sale ninguna persona ajena al equipo, ni audios de fuera**. Ahora quien lleva las redes elige la foto de un perro en un banco de imágenes libre y se la describe a Uri. Uri dibuja sin verla y, al terminar, la ve por primera vez.
+> Versión final pedida por el usuario: **solo sale gente del equipo**, nadie viene al estudio, sin audios de fuera. **Dos artistas:** uno describe un perro que solo ha visto en una foto, el otro lo dibuja en el iPad sin verlo. Quien lleva las redes graba. El guion no lleva nombres: el miércoles 7 están Uri, Andrea y Meii, y se propone a los tres para ver quién quiere cada papel.
 
-**CONCEPTO:** Uri dibuja en 10 minutos a un perro que nunca ha visto, solo con la descripción que le da quien lleva las redes. Al final ve la foto real por primera vez, delante de la cámara.
+**CONCEPTO:** Quien dibuja tiene 10 minutos para retratar en Procreate a un perro que nunca ha visto, solo con lo que le cuenta quien describe, que tiene la foto. Al final, quien dibuja ve la foto real por primera vez.
 **OBJETIVO:** comentarios ("del 1 al 10, ¿se parece?") y alcance.
-**DURACIÓN:** 40-50 s. **DIFICULTAD:** baja. Solo para Uri, unos 15 minutos.
-**SOPORTE:** iPad, que es donde diseñan en el estudio (confirmado por el usuario). La app está por confirmar (probablemente Procreate).
-**GRABACIÓN:** miércoles 7 (o el día que Uri tenga hueco). **PUBLICACIÓN:** jueves 8.
+**DURACIÓN:** 45-55 s. **DIFICULTAD:** baja. Dos artistas paran unos 15 minutos. Es la única pieza producida de la semana.
+**SOPORTE:** iPad con Procreate.
+**GRABACIÓN:** miércoles 7. **PUBLICACIÓN:** jueves 8.
 
-## LA FOTO: de dónde sacarla (importante)
-- **Sí:** bancos de imágenes gratuitos con licencia de uso comercial: **Unsplash** (unsplash.com) o **Pexels** (pexels.com). Busca "dog", elige una foto de frente y nítida, y descárgala. Apunta el enlace por si alguna vez te preguntan.
-- **No:** Google Imágenes, Instagram, Pinterest ni perros famosos de memes. Esas fotos tienen dueño, y usarlas en un vídeo de un negocio puede acabar en una reclamación o en el vídeo bloqueado.
-- **Mejor un perro con algo reconocible** (una mancha, unas orejas raras, una expresión). Si es un perro sin rasgos, la comparación final no tiene gracia.
-- Uri no puede ver la foto antes. Tenla solo en tu móvil.
+## Los papeles
+| Papel | Qué hace | Qué necesita |
+|---|---|---|
+| **Quien describe** | Mira la foto en tu móvil y describe al perro como si se lo contara a la policía, sin decir la raza. Contesta a las preguntas. Puede reaccionar a lo que va saliendo, pero **nunca enseña la foto ni señala la pantalla** | Hablar a cámara (de lado, mirando a quien dibuja) |
+| **Quien dibuja** | Dibuja 10 minutos en Procreate solo con lo que oye. Puede preguntar todo lo que quiera. Al final ve la foto | Que no haya visto la foto, ni la miniatura en tu móvil |
+| **Quien graba (tú)** | Elige la foto, controla el tiempo y graba. No describe | — |
 
-## CÓMO DESCRIBIRLO (tú, fuera de plano)
-- Describe como si se lo contaras a la policía: forma de la cara, orejas, hocico, tamaño, pelo, color, manchas y la expresión ("cara de preocupado").
-- **Sin decir la raza.**
-- Uri puede preguntarte lo que quiera, y tú contestas solo con lo que se ve en la foto.
-- No hace falta guion: lo que digas se graba y en el montaje te quedas con las mejores frases.
+Con tres artistas en el estudio, el tercero puede seguir trabajando. Si le apetece, puede asomarse a mirar de fondo, pero no es necesario.
+
+## LA FOTO
+- Solo de **Unsplash** (unsplash.com) o **Pexels** (pexels.com), con licencia de uso comercial. Nunca de Google, Instagram ni Pinterest, ni perros famosos de memes.
+- De frente, nítida y con algún rasgo reconocible: una mancha, unas orejas raras, una expresión.
+- **Solo la ven tú y quien describe.** Dásela en tu móvil justo antes de empezar.
 
 ## HOOK (0-3 s)
-- **Imagen:** el iPad con el lienzo en blanco y el Apple Pencil de Uri quieto encima, en plano picado por encima de su hombro.
-- **Texto:** "Uri no ha visto nunca a este perro." y, a los 1,5 s, "Solo tiene mi descripción. 10 minutos."
-- **Audio:** tu voz con la frase más rara de la descripción (la eliges al montar).
+- **Imagen:** plano por encima del hombro de quien dibuja: el iPad con el lienzo en blanco y el Pencil quieto. Al lado, quien describe mira tu móvil.
+- **Texto:** "[QUIEN DIBUJA] no ha visto nunca a este perro." y, a los 1,5 s, "[QUIEN DESCRIBE] sí. 10 minutos."
+- **Audio:** la primera frase de quien describe, o la más rara que diga (la eliges al montar).
 
 ## DESARROLLO
 | Tiempo | Plano | Audio | Texto |
 |---|---|---|---|
-| 0-3 s | Hook | Tu frase más rara | "Uri no ha visto nunca a este perro." / "Solo tiene mi descripción. 10 minutos." |
-| 3-6 s | Arranca el temporizador y el primer trazo | Tu descripción | "RETRATO ROBOT · EXP. 001" + 10:00 |
-| 6-18 s | Cortes entre la **grabación de pantalla del iPad** (trazos a velocidad real), la cara de Uri escuchando y su mano con el Pencil | Trozos de la descripción y preguntas de Uri (espontáneas) | Subtítulos |
-| 18-22 s | Salto a 05:00. Uri deshace o borra algo (en pantalla) | — | "05:00" |
-| 22-26 s | Últimos trazos, temporizador en rojo | — | "00:10" → "LÁPIZ ABAJO" |
-| 26-29 s | El dibujo terminado, quieto | Silencio | "¿Se parecerá? Puntúa del 1 al 10 antes de verlo" |
-| 29-33 s | Le das el móvil a Uri con la foto y la ve por primera vez | Lo que diga, espontáneo | — |
-| 33-40 s | En edición, la foto real entra deslizándose al lado del dibujo | La reacción de Uri sigue | "EL PERRO DE VERDAD" + sello "CASO CERRADO" (si se parece) o "CASO ABIERTO" (si no) |
-| 40-44 s | Se queda el plano | — | "EXP. 001" |
+| 0-3 s | Hook | Mejor frase de quien describe | "[QUIEN DIBUJA] no ha visto nunca a este perro." / "[QUIEN DESCRIBE] sí. 10 minutos." |
+| 3-6 s | Arranca el temporizador y el primer trazo (pantalla del iPad) | Empieza la descripción | "RETRATO ROBOT · EXP. 001" + 10:00 |
+| 6-20 s | Cortes entre la pantalla del iPad (trazos a velocidad real), la cara de quien describe mirando la foto y la cara de quien dibuja escuchando | Descripción y preguntas (todo espontáneo) | Subtítulos |
+| 20-24 s | Salto a 05:00. Quien describe mira cómo va el dibujo | Lo que diga, espontáneo ("no, más…") | "05:00" |
+| 24-28 s | Últimos trazos, temporizador en rojo | — | "00:10" → "LÁPIZ ABAJO" |
+| 28-31 s | El dibujo terminado, quieto | Silencio | "¿Se parecerá? Puntúa del 1 al 10 antes de verlo" |
+| 31-36 s | Quien describe le da la vuelta al móvil y quien dibuja ve la foto por primera vez | Reacción espontánea de los dos | — |
+| 36-44 s | En edición, la foto real entra deslizándose al lado del dibujo | Sigue la reacción | "EL PERRO DE VERDAD" + sello "CASO CERRADO" (si se parece) o "CASO ABIERTO" (si no) |
+| 44-48 s | Se queda el plano | — | "EXP. 001" |
 
-## ANTES DE EMPEZAR (en el iPad, 2 minutos)
-- **Lienzo nuevo y vacío.** Que no haya ninguna capa ni imagen de referencia abierta: Uri dibuja solo de oídas.
-- **Activa la grabación de pantalla del iPad** (Centro de control > botón de grabar) justo antes de arrancar el temporizador. Graba los trazos a velocidad real y en calidad perfecta. Si no aparece el botón: Ajustes > Centro de control > añadir "Grabación de pantalla".
-- **Modo No molestar** en el iPad, para que no salten notificaciones en la grabación.
-- **No uses el vídeo "time-lapse" que exporta Procreate como base del montaje:** acelera el dibujo y convierte el vídeo en un timelapse, que es lo que no queremos. Como mucho, sirve para un plano de 1 segundo.
-- **Brillo del iPad alto** y sin una luz justo encima, para evitar reflejos en los planos grabados con el móvil.
+## GUION
+**No hay frases que aprenderse.** Solo tres cosas fijas:
+- Quien describe arranca con: **"Sin fotos. Te lo describo."**
+- Al acabar el tiempo, cualquiera de los dos dice: **"Lápiz abajo."**
+- Quien describe le da la vuelta al móvil y dice: **"Este es."**
 
-## TOMAS EXACTAS (tú grabas; Uri solo dibuja)
-1. **Grabación de pantalla del iPad**, los 10 minutos enteros. Es el plano principal del dibujo.
-2. **Por encima del hombro de Uri**, con tu móvil fijo apoyado o en trípode: se ven su mano, el Pencil y el iPad. Graba los 10 minutos. **Tu voz se graba desde aquí**, así que habla cerca.
-3. **Cara de Uri escuchando**, con el móvil en mano en los momentos en que dejas de describir: 3-4 clips de 5 s.
-4. **Temporizador** (puede ser el del móvil, en pantalla) a 10:00, a 05:00 y los últimos 10 s.
-5. **La reacción:** plano medio de Uri mientras mira tu móvil con la foto. Una sola toma, sin repetir y sin avisarle de qué va a ver.
-6. Al terminar, **exporta el dibujo como imagen** (PNG) desde el iPad para ponerlo al lado de la foto real.
+Todo lo demás es improvisado: la descripción, las preguntas y las reacciones. Pistas para quien describe, por si se queda en blanco: forma de la cara, orejas, hocico, tamaño, pelo, color, manchas y "qué cara pone" (preocupado, chulo, dormido…).
+
+## ANTES DE EMPEZAR (2 minutos)
+1. Propón los papeles a los tres y que elijan. Quien dibuja **no puede ver la foto**: no la abras delante.
+2. **iPad:** lienzo nuevo y vacío en Procreate, sin capas ni referencias. Modo No molestar y brillo alto.
+3. **Activa la grabación de pantalla del iPad** (Centro de control) justo antes de arrancar. Si no aparece el botón: Ajustes > Centro de control > "Grabación de pantalla".
+4. **No uses el time-lapse que exporta Procreate como base:** acelera el dibujo y lo convierte en un timelapse. Como mucho, 1 segundo de recurso.
+5. Temporizador de 10 minutos visible (en tu móvil o en otro).
+
+## TOMAS EXACTAS (tú, con el móvil)
+1. **Grabación de pantalla del iPad**, los 10 minutos. Es el plano principal del dibujo.
+2. **Plano de los dos**, con el móvil fijo apoyado a 1-1,5 m: se ven quien describe con tu móvil y quien dibuja con el iPad. Graba los 10 minutos: de aquí sale el audio de la conversación, así que cerca de ellos.
+3. **Cara de quien describe** mirando la foto y luego el iPad: 3-4 clips de 5 s, con el móvil en mano.
+4. **Cara de quien dibuja** escuchando: 3-4 clips de 5 s.
+5. **Temporizador** a 10:00, a 05:00 y los últimos 10 s.
+6. **La reacción:** plano de los dos cuando quien describe da la vuelta al móvil. Una sola toma, sin repetir.
+7. Al terminar, **exporta el dibujo como PNG** desde Procreate.
+
+Si solo tienes un móvil, deja fijo el plano 2 todo el rato (el audio es lo más importante) y la grabación de pantalla hace el resto. Los primeros planos son un extra.
 
 ## EDICIÓN (CapCut)
-- Corte cada 2-3 s, alternando la pantalla del iPad, la mano con el Pencil y la cara de Uri. **Nada de acelerar el dibujo:** el temporizador salta entre cortes.
-- La grabación de pantalla es horizontal o con otra proporción: en 9:16 ponla en la mitad superior y la cara o la mano de Uri en la inferior, o recórtala al trozo en el que esté dibujando.
-- Tu voz, limpia y subtitulada. Música de tensión de la biblioteca comercial, baja, que se corta en la pausa.
-- El final: el PNG del dibujo a la izquierda y la foto real entrando desde la derecha, al mismo tamaño. Sello rojo como sticker o texto. Tipografía de máquina de escribir para "EXP. 001".
+- Corte cada 2-3 s, alternando la pantalla del iPad, la cara de quien describe y la de quien dibuja. **Nada de acelerar el dibujo:** el temporizador salta entre cortes.
+- La grabación del iPad no es vertical: ponla en la mitad superior y las caras en la inferior, o recorta la zona en la que se dibuja.
+- Subtítulos de toda la conversación. Música de tensión de la biblioteca comercial, baja, que se corta en la pausa.
+- El final: el PNG del dibujo a la izquierda y la foto real entrando desde la derecha, al mismo tamaño. Sello rojo. "EXP. 001" en tipografía de máquina de escribir.
+- En pantalla, los nombres que elijan (y "Andrea" o "Avilas", según se decida). Nunca adjetivos con género.
 - Portada: dibujo y foto lado a lado con "¿SE PARECE?".
 
 ## CTA Y CAPTION
 - En la pausa: "Puntúa del 1 al 10."
-- Caption: "Expediente 001: una descripción, cero fotos y 10 minutos. ¿Cuánto le das del 1 al 10? ¿Qué animal le describimos la próxima vez?" #retratorobot #perros #tatuajerealista #dibujorealista #santfeliudellobregat
-- Opcional en la descripción del vídeo: "Foto: [autor] en Unsplash/Pexels". No es obligatorio, pero queda bien.
+- Caption: "Expediente 001: uno lo ve, el otro lo dibuja sin verlo. 10 minutos. ¿Cuánto le das del 1 al 10? ¿Qué animal les ponemos la próxima vez?" #retratorobot #perros #tatuajerealista #procreate #santfeliudellobregat
+- Opcional en la descripción del vídeo: "Foto: [autor] en Unsplash/Pexels".
 
 ## POR QUÉ PUEDE FUNCIONAR
-- **Respuesta al scroll:** "dibujar a un perro que nunca has visto, solo de oídas" se entiende en un segundo, y los perros enganchan a cualquiera.
-- La pausa convierte al que lo ve en juez.
-- La reacción de Uri al ver la foto es real y no se puede fingir. Acierte o falle, el vídeo funciona.
-- **Es serie sin depender de nadie:** cada semana otro animal (gato, caballo, un pájaro raro) y otro artista dibujando, siempre con fotos de bancos libres.
+- **Respuesta al scroll:** "dibujar a un perro que no has visto, solo de oídas" se entiende en un segundo, y los perros enganchan a cualquiera.
+- La conversación entre los dos ("¿las orejas cómo?", "no, más tristes") es entretenimiento real y enseña cómo son sin inventar nada.
+- La pausa convierte al que lo ve en juez, y la reacción final no se puede fingir. Acierte o falle, el vídeo funciona.
+- **Serie sin depender de nadie de fuera:** cada semana otro animal y otra pareja de artistas. Con el tiempo, una tabla de "quién describe mejor".
 
 ## CHECKLIST
 - [ ] Foto de Unsplash o Pexels, de frente, con algún rasgo reconocible
-- [ ] Uri no la ha visto
+- [ ] Papeles elegidos. Quien dibuja no ha visto la foto
 - [ ] Lienzo vacío, grabación de pantalla activada y No molestar en el iPad
-- [ ] Unos 15 minutos de Uri sin cliente
-- [ ] La reacción, en una sola toma y sin avisar
+- [ ] Unos 15 minutos sin cliente para los dos
+- [ ] La reacción, en una sola toma
 - [ ] Textos fuera de la zona inferior y derecha · música de biblioteca

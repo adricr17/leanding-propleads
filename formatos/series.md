@@ -26,8 +26,8 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 
 ### RETRATO ROBOT
 - Estado: semilla (ep. 1 grabación 2026-10-07) · Tipo: producida
-- Premisa (versión solo equipo, W41): el manager elige una foto de un banco libre (Unsplash/Pexels) y se la describe a un realista sin enseñársela. El realista dibuja 10 min y al final ve la foto por primera vez.
-- Elementos fijos: "Solo tiene mi descripción", "EXP. 00X", temporizador de 10:00, pausa "Puntúa del 1 al 10", reacción real al ver la foto, foto deslizándose, sello "CASO CERRADO/ABIERTO".
+- Premisa (versión solo equipo, W41): un artista mira la foto de un perro (Unsplash o Pexels) y la describe sin decir la raza; otro la dibuja en Procreate en 10 min sin verla y al final ve la foto por primera vez. El manager graba.
+- Elementos fijos: "[Quien dibuja] no ha visto nunca a este perro. [Quien describe] sí.", "Sin fotos. Te lo describo.", "Lápiz abajo.", "Este es.", "EXP. 00X", temporizador de 10:00, pausa "Puntúa del 1 al 10", reacción real al ver la foto, foto deslizándose, sello "CASO CERRADO/ABIERTO".
 - Próximos: otro animal (gato, caballo, pájaro raro) y otro artista. Nunca fotos de Google o Instagram.
 
 ### 3 REALISTAS · 1 PALABRA

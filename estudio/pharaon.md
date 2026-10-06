@@ -46,7 +46,7 @@ Leyenda de fuentes:
 
 ## Herramientas de trabajo
 
-- Los diseños se hacen en **iPad** [Usuario]. La app concreta está PENDIENTE (probablemente Procreate). En los vídeos, la grabación de pantalla del iPad es un recurso disponible, pero nunca como timelapse.
+- Los diseños se hacen en **iPad** [Usuario]. La app es **Procreate** [Usuario]. En los vídeos, la grabación de pantalla del iPad es un recurso disponible, pero nunca como timelapse.
 
 ## Posicionamiento e identidad
 
