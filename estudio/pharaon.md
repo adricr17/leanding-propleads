@@ -44,6 +44,10 @@ Leyenda de fuentes:
 - **Lettering y anime: cualquiera de los 6 artistas puede hacerlos.** [Usuario]
 - Fine line, microrrealismo, cromados y otros: lo hace Meii. [Usuario]
 
+## Herramientas de trabajo
+
+- Los diseños se hacen en **iPad** [Usuario]. La app concreta está PENDIENTE (probablemente Procreate). En los vídeos, la grabación de pantalla del iPad es un recurso disponible, pero nunca como timelapse.
+
 ## Posicionamiento e identidad
 
 - Un estudio con 6 artistas de realismo es una ventaja para el contenido: permite competiciones, comparativas y retos entre especialistas del mismo estilo, cosa que un estudio con un artista por estilo no puede hacer.
