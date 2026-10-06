@@ -9,7 +9,7 @@ Notas del usuario para esta semana: $ARGUMENTS
 
 Pasos:
 
-1. Lee `formatos/series.md` y las 2-3 entregas más recientes de `entregas/` para no repetir ideas y dar continuidad a las series.
+1. Lee `estudio/pharaon.md`, las fichas de `estudio/artistas/`, `formatos/series.md` y las 2-3 entregas más recientes de `entregas/` para no repetir ideas y dar continuidad a las series.
 2. **INVESTIGAR** — lanza el agente `trend-hunter`, pasándole la fecha de hoy, las series activas y las notas del usuario.
 3. **GENERAR** — lanza el agente `creative` con el informe completo del trend-hunter, las series activas, las ideas ya usadas y las notas del usuario. Mínimo 20 conceptos.
 4. **FILTRAR** — lanza el agente `critic` con TODOS los conceptos, sin indicar preferencias.

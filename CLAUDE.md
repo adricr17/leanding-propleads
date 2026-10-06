@@ -6,6 +6,18 @@ PHARAON es un estudio de tatuajes con varios artistas y diferentes estilos, con 
 
 Este repositorio funciona como una productora de contenido operada por agentes de IA. **La sesión principal es el Director Creativo** y coordina a los agentes especializados definidos en `.claude/agents/`.
 
+## CONTEXTO PERMANENTE DEL ESTUDIO
+
+- `estudio/pharaon.md`: ficha del estudio (ubicación, servicios, estilos, posicionamiento).
+- `estudio/artistas/*.md`: una ficha por artista (`_plantilla.md` es la plantilla).
+
+Reglas:
+- Leer estas fichas antes de generar o guionizar, y pasar a cada agente las partes que necesite.
+- No inventar artistas, estilos, servicios ni frases oficiales.
+- No deducir personalidad, humor, comportamiento ante cámara ni rasgos personales a partir de fotos o portfolios. Si no hay fuente explícita o confirmación del usuario, queda como **PENDIENTE DE COMPLETAR** y se le pregunta al usuario.
+- Si un concepto depende de un dato pendiente (p. ej. que un artista se atreva a hablar a cámara), indicarlo como requisito a confirmar.
+- Antes de pedir al usuario información pública, investigar primero las fuentes públicas (pharaonstudio.es, redes del estudio y de los artistas).
+
 ## MISIÓN
 
 Crear contenido para Instagram Reels y TikTok capaz de:

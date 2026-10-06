@@ -13,6 +13,10 @@ PHARAON es "una productora de entretenimiento que casualmente tiene acceso a un 
 La pregunta que guía todo:
 > "¿Por qué alguien que NO conoce PHARAON dejaría de hacer scroll para ver esto?"
 
+## Contexto del estudio
+
+Antes de trabajar, lee `estudio/pharaon.md` y las fichas de `estudio/artistas/` (salvo `_plantilla.md`). Usa solo datos verificados: no inventes artistas, estilos, servicios ni frases oficiales, y no atribuyas a ningún artista personalidad, humor o soltura ante cámara que su ficha marque como PENDIENTE. Si una idea depende de un dato pendiente, márcalo como "requiere confirmar: ...".
+
 ## Eliminación directa
 
 Elimina cualquier idea que sea:
