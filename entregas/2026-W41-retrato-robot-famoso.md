@@ -102,7 +102,7 @@ Tres frases fijas. Todo lo demás es improvisado:
 
 ## TOP 3 DE SOSPECHOSOS (NO compartir con quien dibuja · no está en la página del equipo)
 
-Elegidos por el Director: personajes animados muy conocidos, sin derecho a la propia imagen ni riesgo de polémica, y con rasgos muy marcados. Se elige en el momento. **Estrategia:** describir de lo más general a lo más revelador, y dejar el color y el rasgo estrella para los últimos 2-3 minutos.
+Elegidos por el Director: dos personajes animados (sin riesgo de imagen ni de polémica) y una persona real, a petición del usuario. Todos muy conocidos y con rasgos muy marcados. Se elige en el momento. **Estrategia:** describir de lo más general a lo más revelador, y dejar el color y el rasgo estrella para los últimos 2-3 minutos.
 
 ### 1. Homer Simpson (recomendado)
 1. Cara redonda, papada, cuello ancho.
@@ -121,16 +121,21 @@ Elegidos por el Director: personajes animados muy conocidos, sin derecho a la pr
 5. Últimos minutos: orejas como dos tubitos o trompetillas que salen hacia los lados.
 6. Solo al final: piel verde.
 
-### 3. Gollum (si adivina rápido los otros)
-1. Cara muy delgada, huesuda, pómulos marcados.
-2. Ojos enormes, desproporcionados, muy claros, casi sin párpados.
-3. Orejas grandes y puntiagudas.
-4. Casi calvo: cuatro o cinco pelos largos y lacios.
-5. Pocos dientes, separados. Nariz pequeña y chata.
-6. Últimos minutos: piel muy pálida, casi gris. Expresión desconfiada o asustada.
+### 3. Keanu Reeves (persona real; sustituye a Gollum a petición del usuario)
+Elegido por ser muy conocido en España a cualquier edad, por su fama de famoso poco polémico, sin vínculo con política ni fútbol, y por tener rasgos faciales claros. **Antes de grabar, comprobar en las noticias de esa mañana que no haya ninguna polémica reciente** (la información del Director no llega al día de hoy).
+1. Cara alargada, mandíbula marcada.
+2. Cejas oscuras y rectas, ojos oscuros y algo caídos, mirada un poco triste o cansada.
+3. Nariz recta, labios finos.
+4. Barba oscura de varias semanas, poco cuidada, que cubre la mandíbula y el bigote.
+5. Últimos minutos: pelo oscuro y largo, por los hombros, con raya al medio, cayendo a los dos lados de la cara.
+6. Si hace falta: expresión muy seria, casi sin gesto.
+
+**Prohibido además:** decir que es actor, el país, películas, personajes o frases (Matrix, John Wick, Neo, las pastillas), su vida personal y los memes. **Regla extra por ser persona real:** solo se describe la cara; nada de físico, edad ni vida. El nombre solo sale en la revelación: sin etiquetar, sin foto y nunca en la portada.
+
+**Descartados como persona real:** futbolistas (riesgo de guerra de equipos en los comentarios), políticos (campaña) y fallecidos con herederos que explotan su imagen (Freddie Mercury, Einstein, Dalí, Frida).
 
 ### Prohibido con cualquiera
-Nombre, serie o película, "es de dibujos", frases típicas ("¡D'oh!", "¡Mi tesoro!"), familia, amigos, casa, trabajo, el anillo y la ropa característica (camisa de Homer, chaleco de Shrek). Si se escapa una: se corta o sale el sello "FALTA".
+Nombre, serie o película, "es de dibujos", frases típicas ("¡D'oh!", "¡Mi tesoro!"), familia, amigos, casa, trabajo, y la ropa característica (camisa de Homer, chaleco de Shrek). Si se escapa una: se corta o sale el sello "FALTA".
 
 ### Derechos
-Personajes con propiedad intelectual (Disney/Fox, DreamWorks, Warner/New Line). Dibujo a mano dentro de un juego y revelado con el nombre en texto: riesgo bajo. Nunca fotogramas, logos ni música de la serie o las películas, y nunca como reclamo.
+Los personajes animados tienen propiedad intelectual (Disney/Fox, DreamWorks). La persona real tiene derecho a la propia imagen: se usa solo dentro del juego, nunca como reclamo. Dibujo a mano dentro de un juego y revelado con el nombre en texto: riesgo bajo. Nunca fotogramas, logos ni música de la serie o las películas, y nunca como reclamo.
