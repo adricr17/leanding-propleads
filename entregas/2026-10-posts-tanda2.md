@@ -195,3 +195,14 @@ Fuera por decisión del critic: los dientes, el guerrero griego y el Joker (dere
 
 ## Validación del usuario (06/10/2026)
 Confirmadas todas las frases [VALIDAR] de Nota del móvil, Ojos de realista, Derechos y Ticket. Ticket: DISEÑO PERSONALIZADO = INCLUIDO; COLOR = DEPENDE (en sesión de realismo no cambia el precio; en minis, microrrealismo o piezas pequeñas y medianas, sí suma); HORAS = "Cuantas más horas de trabajo, más cuenta". "Lo que no suma" usa "NADA" en vez de cifras.
+
+---
+
+## En Canva (06/10/2026)
+Importados como imagen (idénticos a los PNG; el texto se cambia en el HTML y se vuelve a importar, porque la importación editable desde PDF descolocaba el texto):
+- JUEGO 03 · Bingo: https://www.canva.com/d/JNOiiRkPVgZ6520
+- GUÍA 03 · Nota del móvil: https://www.canva.com/d/yrLBbIAeVERVue1
+- CASA 01 · Derechos: https://www.canva.com/d/Dh85taZqp8gPOId
+- GUÍA 05 · Ticket: https://www.canva.com/d/38wWlrcqvCqS_2m
+Ojos de realista y Zoom extremo no están en Canva: llevan fotos de clientes y solo se pueden subir sin pasar por una URL pública (hace falta permitir www.canva.com en la red del entorno).
+Sobran en Canva, para borrar: los cinco intentos editables sin "(FINAL)" (Bingo ×2, Nota, Derechos, Ticket) y el primer borrador en formato historia del DM.
