@@ -9,8 +9,8 @@
 | Campo | Dato | Fuente |
 |---|---|---|
 | Nombre / nombre artístico | Uri CR. Se presenta como "URI CR \| TATUADOR PROFESIONAL" | [Índice TikTok] |
-| Rol en PHARAON | Artista del estudio, confirmado por el usuario. Según el índice de búsqueda, la cuenta de Instagram del estudio está vinculada a @uri.cr_tattoo. **Rol exacto (¿fundador? ¿gestiona las redes?) PENDIENTE** | [Usuario], [Índice IG] |
-| Especialidad / estilo | Realismo ("tatuaje realista", "tatuajes realistas · diseños únicos") | [Índice TikTok] |
+| Rol en PHARAON | **Fundador** del estudio, además de artista. Las redes del estudio NO las lleva él: las gestiona el usuario | [Usuario] |
+| Especialidad / estilo | Realismo ("tatuaje realista", "tatuajes realistas · diseños únicos"). Capacitado también para lettering y anime | [Índice TikTok], [Usuario] |
 | Descripción profesional | **PENDIENTE** (falta la bio de la web oficial) | — |
 | Instagram | @uri.cr_tattoo — sus vídeos indican que atiende consultas por Instagram | [Índice TikTok] |
 | TikTok | @uri.cr_tattoo (cuenta activa con vídeos de proyectos) | [Índice TikTok] |
@@ -33,12 +33,12 @@
 |---|---|
 | Personalidad | PENDIENTE DE COMPLETAR |
 | Sentido del humor | PENDIENTE DE COMPLETAR |
-| Disposición a salir en vídeos | **Alta**: según el usuario, de los artistas que más se atreven a hacer vídeos. Qué tipo de vídeo exactamente: PENDIENTE |
-| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | PENDIENTE DE COMPLETAR |
+| Disposición a salir en vídeos | **Muy alta**: según el usuario está dispuesto/a a hacer "cualquier cosa" en vídeo (hablar, improvisar, humor, calle...). Es de los que más se atreven. |
+| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | Sí (según el usuario, "cualquier cosa") |
 | Límites | PENDIENTE DE COMPLETAR |
 | Aficiones / intereses aprovechables | PENDIENTE DE COMPLETAR (que tatúe mitología o Marvel no significa que sea fan) |
 | Frases, manías, running jokes | PENDIENTE DE COMPLETAR |
-| Dinámica con otros artistas | PENDIENTE DE COMPLETAR |
+| Dinámica con otros artistas | Muy buena relación con el resto del equipo (según el usuario). |
 
 ## Fuentes
 

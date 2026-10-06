@@ -10,7 +10,7 @@
 |---|---|---|
 | Nombre / nombre artístico | Meii | [Usuario] |
 | Rol en PHARAON | Artista del estudio | [Usuario] |
-| Especialidad / estilo | Realismo; además fine line, microrrealismo, cromados y otros ("etc.": lista completa PENDIENTE) | [Usuario] |
+| Especialidad / estilo | Realismo; además fine line, microrrealismo, cromados y otros (lista completa PENDIENTE). Capacitado/a también para lettering y anime | [Usuario] |
 | Descripción profesional | PENDIENTE (bio de pharaonstudio.es no accesible desde el entorno) | — |
 | Instagram | @meii.tattoo | [Usuario] |
 | TikTok / otras redes | PENDIENTE | — |
@@ -25,14 +25,14 @@
 
 | Campo | Dato |
 |---|---|
-| Disposición a salir en vídeos | **Alta** — según el usuario, de los artistas que más se atreven a hacer vídeos. Qué tipo de vídeo exactamente: PENDIENTE |
+| Disposición a salir en vídeos | **Muy alta**: según el usuario está dispuesto/a a hacer "cualquier cosa" en vídeo (hablar, improvisar, humor, calle...). Es de los que más se atreven. |
 | Personalidad | PENDIENTE DE COMPLETAR |
 | Sentido del humor | PENDIENTE DE COMPLETAR |
-| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | PENDIENTE DE COMPLETAR |
+| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | Sí (según el usuario, "cualquier cosa") |
 | Límites | PENDIENTE DE COMPLETAR |
 | Aficiones / intereses aprovechables | PENDIENTE DE COMPLETAR |
 | Frases, manías, running jokes | PENDIENTE DE COMPLETAR |
-| Dinámica con otros artistas | PENDIENTE DE COMPLETAR |
+| Dinámica con otros artistas | Muy buena relación con el resto del equipo (según el usuario). |
 
 ## Historial de contenido en PHARAON
 

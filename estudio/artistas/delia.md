@@ -10,7 +10,7 @@
 |---|---|---|
 | Nombre / nombre artístico | Delia | [Usuario] |
 | Rol en PHARAON | Artista del estudio | [Usuario] |
-| Especialidad / estilo | Realismo | [Usuario] |
+| Especialidad / estilo | Realismo. Capacitado/a también para lettering y anime | [Usuario] |
 | Descripción profesional | PENDIENTE (bio de pharaonstudio.es no accesible desde el entorno) | — |
 | Instagram | @delia.tattoo | [Usuario] |
 | TikTok / otras redes | PENDIENTE | — |
@@ -23,14 +23,14 @@
 
 | Campo | Dato |
 |---|---|
-| Disposición a salir en vídeos | **Menor que la de Uri, Avilas y Meii** (según el usuario no está entre los que más se atreven). No asumir que se niega: preguntar qué estaría dispuesto/a a hacer (p. ej. salir sin hablar, solo manos, voz en off). PENDIENTE |
+| Disposición a salir en vídeos | **Baja disponibilidad**: según el usuario, ahora viene poco por el estudio y no sale en muchos vídeos. No planificar vídeos que dependan de su presencia sin confirmarlo antes. |
 | Personalidad | PENDIENTE DE COMPLETAR |
 | Sentido del humor | PENDIENTE DE COMPLETAR |
 | ¿Acepta hablar a cámara / improvisar / hacer el tonto? | PENDIENTE DE COMPLETAR |
 | Límites | PENDIENTE DE COMPLETAR |
 | Aficiones / intereses aprovechables | PENDIENTE DE COMPLETAR |
 | Frases, manías, running jokes | PENDIENTE DE COMPLETAR |
-| Dinámica con otros artistas | PENDIENTE DE COMPLETAR |
+| Dinámica con otros artistas | Muy buena relación con el resto del equipo (según el usuario). |
 
 ## Historial de contenido en PHARAON
 
