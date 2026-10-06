@@ -123,3 +123,31 @@ Selección sobre **todas** las valoraciones del critic de la semana (tres rondas
 | Reserva | ¿Cuánto sabe tu tatuador de ti? (K07) | creative, tanda K | 53 | Comercial y relación con el cliente |
 
 Descartadas pese a su puntuación: ¿Foto o tatuaje? (59: 2 h de calle, inviable esta semana), Te leo la vida (56: revisión ética pendiente) y ¿Qué había ahí? (56: no hay láser).
+
+---
+
+# INFORME DEL CRITIC — PIEZAS DE MANAGER (resumen)
+
+Regla nueva del usuario: como máximo 1 pieza producida por semana. El resto las hace el manager solo, con tomas de los artistas trabajando y voz en off.
+
+De 19 conceptos (más el Techo como comparación) sobreviven 8, y ninguno pasa de 53/80.
+
+| Concepto | Total | ¿Esta semana? | Veredicto |
+|---|---|---|---|
+| R06 Techo nº 1 (comparación) | 53 | Sí, si hay un cliente bocarriba | Aprobar con cambios. No es voz en off y depende de la respuesta del artista |
+| M19 Sin contexto | 52 | **Sí, seguro** | Aprobar con cambios |
+| M04 La razón (tres pistas) | 52 | Solo si hay un cliente con referencias | Aprobar con cambios (usar capturas del móvil del cliente) |
+| M05 El que acompaña | 51 | Si viene un acompañante | Aprobar con cambios |
+| M11 La versión buena | 50 | Necesita archivos | Dudosa |
+| M03 ¿Qué suena? | 49 | **Sí, seguro** | Aprobar con cambios |
+| M14 Basado en hechos reales | 49 | Semana 44 (Halloween) | Aprobar con cambios |
+| M10 Temporada 1 | 46 | No | Dudosa |
+| M01 La cifra | 45 | Caro en tiempo | Dudosa |
+
+Eliminadas: M02, M06 (privacidad), M07, M08, M09, M12, M13, M15, M16, M17 y M18.
+
+## SELECCIÓN DEL DIRECTOR (rehecha con la regla nueva)
+- **Producida (la única):** Retrato robot · miércoles 7 · Uri y Andrea.
+- **Manager:** M19 Sin contexto (tomas de miércoles a viernes, se publica el sábado) y M03 ¿Qué suena? (cualquier día).
+- **Discrepancia con el critic:** el Techo puntúa algo más (53), pero no es una pieza de voz en off y depende de lo que conteste el artista. Pasa al banco. Peritos de ficción también pasa al banco como candidata a pieza producida de otra semana.
+- **Comodines:** si esta semana viene un acompañante en una sesión larga (M05) o un cliente con referencias en el móvil (M04), pueden sustituir a M03.

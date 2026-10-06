@@ -37,10 +37,20 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 - Próximos: palabra votada en comentarios · palabra de un cliente.
 
 ### PERITOS DE FICCIÓN
-- Estado: semilla (Informe 01, grabación 2026-10-07 con Meii) · Tipo: rápida
+- Estado: guionizada, en banco (candidata a pieza producida de otra semana: obliga a parar ~15 min) · Tipo: producida ligera
 - Premisa: un realista tasa con seriedad técnica un tatuaje famoso de ficción: horas, sesiones, cicatrización y veredicto VEROSÍMIL / IMPOSIBLE.
 - Elementos fijos: "INFORME Nº __", tablilla con formulario, silueta, casillas, pausa antes del sello, tampón rojo, "Peritaje cerrado.", "¿Qué tatuaje de ficción peritamos ahora?".
 - Próximos: Once (Stranger Things) · Lisbeth (Millennium) · Maui · Memento · Ace (One Piece).
+
+### SIN CONTEXTO
+- Estado: semilla (ep. 1, publicación 2026-10-10) · Tipo: manager
+- Premisa: momentos reales del estudio congelados que parecen otra cosa. La voz en off da la lectura falsa y luego el contexto real en 4 palabras.
+- Elementos fijos: congelado + "Esto, sin contexto", 4 momentos, contexto en ≤4 palabras, el último más raro que la lectura falsa.
+
+### ¿QUÉ SUENA?
+- Estado: semilla (ep. 1, W41) · Tipo: manager
+- Premisa: 5 sonidos que solo existen en un estudio, a ciegas y luego revelados. "¿Cuántos has acertado?"
+- Elementos fijos: macro borroso de hook, marcador X/5, el 5º sonido real e inesperado.
 
 ### TODO O NADA (¿Foto o tatuaje?)
 - Estado: guionizada, en reserva · Tipo: producida (calle)
@@ -48,7 +58,7 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 - Próximos: "¿Cuántas horas lleva?" · "¿Real o IA?".
 
 ### EL TECHO DE PHARAON
-- Estado: semilla (Techo nº 1, 2026-10-08) · Tipo: rápida
+- Estado: guionizada, en banco (no es de voz en off; depende de la respuesta del artista) · Tipo: rápida
 - Premisa: un cartel en el techo encima de la camilla da una instrucción, el cliente pregunta y el artista responde sin dejar de tatuar. Los comentarios eligen el siguiente cartel.
 - Elementos fijos: POV cenital, "Techo nº X", cierre pidiendo el cartel siguiente.
 
