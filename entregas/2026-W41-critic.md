@@ -88,3 +88,38 @@ De 21 conceptos sobreviven 7, y ninguno pasa de 56/80.
 - **R06 Techo nº 1:** jueves 8 (Uri y Meii).
 - **R01 La otra mano, ep. 1:** se acumula de martes a viernes y se publica el sábado 10.
 - **R05 ¿Qué había ahí?:** guionizado y listo para el día que haya láser.
+
+---
+
+# INFORME DEL CRITIC — TANDA K (resumen)
+
+De 24 conceptos sobreviven 8, y ninguno pasa de 57/80. Lectura del critic: tanda "floja-media", con más ideas de gestión de comunidad y de barrio que conceptos con un hook para desconocidos.
+
+| Concepto | Total | Veredicto | Respuesta al scroll |
+|---|---|---|---|
+| K10 Peritos de ficción | 57 | Aprobar con cambios | Reconoce el tatuaje de una serie que ha visto y quiere saber si sería posible de verdad |
+| K07 ¿Cuánto sabe tu tatuador de ti? | 53 | Aprobar con cambios (si aparece el cliente) | "30 horas juntos": curiosidad universal, como la relación con tu peluquero |
+| K06 El Tribunal de PHARAON | 52 | Aprobar con cambios (W42) | "¿Amor o delito?": todo el mundo tiene opinión |
+| K24 Takes de camilla | 52 | Después del Techo nº 1 | Opinión polémica y alguien obligado a mojarse |
+| K03 Cata a ciegas | 50 | Aprobar con cambios ("firma invisible") | ¿Reconoce su obra a 1 cm? |
+| K04 ¿Hasta dónde cabe? | 50 | Dudosa | Un ojo dentro de un círculo más pequeño que un céntimo |
+| K15 Pulso de tatuador | 48 | Dudosa | ¿Puedes hacer un círculo perfecto? |
+| K19 Un año en la calle | 47 | Dudosa | Autoironía del pequeño negocio al que nadie conoce |
+
+Eliminadas: K01, K02, K05, K08, K09, K11, K12, K13, K14, K16, K17, K18, K20, K21, K22 y K23.
+
+---
+
+# SELECCIÓN FINAL DEL DIRECTOR (plan de 3 vídeos)
+
+Selección sobre **todas** las valoraciones del critic de la semana (tres rondas), no solo sobre la tanda K. La tanda K no supera a las mejores anteriores, y el usuario pidió priorizar potencial y no cantidad.
+
+| | Idea | Origen | Critic | Mecanismo |
+|---|---|---|---|---|
+| Producir | Retrato robot (C02) | creative, tanda 1 | 62 | Entretenimiento y juego |
+| Producir | Peritos de ficción (K10) | creative, tanda K | 57 | Potencial comercial y criterio del artista |
+| Producir | Techo nº 1 (R06) | creative, tanda rápida | 55 | Personalidad e interacción |
+| Reserva | 3 realistas · 1 palabra (C01) | creative, tanda 1 | 54 | Marca y serie |
+| Reserva | ¿Cuánto sabe tu tatuador de ti? (K07) | creative, tanda K | 53 | Comercial y relación con el cliente |
+
+Descartadas pese a su puntuación: ¿Foto o tatuaje? (59: 2 h de calle, inviable esta semana), Te leo la vida (56: revisión ética pendiente) y ¿Qué había ahí? (56: no hay láser).
