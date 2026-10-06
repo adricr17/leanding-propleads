@@ -26,9 +26,10 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 
 ### RETRATO ROBOT
 - Estado: semilla (ep. 1 grabación 2026-10-07) · Tipo: producida
-- Premisa (versión solo equipo, W41): un artista mira la foto de un perro (Unsplash o Pexels) y la describe sin decir la raza; otro la dibuja en Procreate en 10 min sin verla y al final ve la foto por primera vez. El manager graba.
+- Exp. 001 (W41): el sospechoso es un famoso. Uno lo describe solo por su aspecto físico, otro lo dibuja en Procreate sin saber quién es y tiene un único intento tras "Lápiz abajo". Se revela con el nombre en texto, sin foto. El espectador juega a la vez. Filtros: conocido en España, sin polémica, nunca políticos.
+- Exp. 002 (W42, versión perro): un artista mira la foto de un perro (Unsplash o Pexels) y la describe sin decir la raza; otro la dibuja en Procreate en 10 min sin verla y al final ve la foto por primera vez. El manager graba.
 - Elementos fijos: "[Quien dibuja] no ha visto nunca a este perro. [Quien describe] sí.", "Sin fotos. Te lo describo.", "Lápiz abajo.", "Este es.", "EXP. 00X", temporizador de 10:00, pausa "Puntúa del 1 al 10", reacción real al ver la foto, foto deslizándose, sello "CASO CERRADO/ABIERTO".
-- Próximos: otro animal (gato, caballo, pájaro raro) y otro artista. Nunca fotos de Google o Instagram.
+- Próximos: alternar el tipo de sospechoso (famoso, animal, personaje animado) y la pareja de artistas. Perro: recuperar la rueda de 4 fotos parecidas de Unsplash/Pexels. Nunca fotos de Google o Instagram. C04 "Adivina quién" queda absorbida por esta serie.
 
 ### 3 REALISTAS · 1 PALABRA
 - Estado: guionizada, en reserva (W41) · Tipo: producida

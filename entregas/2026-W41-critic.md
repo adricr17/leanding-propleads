@@ -151,3 +151,15 @@ Eliminadas: M02, M06 (privacidad), M07, M08, M09, M12, M13, M15, M16, M17 y M18.
 - **Manager:** M19 Sin contexto (tomas de miércoles a viernes, se publica el sábado) y M03 ¿Qué suena? (cualquier día).
 - **Discrepancia con el critic:** el Techo puntúa algo más (53), pero no es una pieza de voz en off y depende de lo que conteste el artista. Pasa al banco. Peritos de ficción también pasa al banco como candidata a pieza producida de otra semana.
 - **Comodines:** si esta semana viene un acompañante en una sesión larga (M05) o un cliente con referencias en el móvil (M04), pueden sustituir a M03.
+
+---
+
+# CRITIC — Retrato robot: perro (A) frente a famoso (B, idea del usuario)
+
+| Variante | Total | Veredicto |
+|---|---|---|
+| B' famoso con cambios | 57 | **Exp. 001 (miércoles 7)** |
+| A perro (v2) | 55 | Exp. 002, recuperando la rueda de 4 perros |
+| B famoso tal cual | 51 | Dudosa: si puede adivinar en cualquier momento, el dibujo sobra |
+
+Cambios de B': solo se describe el aspecto físico, sin pistas de contexto · un único intento tras "Lápiz abajo" · el espectador juega ("Escribe quién es antes que…") · revelación con el nombre en texto, sin foto ni clips del famoso · lo elige el manager (conocido en España, sin polémica, sin políticos, sin menores, sin fallecidos recientes, sin Dalí ni Frida) y tiene uno de reserva · nada de juzgar el cuerpo · portada sin el nombre y sin etiquetar al famoso. C04 queda absorbida.
