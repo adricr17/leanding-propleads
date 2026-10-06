@@ -4,7 +4,7 @@
 
 **Avisos previos (léelos antes de usar los guiones):**
 1. **Continuidad de las series.** ¿Qué suena? ep. 2 sale el martes 13, solo 4 días después del ep. 1 (viernes 9). Para entonces apenas habrá datos. Propongo grabar los sonidos del ep. 2 a la vez que los del ep. 1, durante la W41. Si el ep. 1 funciona claramente mal el fin de semana, el martes 13 se cambia por Stencil a ciegas, como dice el planning.
-2. **La momia (Exp. 003) roza el universo egipcio.** La ficha dice que lo egipcio es solo el nombre y que usarlo sería una decisión de marca nueva. Por eso la momia va como opción 3, con la prohibición expresa de bromear con "Pharaon" o "faraón". Si el usuario prefiere no acercarse a ese terreno, se sustituye por la reserva.
+2. **La momia (Exp. 003) roza el universo egipcio.** Resuelto: el Director la descarta y la opción 3 es el monstruo de Frankenstein genérico.
 3. **Sin contexto ep. 2.** El caption del ep. 1 prometía usar el mejor "sin contexto" de los comentarios. Citar a alguien de fuera choca con la regla de "solo equipo". Propuesta: usar la idea sin @, sin captura y sin foto de perfil, solo con "Esta nos la habéis escrito vosotros". Requiere el OK del usuario.
 4. **Peritos de ficción usa a un solo artista**, no a dos. Es más barato, así que no lo cambio.
 5. **Días de grabación.** Siguen el patrón de la W41: la producida se graba el miércoles y se publica el jueves. Todo queda sujeto a la agenda de cada semana.
@@ -503,7 +503,7 @@ La estrategia es la misma que con el famoso: describir de lo más general a lo m
 **PAYOFF:** el espectador lo saca antes que quien dibuja ("¡los colmillos!") y luego ve un retrato realista de un monstruo hecho de oídas por alguien que creía dibujar a una persona.
 **CTA:** la pausa, "Escribe qué monstruo es antes que [QUIEN DIBUJA]".
 **POR QUÉ PUEDE FUNCIONAR:** es la serie que ya existe (reconocible), con el gancho de Halloween justo dos días antes, sin disfraces ni producción. Y "cree que es una persona" añade una capa de comedia que no tenían ni el famoso ni el perro.
-**REQUIERE CONFIRMAR:** la agenda del miércoles 28 · que el Exp. 001 y el Exp. 002 no hayan fracasado (si no, la W44 pasa a "3 realistas · 1 palabra", según el planning) · si se acepta la momia, a la vista del aviso de marca.
+**REQUIERE CONFIRMAR:** la agenda del miércoles 28 · que el Exp. 001 y el Exp. 002 no hayan fracasado (si no, la W44 pasa a "3 realistas · 1 palabra", según el planning).
 
 ---
 

@@ -30,7 +30,7 @@
 - **Retrato robot Exp. 001 · famoso:** guion en `2026-W41-retrato-robot-famoso.md` (top 3: Homer, Shrek, David Bisbal).
 - **Retrato robot Exp. 002 · perro:** guion en `2026-W41-retrato-robot-v2.md` + **rueda**: al final, quien dibuja ve 5 fotos de perros parecidos (Unsplash/Pexels) y tiene que señalar el suyo. Después, la reacción.
 - **Peritos de ficción · Informe 01:** guion en `2026-W41-plan-final.md` (sección 3). Cambio: sin imágenes de la serie; el artista redibuja el tatuaje sobre la silueta.
-- **Retrato robot Exp. 003 · monstruo (Halloween):** misma mecánica que el famoso, con un monstruo clásico (vampiro, Frankenstein, momia, calabaza con cara). Se revela con el nombre. El guion se prepara en W44.
+- **Retrato robot Exp. 003 · monstruo (Halloween):** misma mecánica que el famoso, con un monstruo clásico (vampiro, hombre lobo o el monstruo de Frankenstein genérico; la momia queda fuera por el universo egipcio). Se revela con el nombre. Guion en `2026-10-guiones-videos.md` (pieza 8).
 
 ### Vídeos de manager
 - **¿Qué suena? ep. 1, 2 y 3 (Halloween):** guion en `2026-W41-guiones-manager.md`. En el ep. 3, "5 sonidos del estudio que de noche dan miedo", todos reales.
