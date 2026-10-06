@@ -61,3 +61,30 @@ Funciona lo que convierte el realismo en un juego para el espectador. Fallan el 
 **C23** pasa a la semana siguiente, después de la revisión ética del guion.
 
 **Ninguna idea de aniversario ha sobrevivido.** Coincido con el critic: tal como estaban, solo interesaban a quien ya conoce el estudio.
+
+---
+
+# INFORME DEL CRITIC — PIEZAS RÁPIDAS (resumen)
+
+De 21 conceptos sobreviven 7, y ninguno pasa de 56/80.
+
+| Concepto | Total | Veredicto |
+|---|---|---|
+| R05 ¿Qué había ahí? | 56 | Aprobar con cambios (si hay láser esta semana) |
+| R06 Mensaje en el techo | 55 | Aprobar con cambios: el cartel hace una pregunta al artista |
+| R01 La otra mano | 53 | Aprobar con cambios: rótulo de zona y hora, de más tensa a más relajada |
+| R04 La canción para aguantar | 50 | Aprobar con cambios (semana próxima) |
+| R21 La negociación del centímetro | 50 | Reserva oportunista |
+| R11 Subtítulos de tatuador | 49 | Dudosa: hay que acumular frases reales |
+| R02 ¿En qué estabas pensando? | 48 | Dudosa: queda absorbida por R06 |
+
+**Eliminadas:** R03, R07, R08, R09, R10, R12, R13, R14, R15, R16, R17, R18, R19 y R20. Motivos: micro-entrevistas de azar, inventarios de objetos, FAQ disfrazados, dependencia de manías o frases que no existen, o trends copiados.
+
+**Rescatables:** "Opinión impopular de tatuador" (R16 + R17), R09 al revés (el artista adivina la palabra), R10 como libreta de recogida, R15 como pieza especial, y R03 preguntándole al artista.
+
+**Lectura:** las mejores rápidas son formatos propios. La captación de clientes es el punto flojo de la tanda.
+
+## SELECCIÓN DEL DIRECTOR (rápidas)
+- **R06 Techo nº 1:** jueves 8 (Uri y Meii).
+- **R01 La otra mano, ep. 1:** se acumula de martes a viernes y se publica el sábado 10.
+- **R05 ¿Qué había ahí?:** guionizado y listo para el día que haya láser.
