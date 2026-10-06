@@ -52,7 +52,7 @@ _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 - Elementos fijos: encuadre fijo de la mano libre, rótulo "Zona · hora X", cierre "¿Cuál serías tú? 1-6".
 
 ### ¿QUÉ HABÍA AHÍ?
-- Estado: guionizada, se graba cuando haya láser · Tipo: rápida
+- Estado: guionizada, en banco · Tipo: rápida · **No es semanal:** el láser viene cada ~2 meses. Se activa solo cuando la agenda semanal del usuario lo anuncie.
 - Premisa: se oye el láser y nunca se ve el tatuaje. El cliente cuenta qué había y qué va a haber.
 - Elementos fijos: chasquido del láser como hook, "Había: ___ / Va a haber: ___".
 

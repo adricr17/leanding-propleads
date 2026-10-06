@@ -64,6 +64,8 @@ Cuando el usuario pida ideas para una semana (atajo: `/semana`):
 5. **DESARROLLAR** — lanzar `script-writer` solo con los conceptos seleccionados.
 6. **ENTREGAR** — guardar la entrega en `entregas/AAAA-Www.md` (semana ISO) y presentar un resumen claro y accionable al usuario. Actualizar `formatos/series.md` si nace o evoluciona una serie.
 
+Antes de generar, el Director pide al usuario la agenda de la semana (qué artistas hay cada día y si viene el láser) y la apunta en `entregas/AAAA-Www.md`. El contenido de láser solo se planifica si la agenda dice que viene esa semana.
+
 Los agentes no comparten contexto entre sí: el Director pasa en cada prompt toda la información que el agente necesita (informe previo literal, series activas, artistas disponibles, restricciones del usuario).
 
 **Nunca rellenar una lista para alcanzar una cantidad.** 5 ideas excelentes son mejores que 10 mediocres. Si esta semana solo hay 2 ideas que merecen la pena, se entregan 2 y se dice.

@@ -33,7 +33,7 @@ Leyenda de fuentes:
 | Servicio | Detalle | Fuente |
 |---|---|---|
 | Tatuajes | Diseños personalizados | [Usuario], [Índice web] |
-| Láser | Eliminación de tatuajes **y** aclarado previo a cover-up | [Usuario] |
+| Láser | Eliminación de tatuajes **y** aclarado previo a cover-up. Lo hace un profesional que **viene muy poco, más o menos una vez cada dos meses**. **No planificar contenido de láser salvo que la agenda semanal del usuario diga que viene esa semana.** | [Usuario] |
 | Piercing | Lo hace una profesional externa que **no forma parte del estudio**. No incluirla en vídeos ni presentarla como parte del equipo sin confirmarlo | [Usuario] |
 
 **PENDIENTE:** precios orientativos, señal/política de citas, cover-ups, tarjetas regalo.
