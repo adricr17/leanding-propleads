@@ -121,18 +121,18 @@ Elegidos por el Director: dos personajes animados (sin riesgo de imagen ni de po
 5. Últimos minutos: orejas como dos tubitos o trompetillas que salen hacia los lados.
 6. Solo al final: piel verde.
 
-### 3. Keanu Reeves (persona real; sustituye a Gollum a petición del usuario)
-Elegido por ser muy conocido en España a cualquier edad, por su fama de famoso poco polémico, sin vínculo con política ni fútbol, y por tener rasgos faciales claros. **Antes de grabar, comprobar en las noticias de esa mañana que no haya ninguna polémica reciente** (la información del Director no llega al día de hoy).
+### 3. David Bisbal (persona real; sustituye a Keanu Reeves, que no todo el mundo reconoce por el nombre)
+Elegido porque lo reconoce por el nombre todo el mundo en España, de cualquier edad. Su rasgo estrella (los rizos) es perfecto para el final, y no tiene vínculo con política ni fútbol ni fama polémica. **Antes de grabar, comprobar en las noticias de esa mañana que no haya ninguna polémica reciente.**
 1. Cara alargada, mandíbula marcada.
-2. Cejas oscuras y rectas, ojos oscuros y algo caídos, mirada un poco triste o cansada.
-3. Nariz recta, labios finos.
-4. Barba oscura de varias semanas, poco cuidada, que cubre la mandíbula y el bigote.
-5. Últimos minutos: pelo oscuro y largo, por los hombros, con raya al medio, cayendo a los dos lados de la cara.
-6. Si hace falta: expresión muy seria, casi sin gesto.
+2. Ojos oscuros, cejas oscuras y bastante pobladas.
+3. Nariz recta, sonrisa muy amplia, de las que enseñan muchos dientes.
+4. Barba corta o de pocos días, oscura (si la foto no tiene barba: "afeitado").
+5. Últimos minutos: el pelo, muchos rizos voluminosos y oscuros, una melena rizada.
+6. Si hace falta: expresión muy alegre, sonríe con toda la cara.
 
-**Prohibido además:** decir que es actor, el país, películas, personajes o frases (Matrix, John Wick, Neo, las pastillas), su vida personal y los memes. **Regla extra por ser persona real:** solo se describe la cara; nada de físico, edad ni vida. El nombre solo sale en la revelación: sin etiquetar, sin foto y nunca en la portada.
+**Prohibido además:** decir que es cantante, de dónde es, canciones, programas (Operación Triunfo), bailes o gestos típicos, y **cantar o tararear**. **Regla extra por ser persona real:** solo se describe la cara; nada de físico, edad ni vida. El nombre solo sale en la revelación: sin etiquetar, sin foto y nunca en la portada. Usar una foto de referencia con los rizos.
 
-**Descartados como persona real:** futbolistas (riesgo de guerra de equipos en los comentarios), políticos (campaña) y fallecidos con herederos que explotan su imagen (Freddie Mercury, Einstein, Dalí, Frida).
+**Descartados como persona real:** Keanu Reeves (no todo el mundo lo reconoce por el nombre), futbolistas (riesgo de guerra de equipos en los comentarios), políticos (campaña) y fallecidos con herederos que explotan su imagen (Freddie Mercury, Einstein, Dalí, Frida).
 
 ### Prohibido con cualquiera
 Nombre, serie o película, "es de dibujos", frases típicas ("¡D'oh!", "¡Mi tesoro!"), familia, amigos, casa, trabajo, y la ropa característica (camisa de Homer, chaleco de Shrek). Si se escapa una: se corta o sale el sello "FALTA".
