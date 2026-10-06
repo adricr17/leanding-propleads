@@ -22,7 +22,7 @@
 ---
 
 ## 1 · W41 · "EL DM QUE TE CONTESTAN ANTES" (GUÍA 01) — domingo 11 oct, ~19:30
-**Maquetado en Canva:** https://www.canva.com/d/ycn6diqxrj8ijcz (7 diapositivas, 1080×1350, con logo y foto de la recepción).
+**Maquetado en Canva:** https://www.canva.com/d/1EmSxRfUENmrnHR (diseño "Carrusel Instagram DM Pharaon Tattoo Studio", 7 diapositivas, 1080×1350, con logo y foto de la recepción).
 **Objetivo:** que los DM de reserva lleguen completos y que el post quede fijado como "manual". **7 diapositivas**, 100 % gráfico (lo puede cerrar el manager solo).
 
 1. **Portada:** un globo de chat con texto difuminado. "EL DM QUE TE CONTESTAN ANTES" / "Cópialo, rellénalo y mándalo."
