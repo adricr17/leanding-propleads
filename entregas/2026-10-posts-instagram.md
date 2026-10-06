@@ -4,7 +4,8 @@
 
 ## SISTEMA VISUAL COMÚN
 - **Lienzo** 1080×1350 (4:5). Márgenes de seguridad: 90 px a los lados y 80 px arriba y abajo.
-- **Colores:** fondo #111111, texto y fondos claros hueso #EFEBE4, un único acento rojo óxido #C23B22 (provisional hasta tener el color de marca), solo para huecos, la palabra clave y el contador.
+- **Colores:** fondo #111111, texto y fondos claros hueso #EFEBE4, un único acento **morado de marca #A855F7** (#7E22CE sobre fondo claro), solo para huecos, la palabra clave y el contador. Sacado de la retroiluminación del logo de la recepción (ver `estudio/pharaon.md`, Identidad visual).
+- **Logo y fotos:** logo blanco en la portada; en el cierre, la foto de la pared con el logo morado oscurecida al 55 %. Archivos en `estudio/marca/`.
 - **Tipografías (Canva):** titulares en **Anton** mayúsculas (110-150 px en portada, 70-90 px dentro) · texto en **DM Sans** (38-46 px, mínimo 34) · plantillas y datos en **Space Mono** (36-42 px).
 - **Elementos fijos:**
   - Arriba a la izquierda, etiqueta en Space Mono 28 px: `PHARAON · GUÍA 01/02/03` o `PHARAON · JUEGO 01/02`. Son dos familias reconocibles.
@@ -21,6 +22,7 @@
 ---
 
 ## 1 · W41 · "EL DM QUE TE CONTESTAN ANTES" (GUÍA 01) — domingo 11 oct, ~19:30
+**Maquetado en Canva:** https://www.canva.com/d/ycn6diqxrj8ijcz (7 diapositivas, 1080×1350, con logo y foto de la recepción).
 **Objetivo:** que los DM de reserva lleguen completos y que el post quede fijado como "manual". **7 diapositivas**, 100 % gráfico (lo puede cerrar el manager solo).
 
 1. **Portada:** un globo de chat con texto difuminado. "EL DM QUE TE CONTESTAN ANTES" / "Cópialo, rellénalo y mándalo."

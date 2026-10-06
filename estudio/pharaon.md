@@ -52,8 +52,14 @@ Leyenda de fuentes:
 
 - Un estudio con 6 artistas de realismo es una ventaja para el contenido: permite competiciones, comparativas y retos entre especialistas del mismo estilo, cosa que un estudio con un artista por estilo no puede hacer.
 - Idea de posicionamiento que aparece en el índice (parafraseada por el buscador, **no es cita literal**): tatuajes que no siguen modas, sino piezas que marcan la historia personal del cliente. **Verificar la frase exacta en la web antes de usarla en pantalla o en captions.**
-- **El universo egipcio es solo el nombre**: ni el local ni la identidad visual lo usan. [Usuario] Los agentes no deben presentarlo como parte de la marca. Proponer contenido con estética egipcia sería una decisión de marca nueva y tiene que aprobarla el usuario de forma explícita.
-- **PENDIENTE:** claim oficial, logotipo y colores, tono de la web, cómo es el local.
+- **El universo egipcio es solo el nombre** [Usuario]. Matiz visto en las fotos que pasó el usuario: el **logo** es un tocado de faraón (nemes) estilizado y en la recepción hay una pequeña esfinge, pero el resto del local no usa estética egipcia. El logo se usa tal cual como firma de marca. Lo que no se hace sin aprobación explícita del usuario es crear contenido con estética o chistes egipcios.
+- **PENDIENTE:** claim oficial, tono de la web y código de color oficial del morado (si existe).
+
+## Identidad visual (fotos y logo del usuario, `estudio/marca/`)
+- **Logo:** `estudio/marca/logo-blanco.png` (blanco sobre transparente) y `logo-blanco-recortado.png` (sin márgenes, para Canva). Tocado de faraón estilizado, de líneas horizontales y verticales.
+- **Local:** paredes gris oscuro y gris estucado, techo negro, suelo de madera oscura, líneas de luz LED blanca, sofá negro de piel, mostrador de recepción de cemento gris. En la pared de la recepción, el logo en volumen negro con **retroiluminación morada**: es la imagen más reconocible del estudio. Pósters tipográficos ("GOOD GIRLS GET TATTED" en magenta, "DON'T SAY I HAVE TALENT, IT'S HARD WORK"), una máscara hannya, un skate y camisetas blancas con un monograma en negro (el monograma es de la marca: confirmar con el usuario si es merch del estudio).
+- **Paleta para piezas gráficas** (sacada de las fotos, no de un manual oficial): negro #0B0B0B / #111111, grises del local, hueso #EFEBE4 para el texto y **morado #A855F7** como único acento (en fondos claros, #7E22CE para que se lea). Sustituye al rojo óxido provisional.
+- **Fotos disponibles** (`estudio/marca/fotos/`): pared del logo morado (cierres y portadas), recepción y pasillo con camisetas, pasillo con máscara y skate, pared de pósters con la cabina 2. Sin personas: se pueden usar libremente. Como el repositorio es público, las fotos también lo son.
 
 ## Momento actual y objetivo
 
