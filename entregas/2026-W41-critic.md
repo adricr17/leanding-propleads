@@ -163,3 +163,15 @@ Eliminadas: M02, M06 (privacidad), M07, M08, M09, M12, M13, M15, M16, M17 y M18.
 | B famoso tal cual | 51 | Dudosa: si puede adivinar en cualquier momento, el dibujo sobra |
 
 Cambios de B': solo se describe el aspecto físico, sin pistas de contexto · un único intento tras "Lápiz abajo" · el espectador juega ("Escribe quién es antes que…") · revelación con el nombre en texto, sin foto ni clips del famoso · lo elige el manager (conocido en España, sin polémica, sin políticos, sin menores, sin fallecidos recientes, sin Dalí ni Frida) y tiene uno de reserva · nada de juzgar el cuerpo · portada sin el nombre y sin etiquetar al famoso. C04 queda absorbida.
+
+---
+
+# CRITIC — PLANNING DE OCTUBRE (resumen)
+
+**Posts (/60):** P04 47 · P01 46 · P03 46 · P06 43 (si hay láser) · P13 42 · P14 39 · P05 38 (se fusiona con P13) · P12 37 · P02 36 (noviembre). Eliminados: P07 (es un anuncio), P08 (genérico), P09 (duplica P01), P10 (genérico, mejor como destacado) y P11 (FAQ disfrazado).
+
+**Manager (/80):** N09 Halloween contra Castanyada 51 · N03 Pit stop 49 (invertido) · N01 Stencil a ciegas 49 · N10 47 · N07 47 (banco) · N08 46 · N06 44. Eliminados: N02 (= K09), N04 (anuncio) y N05 (= Sin contexto).
+
+**Producidas:** W42 Retrato robot perro con rueda: sí. W43 Peritos sin fotogramas: sí. W44 3 realistas Halloween: dudosa (jurado, votos, saturación de Halloween).
+
+**Lectura:** los posts son mejores que los vídeos nuevos, y las series abiertas siguen por encima de lo nuevo. Hay que alimentarlas antes de abrir frentes.
