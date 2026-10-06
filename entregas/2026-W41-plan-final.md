@@ -1,3 +1,19 @@
+# PLAN FINAL — 3 vídeos · semana 2026-W41 (versión 3)
+
+> **VIGENTE (6 oct, tarde):** con la regla nueva del usuario (como máximo 1 pieza en la que los artistas paren; el resto las hace el manager con tomas y voz en off), la semana queda así:
+>
+> | Vídeo | Tipo | Se graba | Se publica |
+> |---|---|---|---|
+> | **Retrato robot · Exp. 001** | Producida (la única) | Mié 7 · Uri dibuja, Andrea interroga | Jue 8 |
+> | **¿Qué suena? · Ep. 1** | Manager (voz en off) | Sonidos de martes a jueves, sin molestar | Vie 9 |
+> | **Sin contexto · Ep. 1** | Manager (voz en off) | Tomas de miércoles a viernes, sin molestar | Sáb 10 |
+>
+> Guiones de manager: `2026-W41-guiones-manager.md`. Retrato robot: más abajo, sin cambios.
+> **Al banco:** Peritos de ficción (pieza producida de otra semana: obliga a parar ~15 min) y Techo nº 1 (no es voz en off). Los guiones de abajo se conservan.
+> **Comodines:** si viene un acompañante en una sesión larga ("El que acompaña") o un cliente con referencias en el móvil ("La razón"), pueden sustituir a ¿Qué suena?.
+
+---
+
 # PLAN FINAL — 3 vídeos · semana 2026-W41
 
 > Sustituye al plan de 4 vídeos de `2026-W41.md`. Proceso: trend-hunter (dos pasadas), creative (tres tandas: 24 + 21 + 24 conceptos), critic (tres informes), selección del Director y script-writer. El detalle está en `2026-W41-critic.md`.
