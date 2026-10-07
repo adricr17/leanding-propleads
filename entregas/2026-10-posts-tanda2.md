@@ -2,9 +2,9 @@
 
 > Escritos por `script-writer` a partir de la selección del Director (ver `2026-W41-critic.md`, critic de la tanda 2). Sistema visual igual que la tanda 1 (`2026-10-posts-instagram.md`): 1080×1350, fondo #111111, hueso #EFEBE4, acento #9925AE, Anton / DM Sans / Space Mono, etiqueta arriba a la izquierda, contador morado arriba a la derecha, @pharaonstudio abajo y cierre fijo.
 >
-> **Decisión del Director sobre la numeración:** el número de GUÍA se asigna cuando se publica. Provisionalmente: Nota del móvil = GUÍA 03, Ojos de realista = GUÍA 04, Ticket = GUÍA 05. El post del láser ("4 finales"), condicionado, coge el siguiente número libre cuando salga.
+> **Decisión del Director sobre la numeración:** el número de MANUAL se asigna cuando se publica. Provisionalmente: Nota del móvil = MANUAL 03, Ojos de realista = MANUAL 04, Ticket = MANUAL 05. El post del láser ("4 finales"), condicionado, coge el siguiente número libre cuando salga.
 >
-> **Orden de publicación:** la Guía 01 (DM) y la Guía 02 (foto que sirve) tienen que salir antes, porque los demás remiten a ellas.
+> **Orden de publicación:** el Manual 01 (DM) y el Manual 02 (foto que sirve) tienen que salir antes, porque los demás remiten a ellas.
 >
 > Ningún carrusel se publica con un [VALIDAR], [___] o [ANOTACIÓN DEL ARTISTA] a la vista.
 
@@ -12,12 +12,12 @@
 
 | Carrusel | Diap. | Estado | Bloqueante |
 |---|---|---|---|
-| JUEGO 03 · Bingo del primer tatuaje | 7 | Listo | Tono; Guía 01 fijada |
-| GUÍA 03 · Tu nota del móvil, traducida | 6 | **Listo** (validado 06/10) | — |
-| GUÍA 04 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri; frases validadas | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
+| JUEGO 03 · Bingo del primer tatuaje | 7 | Listo | Tono; Manual 01 fijado |
+| MANUAL 03 · Tu nota del móvil, traducida | 6 | **Listo** (validado 06/10) | — |
+| MANUAL 04 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri; frases validadas | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
 | JUEGO 04 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
 | CASA 01 · Tus derechos en una camilla de PHARAON | 7 | **Listo** (los 6 artículos validados 06/10) | — |
-| GUÍA 05 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color DEPENDE) | — |
+| MANUAL 05 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color DEPENDE) | — |
 
 ---
 
@@ -41,25 +41,25 @@ Debajo: "Tacha las tuyas. La del medio ya es tuya."
 - `6-11 · FASE PELIGRO`: "Ya no es 'algún día'. Tienes zona, foto o frase. Empieza a juntarlo todo."
 - `12-16 · FASE DM`: "Esto ya no es curiosidad. Pasa a la siguiente."
 
-**D4.** `¿HAS CANTADO LÍNEA?` / "Cuatro en fila = medio DM hecho." / "La otra mitad está en la Guía 01, fijada en nuestro perfil. Cópiala, rellénala y mándala."
+**D4.** `¿HAS CANTADO LÍNEA?` / "Cuatro en fila = medio DM hecho." / "La otra mitad está en el Manual 01, fijado en nuestro perfil. Cópiala, rellénala y mándala."
 
-**D5.** `FASE DM` / "Si has llegado aquí con 12 o más, ya lo sabes." / "El DM que te contestan antes: Guía 01, fijada en el perfil."
+**D5.** `FASE DM` / "Si has llegado aquí con 12 o más, ya lo sabes." / "El DM que te contestan antes: Manual 01, fijado en el perfil."
 
 **D6 · Cartón en blanco.** "HAZ CAPTURA. TÁCHALAS EN STORIES." / "Menciona a @pharaonstudio y a quien tenga la carpeta 'tatu' más llena." (+ versión 1080×1920 para las stories del estudio con el sticker "¿Cuántas tachas?").
 
 **D7 · Cierre.** "Cuéntanos tu número en comentarios." + cierre fijo.
 
-**Caption:** "Bingo del primer tatuaje. Tacha las casillas que te pasan (la del medio es gratis) y comenta tu número. / 1-5: fase curiosidad. / 6-11: fase peligro. / 12-16: fase DM. / Si estás en fase DM, la Guía 01 fijada en el perfil te dice qué mandarnos. Etiqueta a quien tenga la carpeta "tatu" más llena. / #primertatuaje #tatuajerealista #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
+**Caption:** "Bingo del primer tatuaje. Tacha las casillas que te pasan (la del medio es gratis) y comenta tu número. / 1-5: fase curiosidad. / 6-11: fase peligro. / 12-16: fase DM. / Si estás en fase DM, el Manual 01 fijado en el perfil te dice qué mandarnos. Etiqueta a quien tenga la carpeta "tatu" más llena. / #primertatuaje #tatuajerealista #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
 
 **Texto alternativo:** "Carrusel de PHARAON con un cartón de bingo de 4 por 4 sobre las situaciones típicas antes del primer tatuaje: tener una carpeta de fotos, abrir el DM y cerrarlo, preguntar si duele o tener la foto del perro movida. La casilla central es gratis y dice 'Sigues aquí'. Al final hay tres resultados según cuántas casillas tachas y un cartón en blanco para jugar en stories."
 
-**Antes de publicar:** tono validado (la casilla de la madre es la más delicada) · Guía 01 publicada y fijada (si no, D4 y D5 pasan a "Escríbenos por DM con tu idea, la zona y el tamaño") · casillas legibles en el móvil sin zoom · versión de stories · alguien que conteste comentarios en el mismo tono.
+**Antes de publicar:** tono validado (la casilla de la madre es la más delicada) · Manual 01 publicada y fijada (si no, D4 y D5 pasan a "Escríbenos por DM con tu idea, la zona y el tamaño") · casillas legibles en el móvil sin zoom · versión de stories · alguien que conteste comentarios en el mismo tono.
 
 **Serie:** Bingo del día de la cita, del segundo tatuaje, del que dijo que nunca se tatuaría.
 
 ---
 
-## 2 · GUÍA 03 · "TU NOTA DEL MÓVIL, TRADUCIDA"
+## 2 · MANUAL 03 · "TU NOTA DEL MÓVIL, TRADUCIDA"
 
 Nota dibujada como rectángulo hueso con línea de título; sin copiar la interfaz de ninguna app.
 
@@ -70,26 +70,26 @@ Nota dibujada como rectángulo hueso con línea de título; sin copiar la interf
 **D3 · Traductor (1).** `TU NOTA DICE` → `NOS SIRVE`
 - "la fecha de la abuela ¿en romanos?" → "Idea clara. Pon la fecha tal cual. Lo de los romanos lo vemos contigo." [VALIDAR]
 - "algo de Naruto pero que no se note" → "Dinos qué: un símbolo, un personaje o una escena. 'Que no se note' también es una pista." [VALIDAR]
-- "la ola esa (ver captura)" → "Manda la captura. Si sale borrosa, busca la original (Guía 02)."
+- "la ola esa (ver captura)" → "Manda la captura. Si sale borrosa, busca la original (Manual 02)."
 
 **D4 · Traductor (2).**
 - "NO la de la ex" → "Lo que NO quieres también nos sirve. Escríbelo."
 - "¿manga o antebrazo?" → "Pon las dos. La zona la podemos decidir juntos." [VALIDAR]
-- "Lo que falta en casi todas las notas: el tamaño y cuándo puedes venir. Lo demás está en la Guía 01, fijada en el perfil."
+- "Lo que falta en casi todas las notas: el tamaño y cuándo puedes venir. Lo demás está en el Manual 01, fijado en el perfil."
 
 **D5.** `COMENTA LA LÍNEA MÁS RARA DE TU NOTA` / "Sin nombres. Sin exes. Bueno, con exes también."
 
 **D6 · Cierre.** "Pégala en el DM tal cual." [VALIDAR] + cierre fijo.
 
-**Caption:** "Todos tenemos una nota en el móvil que se llama "Ideas tatu (no borrar)". Te la traducimos a lo que nos hace falta para dibujarla. / Comenta la línea más rara de la tuya (la nuestra favorita es "algo de Naruto pero que no se note"). / ¿Lista para mandar? Pégala en el DM tal cual y añade el tamaño y cuándo puedes venir. La plantilla completa está en la Guía 01, fijada en el perfil. / #ideastatuaje #primertatuaje #tatuajepersonalizado #santfeliudellobregat #baixllobregat"
+**Caption:** "Todos tenemos una nota en el móvil que se llama "Ideas tatu (no borrar)". Te la traducimos a lo que nos hace falta para dibujarla. / Comenta la línea más rara de la tuya (la nuestra favorita es "algo de Naruto pero que no se note"). / ¿Lista para mandar? Pégala en el DM tal cual y añade el tamaño y cuándo puedes venir. La plantilla completa está en el Manual 01, fijado en el perfil. / #ideastatuaje #primertatuaje #tatuajepersonalizado #santfeliudellobregat #baixllobregat"
 
 **Texto alternativo:** "Carrusel de PHARAON con una nota del móvil llamada 'Ideas tatu (no borrar)' y cinco ideas a medias, como la fecha de la abuela en romanos o algo de Naruto que no se note. Cada línea se traduce a lo que el estudio necesita saber. Al final invita a comentar la línea más rara de tu nota y a pegarla en el DM."
 
-**Antes de publicar:** OK del usuario a recibir notas pegadas tal cual (si no, cierre "Pásala a la plantilla de la Guía 01 y mándala") · un artista valida las tres frases · Guías 01 y 02 publicadas · la nota es inventada, nunca de un cliente real.
+**Antes de publicar:** OK del usuario a recibir notas pegadas tal cual (si no, cierre "Pásala a la plantilla de el Manual 01 y mándala") · un artista valida las tres frases · Guías 01 y 02 publicadas · la nota es inventada, nunca de un cliente real.
 
 ---
 
-## 3 · GUÍA 04 · "OJOS DE REALISTA"
+## 3 · MANUAL 04 · "OJOS DE REALISTA"
 
 Diapositivas 3-6 son PNG de 1080×1350 exportados de Procreate. Foto: animal con los ojos enfocados (león, perro, búho) o retrato con luz lateral, sombra marcada y brillo en el ojo; de Pexels con enlace y autor guardados. **Alternativa del Director:** usar un tatuaje propio (con permiso del cliente) en vez de la foto de Pexels; en ese caso el título pasa a "TÚ VES UN TATUAJE. NOSOTROS VEMOS ESTO." y el artista anota sus propias decisiones.
 
@@ -101,12 +101,12 @@ El artista anota en Procreate, a mano, con pincel fino morado #9925AE: flechas, 
 **D4 · El ojo.** [ANOTACIÓN: el brillo del ojo y por qué importa] [ANOTACIÓN: dónde pondría más detalle]
 **D5 · Lo que simplificaríamos.** Título en Canva. [ANOTACIÓN: qué zona simplificaría y por qué, en 3-4 palabras]
 **D6 · Blanco y negro.** Título `EN BLANCO Y NEGRO`. [ANOTACIÓN: qué se ve mejor sin color, si lo hace de verdad] · [VALIDAR: "Así la miramos antes de empezar."]
-**D7.** `TU FOTO TAMBIÉN SE MIRA ASÍ` / "Si no sabes si sirve para un retrato, mira la Guía 02: esta foto sirve, esta no."
+**D7.** `TU FOTO TAMBIÉN SE MIRA ASÍ` / "Si no sabes si sirve para un retrato, mira el Manual 02: esta foto sirve, esta no."
 **D8 · Cierre.** "Mándanos tu foto y te decimos qué vemos." [VALIDAR] + cierre fijo.
 
 **Caption:** "Tú ves un [león]. Una persona que hace realismo ve de dónde viene la luz, dónde está la sombra más oscura y qué se puede simplificar sin que pierda fuerza. / Antes de llegar a la diapositiva 5: ¿qué crees que simplificaríamos? Coméntalo y luego compara. / Anotaciones a mano de [artista] (@[___]). Foto: [autor] en Pexels. / #tatuajerealista #realismotattoo #procreatetattoo #tatuajesbarcelona #santfeliudellobregat"
 
-**Antes de publicar:** foto con enlace y autor · un artista la anota y firma (todo el contenido técnico es suyo) · validar la frase de D6 y que alguien conteste los DM (si no, cierre "Guárdalo y mira tu próxima foto así") · @ del artista · Guía 02 publicada (si no, quitar D7).
+**Antes de publicar:** foto con enlace y autor · un artista la anota y firma (todo el contenido técnico es suyo) · validar la frase de D6 y que alguien conteste los DM (si no, cierre "Guárdalo y mira tu próxima foto así") · @ del artista · Manual 02 publicada (si no, quitar D7).
 
 **Serie mensual:** "Ojos de realista · [tema]", cada vez un artista.
 
@@ -132,7 +132,7 @@ Todos los artículos [VALIDAR CON URI]. Si confirma 4-5, se renumeran y el artí
 
 ---
 
-## 5 · GUÍA 05 · "EL TICKET DE TU TATUAJE"
+## 5 · MANUAL 05 · "EL TICKET DE TU TATUAJE"
 
 Ticket de caja en papel hueso con borde dentado, Space Mono #111111. "CUENTA" en lugar de importes. **Ni una cifra.**
 
@@ -155,7 +155,7 @@ COLOR O BLANCO Y NEGRO . [___]
 --------------------------------
 TOTAL:
 Mándanos idea, zona y tamaño
-(Guía 01) y te damos el total.
+(Manual 01) y te damos el total.
 --------------------------------
   El ticket caduca. El tatuaje, no.
 ```
@@ -166,7 +166,7 @@ Cada concepto [VALIDAR]; quitar los que el estudio no reconozca.
 **D6.** `¿QUÉ LÍNEA DEL TICKET NO TE ESPERABAS?` / "Comenta. Te leemos."
 **D7 · Cierre.** "Mándanos idea, zona y tamaño y te damos el total." [VALIDAR: presupuesto por DM] + cierre fijo.
 
-**Caption:** "El precio de un tatuaje no sale de una tabla: sale de un ticket como este. Tamaño, zona, nivel de detalle y horas de trabajo. / Por eso no te podemos decir "cuánto cuesta uno pequeño" sin verlo. Mándanos tu idea, la zona y el tamaño aproximado por DM (la plantilla está en la Guía 01, fijada en el perfil) y te damos el total. / ¿Qué línea del ticket no te esperabas? / #preciotatuaje #primertatuaje #tatuajerealista #santfeliudellobregat #baixllobregat"
+**Caption:** "El precio de un tatuaje no sale de una tabla: sale de un ticket como este. Tamaño, zona, nivel de detalle y horas de trabajo. / Por eso no te podemos decir "cuánto cuesta uno pequeño" sin verlo. Mándanos tu idea, la zona y el tamaño aproximado por DM (la plantilla está en el Manual 01, fijado en el perfil) y te damos el total. / ¿Qué línea del ticket no te esperabas? / #preciotatuaje #primertatuaje #tatuajerealista #santfeliudellobregat #baixllobregat"
 
 **Antes de publicar:** Uri (o quien fije precios) valida cada concepto y frase · diseño incluido o no · si el color influye · presupuesto por DM y quién contesta · ni una cifra, tampoco en respuestas · respuesta tipo preparada para #preciotatuaje.
 
@@ -187,7 +187,7 @@ Trabajos de Uri con permiso de los clientes. Fotos y renders en `privado/` y `po
 
 Fuera por decisión del critic: los dientes, el guerrero griego y el Joker (derechos). La catrina queda para el episodio 2. Se llama "zoom extremo" y no "400 %" porque los recortes son de unos 3×.
 
-**Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la más difícil: una es piel y la otra, cera de verdad. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Guía 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
+**Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la más difícil: una es piel y la otra, cera de verdad. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Manual 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
 
 **Antes de publicar:** foto de la vela real · prueba con 3 personas de fuera (cada ronda la acierta entre un 30 y un 70 %; si no, cambiar el recorte) · OK de Uri al crédito · si hay originales a más resolución, regenerar (los recortes se ven algo blandos) · separarlo al menos 2 semanas de "Seis ojos" y de "Ojos de realista".
 
@@ -201,27 +201,34 @@ Confirmadas todas las frases [VALIDAR] de Nota del móvil, Ojos de realista, Der
 ## En Canva (06/10/2026)
 Importados como imagen (idénticos a los PNG; el texto se cambia en el HTML y se vuelve a importar, porque la importación editable desde PDF descolocaba el texto):
 - JUEGO 03 · Bingo: https://www.canva.com/d/JNOiiRkPVgZ6520
-- GUÍA 03 · Nota del móvil: https://www.canva.com/d/uI5ZBvqOFipVCcx (v2, humor natural; la versión anterior yrLBbIAeVERVue1 sobra)
+- MANUAL 03 · Nota del móvil: https://www.canva.com/d/uI5ZBvqOFipVCcx (v2, humor natural; la versión anterior yrLBbIAeVERVue1 sobra)
 - CASA 01 · Derechos: https://www.canva.com/d/Dh85taZqp8gPOId
-- GUÍA 05 · Ticket: https://www.canva.com/d/38wWlrcqvCqS_2m
+- MANUAL 05 · Ticket: https://www.canva.com/d/38wWlrcqvCqS_2m
 Ojos de realista y Zoom extremo no están en Canva: llevan fotos de clientes y solo se pueden subir sin pasar por una URL pública (hace falta permitir www.canva.com en la red del entorno).
 Sobran en Canva, para borrar: los cinco intentos editables sin "(FINAL)" (Bingo ×2, Nota, Derechos, Ticket) y el primer borrador en formato historia del DM.
 
 ---
 
 ## Cambio del usuario (06/10/2026): Nota del móvil con humor más natural
-Nota nueva: "- el nombre de mi perro ¿con la huella?" · "- algo de anime pero discreto" · "- la flor esa (ver captura)" · "- ¿brazo o pierna?" · "- preguntar si duele mucho". Traductor: "Idea clara. Pon el nombre tal cual. Lo de la huella lo vemos contigo." · "Dinos qué anime y qué parte: un símbolo, un personaje o una escena. 'Discreto' también es una pista." · "Manda la captura. Si sale borrosa, busca la original (Guía 02)." · "Pon las dos. La zona la podemos decidir juntos." · "Pregúntalo. Para eso estamos." Comentarios: "Sin vergüenza: aquí todos tenemos una." Sin chistes de ex.
-**Caption nuevo:** "Todos tenemos una nota en el móvil que se llama "Ideas tatu (no borrar)". Te la traducimos a lo que nos hace falta para dibujarla. / Comenta la línea más rara de la tuya (la nuestra favorita: "algo de anime pero discreto"). / ¿Lista para mandar? Pégala en el DM tal cual y añade el tamaño y cuándo puedes venir. La plantilla completa está en la Guía 01, fijada en el perfil. / #ideastatuaje #primertatuaje #tatuajepersonalizado #santfeliudellobregat #baixllobregat"
+Nota nueva: "- el nombre de mi perro ¿con la huella?" · "- algo de anime pero discreto" · "- la flor esa (ver captura)" · "- ¿brazo o pierna?" · "- preguntar si duele mucho". Traductor: "Idea clara. Pon el nombre tal cual. Lo de la huella lo vemos contigo." · "Dinos qué anime y qué parte: un símbolo, un personaje o una escena. 'Discreto' también es una pista." · "Manda la captura. Si sale borrosa, busca la original (Manual 02)." · "Pon las dos. La zona la podemos decidir juntos." · "Pregúntalo. Para eso estamos." Comentarios: "Sin vergüenza: aquí todos tenemos una." Sin chistes de ex.
+**Caption nuevo:** "Todos tenemos una nota en el móvil que se llama "Ideas tatu (no borrar)". Te la traducimos a lo que nos hace falta para dibujarla. / Comenta la línea más rara de la tuya (la nuestra favorita: "algo de anime pero discreto"). / ¿Lista para mandar? Pégala en el DM tal cual y añade el tamaño y cuándo puedes venir. La plantilla completa está en el Manual 01, fijado en el perfil. / #ideastatuaje #primertatuaje #tatuajepersonalizado #santfeliudellobregat #baixllobregat"
 
 ---
 
 ## Zoom extremo · versión final (06/10/2026)
 La ronda 4 ya no necesita foto de una vela: es "la de la portada" (¿Ya sabes qué es? → "Cera de una vela. Sí, también es piel."). Listo para publicar, como imágenes (tiene fotos de clientes, así que no pasa por URL pública ni por Canva).
-**Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la de la portada. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Guía 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
+**Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la de la portada. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Manual 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
 
 ---
 
 ## Ojos de realista · versión final (07/10/2026)
-Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve esto." · pregunta "¿Qué crees que fue lo más difícil de esta pieza?" · 01 La zona oscura · 02 El ojo en blanco · 03 Las grietas · 04 Lo más difícil: las serpientes (dos primeros planos) · Tu foto también se mira así (Guía 02) · cierre. Sin la diapositiva de la luz ni la de blanco y negro (Uri no quiso). Listo para publicar como imágenes (fotos de cliente: fuera del repositorio y de Canva).
+Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve esto." · pregunta "¿Qué crees que fue lo más difícil de esta pieza?" · 01 La zona oscura · 02 El ojo en blanco · 03 Las grietas · 04 Lo más difícil: las serpientes (dos primeros planos) · Tu foto también se mira así (Manual 02) · cierre. Sin la diapositiva de la luz ni la de blanco y negro (Uri no quiso). Listo para publicar como imágenes (fotos de cliente: fuera del repositorio y de Canva).
 **Caption:** "Tú ves una medusa. Uri ve un maquillaje oscuro para que el ojo en blanco resalte, una esfera hecha con una sombra suave y grietas que no son líneas: "el realismo no tiene líneas, son conjuntos de sombras". / Antes de llegar a la 6: ¿qué crees que fue lo más difícil? Coméntalo y luego compara. / Medusa de Uri (@uri.cr_tattoo). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
 **Separación:** no publicar en la misma semana que Zoom extremo ni que Seis ojos.
+
+---
+
+## Cambios del 07/10/2026
+- **Sin "guía":** Uri prepara algo con ese nombre. La familia pasa a **MANUAL** en etiquetas, referencias y textos (Manual 01 = El DM que te contestan antes, en Canva ya cambiado). Las referencias a la antigua "Guía 02" (foto que sirve, aún sin publicar) se han quitado: en la Nota, "Si sale borrosa, busca la original."; en Ojos, la 7 pasa a "¿No sabes si tu foto sirve para un retrato? Mándanosla por DM y te lo decimos."
+- **Ojos de realista:** la portada enseña el tatuaje entero (foto original sin recortar, a la derecha, título a la izquierda).
+- **Canva:** Bingo v3 https://www.canva.com/d/0KYQIYXDb3SgPwO · Manual 03 Nota v3 https://www.canva.com/d/PxvjbulOJJAODz5 · Manual 05 Ticket v3 https://www.canva.com/d/ubnWi1K2ML8diSp · Derechos (sin cambios) https://www.canva.com/d/Dh85taZqp8gPOId · Manual 01 DM https://www.canva.com/d/1EmSxRfUENmrnHR. Las versiones anteriores (sin "v3") sobran.

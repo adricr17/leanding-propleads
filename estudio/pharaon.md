@@ -64,6 +64,9 @@ Leyenda de fuentes:
 - **Color:** se hace algo de color [Usuario, 06/10/2026]; el grueso del trabajo es blanco y negro. Ejemplo: el vikingo de Uri con rojo. PENDIENTE: si alguien hace color completo y si cambia el precio.
 - **Merch:** las camisetas blancas con el monograma negro son merch del estudio [Usuario] y **hay modelos nuevos en camino**. PENDIENTE: fecha de llegada, precio y si se venden solo en el estudio o también online.
 
+## Nombres que no se usan
+- **Nunca usar la palabra "guía"** en los posts ni en sus etiquetas: Uri prepara algo con ese nombre y no quiere confusión [Usuario, 07/10/2026]. La familia de posts útiles se llama **MANUAL** (PHARAON · MANUAL 01, 02…). Las otras familias son JUEGO y CASA.
+
 ## Identidad visual (fotos y logo del usuario, `estudio/marca/`)
 - **Logo:** versión circular con la palabra PHARAON debajo, la que usa la web. Versión solo símbolo: `estudio/marca/logo-blanco.png` (blanco sobre transparente) y `logo-blanco-recortado.png` (sin márgenes, para Canva). Tocado de faraón estilizado, de líneas horizontales y verticales.
 - **Local:** paredes gris oscuro y gris estucado, techo negro, suelo de madera oscura, líneas de luz LED blanca, sofá negro de piel, mostrador de recepción de cemento gris. En la pared de la recepción, el logo en volumen negro con **retroiluminación morada**: es la imagen más reconocible del estudio. Pósters tipográficos ("GOOD GIRLS GET TATTED" en magenta, "DON'T SAY I HAVE TALENT, IT'S HARD WORK"), una máscara hannya, un skate y camisetas blancas con un monograma en negro (el monograma es de la marca: confirmar con el usuario si es merch del estudio).
