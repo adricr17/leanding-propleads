@@ -8,7 +8,7 @@
 - **Logo y fotos:** logo blanco en la portada; en el cierre, la foto de la pared con el logo morado oscurecida al 55 %. Archivos en `estudio/marca/`.
 - **Tipografías (Canva):** titulares en **Anton** mayúsculas (110-150 px en portada, 70-90 px dentro) · texto en **DM Sans** (38-46 px, mínimo 34) · plantillas y datos en **Space Mono** (36-42 px).
 - **Elementos fijos:**
-  - Arriba a la izquierda, etiqueta en Space Mono 28 px: `TIPS DE PHARAON · 01/02/03` (o `TIPS DE [ARTISTA] · 01` si explica un artista; nunca "guía" ni "manual") o `PHARAON · JUEGO 01/02`. Son dos familias reconocibles.
+  - Arriba a la izquierda, etiqueta en Space Mono 28 px: `TIPS DE PHARAON · 01/02/03` (o `TIPS DE [ARTISTA] · 01` si explica un artista; nunca "guía" ni "manual") o `PHARAON · JUEGO 01/02…` (los juegos se numeran por orden de publicación: Bingo = 01, Zoom extremo = 02). Son dos familias reconocibles.
   - Arriba a la derecha, el contador `1/7` en el acento.
   - Abajo a la izquierda, `@pharaonstudio` en DM Sans 26 px al 60 %.
 - **Portada:** 7 palabras como máximo y una línea secundaria.
@@ -77,7 +77,7 @@
 
 ---
 
-## 2 · W42 · "SEIS REALISTAS, SEIS OJOS" (JUEGO 01) — miércoles 14 oct, ~19:30
+## 2 · W42 · "SEIS REALISTAS, SEIS OJOS" (JUEGO · número al publicar) — miércoles 14 oct, ~19:30
 **Objetivo:** comentarios y alcance, y presentar al equipo a ciegas. **9 diapositivas** (7 en la variante de 4).
 
 1. **Portada:** cuadrícula 2×3 de ojos numerados. "SEIS REALISTAS. SEIS OJOS." / "¿Cuál te tatuarías?"
@@ -133,7 +133,7 @@
 
 ---
 
-## 4 · W44 · "¿A O B?" (JUEGO 02) — miércoles 28 oct, ~19:30
+## 4 · W44 · "¿A O B?" (JUEGO · número al publicar) — miércoles 28 oct, ~19:30
 **Objetivo:** comentarios y enseñar el criterio del diseño personalizado. **6 diapositivas.** Sin Halloween.
 
 1. **Portada:** pantalla partida A | B. "MISMO DISEÑO. DOS SITIOS." / "Una la eligió el tatuador. ¿Cuál?"

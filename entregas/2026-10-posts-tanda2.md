@@ -12,16 +12,16 @@
 
 | Carrusel | Diap. | Estado | Bloqueante |
 |---|---|---|---|
-| JUEGO 03 · Bingo del primer tatuaje | 7 | Listo | Tono; post del DM fijado |
+| JUEGO 01 · Bingo del primer tatuaje | 7 | Listo | Tono; post del DM fijado |
 | TIPS DE PHARAON 02 · Tu nota del móvil, traducida | 6 | **Listo** (validado 06/10) | — |
 | TIPS DE URI 01 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri; frases validadas | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
-| JUEGO 04 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
+| JUEGO 02 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
 | REGLAS DE LA CASA · 01 · Tus derechos en una camilla de PHARAON | 7 | **Listo** (los 6 artículos validados 06/10) | — |
 | TIPS DE PHARAON 03 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color DEPENDE) | — |
 
 ---
 
-## 1 · JUEGO 03 · "BINGO DEL PRIMER TATUAJE"
+## 1 · JUEGO 01 · "BINGO DEL PRIMER TATUAJE"
 
 **D1 · Portada.** Cartón 4×4 inclinado y cortado por abajo, dos casillas tachadas a mano en morado, logo blanco. `BINGO DEL PRIMER TATUAJE` / "Comenta cuántas casillas tachas."
 
@@ -172,7 +172,7 @@ Cada concepto [VALIDAR]; quitar los que el estudio no reconozca.
 
 ---
 
-## 6 · JUEGO 04 · "ZOOM EXTREMO" (nuevo, propuesto por el Director con las fotos de Uri)
+## 6 · JUEGO 02 · "ZOOM EXTREMO" (nuevo, propuesto por el Director con las fotos de Uri)
 
 > Critic: 39/60 tal cual (DUDOSA), unos 44 con sus cambios (SÍ), todos aplicados. Pasa el filtro de "enseñar el resultado" solo porque el recorte no se lee como tatuaje y la pieza entera aparece como respuesta.
 
