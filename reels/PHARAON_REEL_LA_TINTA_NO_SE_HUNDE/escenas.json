@@ -1,7 +1,7 @@
 [
  {
-  "inicio": 0,
-  "fin": 3.26,
+  "inicio": 0.0,
+  "fin": 3.89,
   "texto": "Tu tatuaje no se está borrando. Se está moviendo.",
   "clave": [
    "moviendo"
@@ -9,56 +9,56 @@
   "video": "clips/01.mp4"
  },
  {
-  "inicio": 3.26,
-  "fin": 5.39,
+  "inicio": 3.89,
+  "fin": 5.72,
   "texto": "La tinta vive en la dermis.",
   "clave": [
    "dermis"
   ]
  },
  {
-  "inicio": 5.39,
-  "fin": 9.8,
+  "inicio": 5.72,
+  "fin": 10.3,
   "texto": "Pero con los años, las partículas se desplazan un poquito hacia los lados.",
   "clave": [
    "lados"
   ]
  },
  {
-  "inicio": 9.8,
-  "fin": 13.6,
+  "inicio": 10.3,
+  "fin": 14.01,
   "texto": "Una parte incluso viaja por tu cuerpo, hasta los ganglios.",
   "clave": [
    "ganglios"
   ]
  },
  {
-  "inicio": 13.6,
-  "fin": 16.88,
+  "inicio": 14.01,
+  "fin": 16.99,
   "texto": "Y el sol va rompiendo el pigmento poco a poco.",
   "clave": [
    "sol"
   ]
  },
  {
-  "inicio": 16.88,
-  "fin": 21.08,
+  "inicio": 16.99,
+  "fin": 20.77,
   "texto": "Por eso las líneas muy finas o muy juntas acaban fundiéndose.",
   "clave": [
    "fundiéndose"
   ]
  },
  {
-  "inicio": 21.08,
-  "fin": 25.19,
+  "inicio": 20.77,
+  "fin": 23.96,
   "texto": "Los que mejor envejecen tienen espacio para respirar.",
   "clave": [
    "espacio"
   ]
  },
  {
-  "inicio": 25.19,
-  "fin": 29.47,
+  "inicio": 23.96,
+  "fin": 28.32,
   "texto": "No es que la tinta se hunda. Es que nunca deja de moverse.",
   "clave": [
    "moverse"
@@ -66,8 +66,8 @@
   "video": "clips/08.mp4"
  },
  {
-  "inicio": 29.47,
-  "fin": 31.33,
+  "inicio": 28.32,
+  "fin": 30.35,
   "texto": "¿El tuyo ya ha empezado?",
   "clave": [
    "empezado"

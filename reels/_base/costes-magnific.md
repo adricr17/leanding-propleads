@@ -35,3 +35,8 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 ## Gasto real
 
 - **07/10/2026:** 3 reels en formato B (2 clips de Kling 2.5 a 1080p por reel), con 18 imágenes, 3 voces y 3 músicas. Total: 3.826 créditos, unos 1.275 por reel. En la práctica las imágenes han costado 75 créditos cada una. Quedan 16.174.
+- **07/10/2026, cambio de voz:**
+  - Pruebas de voz: 7 pruebas cortas, unos 95 créditos.
+  - Voces nuevas de Fernando Ruiz (ElevenLabs turbo v2.5, el motor B): 143 créditos.
+  - Montaje: 0 créditos. Las pausas se recortan con `reels/_base/ajustar_voz.py`; la voz casi no se acelera (como mucho un 6 %).
+  - Voz por defecto a partir de ahora: Fernando Ruiz, turbo v2.5, estabilidad 0,45, velocidad 1,1. Cuesta unos 48 créditos por reel.
