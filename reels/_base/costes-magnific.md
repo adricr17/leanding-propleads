@@ -31,3 +31,7 @@ Las tres opciones incluyen las 9 imágenes, la voz y la música, que suman unos 
 | C barato · Las 9 escenas animadas con Kling 2.5 720p | ~2.330 | ~8 |
 
 Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan mal.
+
+## Gasto real
+
+- **07/10/2026:** 3 reels en formato B (2 clips de Kling 2.5 a 1080p por reel), con 18 imágenes, 3 voces y 3 músicas. Total: 3.826 créditos, unos 1.275 por reel. En la práctica las imágenes han costado 75 créditos cada una. Quedan 16.174.

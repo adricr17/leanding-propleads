@@ -86,3 +86,10 @@ Formato 9:16. Como referencia de estilo, usa la imagen 01 (opción A) del reel "
   - En la 04, un destello cian.
   - Subtítulos en el centro, con la palabra clave en cian ("ENDORFINAS", "PARTE DE TI", "EL PRIMERO").
   - 1080×1920 a 30 fps.
+
+## Vídeo final (07/10/2026)
+
+- **`PHARAON_REEL_POR_QUE_QUIERES_OTRO_TATUAJE.mp4`**: versión en calidad completa (1080×1920, 30 fps, audio normalizado para redes). **`*_movil.mp4`**: la misma versión, más ligera.
+- Voz: Andrés Escudero (ElevenLabs v3), acelerada a lo que marca `reel.json` para quedar en torno a 30 s. Música: Google Lyria 3, al 22 % bajo la voz.
+- El hook y el payoff son clips animados con Kling 2.5 a 1080p (`clips/`). El resto son imágenes con zoom lento y subtítulos.
+- Para volver a montarlo: `python3 reels/_base/montar.py reels/PHARAON_REEL_POR_QUE_QUIERES_OTRO_TATUAJE`.
