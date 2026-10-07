@@ -8,7 +8,7 @@
 - **Logo y fotos:** logo blanco en la portada; en el cierre, la foto de la pared con el logo morado oscurecida al 55 %. Archivos en `estudio/marca/`.
 - **Tipografías (Canva):** titulares en **Anton** mayúsculas (110-150 px en portada, 70-90 px dentro) · texto en **DM Sans** (38-46 px, mínimo 34) · plantillas y datos en **Space Mono** (36-42 px).
 - **Elementos fijos:**
-  - Arriba a la izquierda, etiqueta en Space Mono 28 px: `PHARAON · MANUAL 01/02/03` o `PHARAON · JUEGO 01/02`. Son dos familias reconocibles.
+  - Arriba a la izquierda, etiqueta en Space Mono 28 px: `TIPS DE PHARAON · 01/02/03` (o `TIPS DE [ARTISTA] · 01` si explica un artista; nunca "guía" ni "manual") o `PHARAON · JUEGO 01/02`. Son dos familias reconocibles.
   - Arriba a la derecha, el contador `1/7` en el acento.
   - Abajo a la izquierda, `@pharaonstudio` en DM Sans 26 px al 60 %.
 - **Portada:** 7 palabras como máximo y una línea secundaria.
@@ -21,9 +21,9 @@
 
 ---
 
-## 1 · W41 · "EL DM QUE TE CONTESTAN ANTES" (MANUAL 01) — domingo 11 oct, ~19:30
+## 1 · W41 · "EL DM QUE TE CONTESTAN ANTES" (TIPS DE PHARAON 01) — domingo 11 oct, ~19:30
 **Maquetado en Canva:** https://www.canva.com/d/1EmSxRfUENmrnHR (diseño "Carrusel Instagram DM Pharaon Tattoo Studio", 7 diapositivas, 1080×1350, con logo y foto de la recepción).
-**Objetivo:** que los DM de reserva lleguen completos y que el post quede fijado como "manual". **7 diapositivas**, 100 % gráfico (lo puede cerrar el manager solo).
+**Objetivo:** que los DM de reserva lleguen completos y que el post quede fijado como referencia. **7 diapositivas**, 100 % gráfico (lo puede cerrar el manager solo).
 
 1. **Portada:** un globo de chat con texto difuminado. "EL DM QUE TE CONTESTAN ANTES" / "Cópialo, rellénalo y mándalo."
 2. **La plantilla** (fondo hueso, Space Mono, huecos en el acento):
@@ -50,7 +50,7 @@
 5. **LO QUE NO NOS SIRVE (TODAVÍA)** (globos grises):
    - "Hola" → "Nos alegra. Pero luego te preguntamos todo lo de la diapositiva 2."
    - "¿Precio de un tatuaje pequeño?" → "¿Pequeño cómo? ¿Dónde? Sin zona, tamaño y referencia, cualquier número sería inventado."
-   - "Quiero algo así" + captura borrosa → "Si no se ve, no lo podemos dibujar. (Sobre esto va la manual 02.)"
+   - "Quiero algo así" + captura borrosa → "Si no se ve, no lo podemos dibujar. "
 6. "¿Ya nos escribiste así? No pasa nada. Te contestamos igual. Solo tardamos un poco más en ayudarte."
 7. **Cierre:** "Copia, rellena y mándalo."
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 3 · W43 · "ESTA FOTO SIRVE. ESTA NO." (MANUAL 02) — miércoles 21 oct, ~19:30
+## 3 · W43 · "ESTA FOTO SIRVE. ESTA NO." (TIPS DE PHARAON · número al publicar) — miércoles 21 oct, ~19:30
 **Objetivo:** guardados y captación para retratos. **7 diapositivas.** Fotos de alguien del equipo (la buena y la mala hechas de verdad, en el mismo momento) y una pareja de perro de Pexels (la mala, estropeada en edición).
 
 1. **Portada:** la foto buena y la mala de alguien del equipo, con "NO SIRVE" en la mala. "ESTA FOTO SIRVE. ESTA NO." / "Antes de mandarnos la foto para tu retrato."
@@ -158,7 +158,7 @@
 
 ---
 
-## 5 · CONDICIONADO · "ESE TATUAJE DEL QUE TE ARREPIENTES TIENE 4 FINALES" (MANUAL 03)
+## 5 · CONDICIONADO · "ESE TATUAJE DEL QUE TE ARREPIENTES TIENE 4 FINALES" (TIPS DE PHARAON · número al publicar)
 **Solo 2-3 semanas antes de una visita confirmada del láser.** Si no hay fecha en octubre, pasa a noviembre. **8 diapositivas**, 100 % gráfico. Ni fotos de tatuajes ni de pieles tratadas.
 
 1. **Portada:** árbol de 4 ramas. "ESE TATUAJE DEL QUE TE ARREPIENTES TIENE 4 FINALES" / "Busca el tuyo."
