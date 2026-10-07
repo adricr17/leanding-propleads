@@ -21,13 +21,12 @@ Ninguno está producido. **No se gasta ningún crédito sin confirmación del us
 | 9 | Testamento de un tatuaje | Una rosa de cómic lee su testamento ante notario | Nada | 900 |
 | 10 | Nadie le enseñó a nadar al cerdo (martes 13) | Amuletos de marineros en plastilina durante un naufragio | El sí antes del jueves 8 | 1.350 |
 | 11 | Una vida, un tatuaje | Una muñeca con una golondrina en fotos de 2001 a hoy | Nada | 1.000 |
-| 12 | La hoja de flash (piloto) | Reality de diseños de flash; «que te expulsen» es que te tatúen | Nada | 1.520 |
-| 13 | Mamá, me he tatuado | Chat; la madre acaba mandando su tatuaje de 1989 | Nada | 230 |
-| 14 | Tatuaje fantasma | Ilusión óptica de post-imagen | Nada | 300 |
-| 15 | Test de revista teen | «Elige un tatuaje y te diré cómo eres»; trampa del efecto Forer | Nada | 630 |
+| 12 | Mamá, me he tatuado | Chat; la madre acaba mandando su tatuaje de 1989 | Nada | 230 |
+| 13 | Tatuaje fantasma | Ilusión óptica de post-imagen | Nada | 300 |
+| 14 | Test de revista teen | «Elige un tatuaje y te diré cómo eres»; trampa del efecto Forer | Nada | 630 |
 
-**Total:** ~11.800 créditos con los costes máximos. Quedarían ~4.100 de margen.
+**Total:** ~10.300 créditos con los costes máximos. Quedarían ~5.600 de margen.
 
-**Descartadas por el usuario:** Ponencia de la contraseña del wifi y Castanyera contra calabaza.
+**Descartadas por el usuario:** Ponencia de la contraseña del wifi, Castanyera contra calabaza y La hoja de flash.
 
 **Halloween:** se recomiendan 2 (Catrina) y 8 (Normas del 31); 9 (Testamento) como tercera opcional.
