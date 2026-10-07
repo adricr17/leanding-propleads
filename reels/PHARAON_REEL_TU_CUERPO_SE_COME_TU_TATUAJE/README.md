@@ -1,5 +1,7 @@
 # PHARAON_REEL_TU_CUERPO_SE_COME_TU_TATUAJE
 
+> **Descartada (07/10/2026):** sustituida por la versión fotorrealista en `reels/PHARAON_REEL_TU_CUERPO_INTENTA_ELIMINAR_TU_TATUAJE/`.
+
 Reel faceless (narración + ilustraciones de palitos) para Instagram Reels y TikTok. 9:16, 1080×1920. Entrega del 07/10/2026.
 
 ## Parte 0 · Ideas puntuadas (sobre 10)
