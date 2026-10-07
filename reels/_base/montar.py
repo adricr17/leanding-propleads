@@ -122,7 +122,7 @@ def main(carpeta, sin_voz=False):
     if etiquetas:
         mezcla = ''.join(etiquetas)
         partes.append(f"{mezcla}amix=inputs={len(etiquetas)}:duration=longest:normalize=0,atrim=0:{total},loudnorm=I=-14:TP=-1.5:LRA=11[a]")
-        cmd += ['-filter_complex', ';'.join(partes), '-map', '0:v', '-map', '[a]', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000']
+        cmd += ['-filter_complex', ';'.join(partes), '-map', '0:v', '-map', '[a]', '-c:a', 'aac', '-profile:a', 'aac_low', '-b:a', '192k', '-ac', '2', '-ar', '44100']
     cmd += ['-c:v', 'copy', '-movflags', '+faststart', salida]
     subprocess.run(cmd, check=True)
     print(salida)
