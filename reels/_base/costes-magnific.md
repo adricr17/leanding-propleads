@@ -1,0 +1,33 @@
+# Costes de Magnific (plan Premium, 20.000 créditos/mes)
+
+Precios exactos consultados con la herramienta de simulación de Magnific el 07/10/2026. Consultar no gasta créditos.
+
+**Regla del usuario:** no gastar créditos sin su confirmación previa.
+
+## Precio por pieza
+
+| Pieza | Créditos |
+|---|---|
+| Imagen fotorrealista (modo auto; el precio puede variar) | ~100 |
+| Voz en off de un reel (ElevenLabs v3, unos 470 caracteres) | 88 |
+| Música de 30 s (Google Lyria 3) | 80 |
+| Clip de vídeo de 5 s · Kling 2.5 a 720p | 140 |
+| Clip de vídeo de 5 s · MiniMax H3 Max Turbo a 768p | 200 |
+| Clip de vídeo de 5 s · Kling 2.5 a 1080p | 325 |
+| Clip de vídeo de 5 s · Seedance 2.0 Fast a 720p | 1.175 |
+| Clip de vídeo de 5 s · Seedance 2.5 a 720p | 2.200 |
+| Clip de vídeo de 5 s · Seedance 2.5 a 1080p | 3.950 |
+
+## Coste por reel (9 escenas)
+
+Las tres opciones incluyen las 9 imágenes, la voz y la música, que suman unos 1.070 créditos.
+
+| Formato | Créditos por reel | Reels al mes |
+|---|---|---|
+| A · Imágenes con movimiento de cámara | ~1.070 | ~18 |
+| B · A + hook y final animados con Kling 2.5 1080p (2 clips) | ~1.720 | ~11 |
+| B+ · A + 3 escenas animadas con Kling 2.5 1080p | ~2.050 | ~9 |
+| C · Las 9 escenas animadas con Kling 2.5 1080p | ~4.000 | ~5 |
+| C barato · Las 9 escenas animadas con Kling 2.5 720p | ~2.330 | ~8 |
+
+Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan mal.
