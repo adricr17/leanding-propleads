@@ -242,3 +242,4 @@ Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve e
 - **Canva (Reglas de la casa):** Derechos con la etiqueta REGLAS DE LA CASA · 01 https://www.canva.com/d/imy5Ov2EX8XewQ_ (la versión CASA 01 Dh85taZqp8gPOId sobra).
 - **Juegos renumerados (07/10):** se numeran por orden de publicación. Bingo = JUEGO 01 (Canva v5 https://www.canva.com/d/y4w8gOySePjbTFi; las versiones anteriores sobran), Zoom extremo = JUEGO 02. Los juegos de la tanda 1 (Seis realistas, ¿A o B?) cogen número cuando se publiquen.
 - **Ticket, color corregido (07/10):** el color siempre sube el precio, también en realismo, y cuánto depende de la cantidad. Ticket: `COLOR ... CUENTA`; línea a línea: "El color siempre suma, también en realismo. Cuánto, depende de cuánto color lleve."
+- **Canva Ticket v5 (color corregido):** https://www.canva.com/d/YliE3dq3tqZw4EK (las versiones anteriores del Ticket sobran).
