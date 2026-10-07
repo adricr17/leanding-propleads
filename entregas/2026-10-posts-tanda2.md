@@ -16,7 +16,7 @@
 | TIPS DE PHARAON 02 · Tu nota del móvil, traducida | 6 | **Listo** (validado 06/10) | — |
 | TIPS DE URI 01 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri; frases validadas | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
 | JUEGO 04 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
-| CASA 01 · Tus derechos en una camilla de PHARAON | 7 | **Listo** (los 6 artículos validados 06/10) | — |
+| REGLAS DE LA CASA · 01 · Tus derechos en una camilla de PHARAON | 7 | **Listo** (los 6 artículos validados 06/10) | — |
 | TIPS DE PHARAON 03 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color DEPENDE) | — |
 
 ---
@@ -112,7 +112,7 @@ El artista anota en Procreate, a mano, con pincel fino morado #9925AE: flechas, 
 
 ---
 
-## 4 · CASA 01 · "TUS DERECHOS EN UNA CAMILLA DE PHARAON"
+## 4 · REGLAS DE LA CASA · 01 · "TUS DERECHOS EN UNA CAMILLA DE PHARAON"
 
 Fondo hueso tipo papel oficial, texto #111111, "ARTÍCULO X" en Anton con el número en morado, sello circular morado "PHARAON · CAMILLA" (no el logo). Solemne en broma; nada que suene a contrato.
 
@@ -128,7 +128,7 @@ Todos los artículos [VALIDAR CON URI]. Si confirma 4-5, se renumeran y el artí
 
 **Caption:** "Lo dejamos por escrito: en nuestra camilla puedes preguntarlo todo, pedir cambios, mover el stencil, pedir una pausa y decir "no me gusta". Y traer tu música, dentro de lo razonable. / Falta el artículo 7. ¿Cuál añadirías tú? Te leemos en comentarios. / #primertatuaje #tatuajepersonalizado #tatuajerealista #santfeliudellobregat #baixllobregat" (ajustar a los artículos confirmados).
 
-**Serie (familia CASA):** "Enmiendas" con los mejores artículos 7.
+**Serie (familia REGLAS DE LA CASA):** "Enmiendas" con los mejores artículos 7.
 
 ---
 

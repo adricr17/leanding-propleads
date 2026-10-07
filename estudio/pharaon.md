@@ -65,7 +65,7 @@ Leyenda de fuentes:
 - **Merch:** las camisetas blancas con el monograma negro son merch del estudio [Usuario] y **hay modelos nuevos en camino**. PENDIENTE: fecha de llegada, precio y si se venden solo en el estudio o también online.
 
 ## Nombres que no se usan
-- **Nunca usar la palabra "guía"** en los posts ni en sus etiquetas: Uri prepara algo con ese nombre y no quiere confusión [Usuario, 07/10/2026]. Tampoco "manual" [Usuario, 07/10/2026]. La familia de posts útiles se llama **TIPS DE PHARAON** (TIPS DE PHARAON · 01, 02…); cuando el contenido es la explicación de un artista, **TIPS DE [ARTISTA]** (p. ej. TIPS DE URI · 01). Las otras familias son JUEGO y CASA.
+- **Nunca usar la palabra "guía"** en los posts ni en sus etiquetas: Uri prepara algo con ese nombre y no quiere confusión [Usuario, 07/10/2026]. Tampoco "manual" [Usuario, 07/10/2026]. La familia de posts útiles se llama **TIPS DE PHARAON** (TIPS DE PHARAON · 01, 02…); cuando el contenido es la explicación de un artista, **TIPS DE [ARTISTA]** (p. ej. TIPS DE URI · 01). Las otras familias son JUEGO y REGLAS DE LA CASA (antes "CASA") [Usuario, 07/10/2026].
 
 ## Identidad visual (fotos y logo del usuario, `estudio/marca/`)
 - **Logo:** versión circular con la palabra PHARAON debajo, la que usa la web. Versión solo símbolo: `estudio/marca/logo-blanco.png` (blanco sobre transparente) y `logo-blanco-recortado.png` (sin márgenes, para Canva). Tocado de faraón estilizado, de líneas horizontales y verticales.
