@@ -93,3 +93,10 @@ Secuencia de planos: macro → macro → conceptual ×4 → plano medio → prim
 4. Subtítulos centrados, a la altura de los ojos y nunca en el tercio inferior: blancos, en mayúsculas cortas, con la palabra clave en cian ("INTRUSO", "MACRÓFAGOS", "TODA TU VIDA").
 5. Sin logo durante el vídeo. Como mucho, "@pharaonstudio" pequeño en el último segundo.
 6. Exporta en 1080×1920 a 30 fps.
+
+## Vídeo montado (07/10/2026)
+
+- `imagenes/` contiene 01-09 descargadas de Magnific. La apertura es `01b.png`, la opción B: más cerca del tatuaje, mejor hook.
+- `escenas.json` guarda los tiempos y los subtítulos, con las palabras clave en cian.
+- `PHARAON_REEL_TU_CUERPO_INTENTA_ELIMINAR_TU_TATUAJE_SIN_VOZ.mp4` dura 29,5 s, en 1080×1920, con zoom lento y subtítulos. Todavía no tiene voz ni música, porque el plan gratuito de Magnific había agotado su cupo diario. Sirve para que el manager grabe su voz en off encima, o se sustituye por la versión con voz IA.
+- Para volver a montarlo: `python3 reels/_base/montar.py reels/PHARAON_REEL_TU_CUERPO_INTENTA_ELIMINAR_TU_TATUAJE`. Si existen `voz.mp3` y `musica.mp3`, los mezcla solo.

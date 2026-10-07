@@ -1,0 +1,11 @@
+[
+ {"inicio": 0.0,  "fin": 3.0,  "imagen": "01b.png", "texto": "Tu cuerpo lleva años intentando eliminar tu tatuaje.", "clave": ["eliminar"]},
+ {"inicio": 3.0,  "fin": 6.2,  "texto": "La aguja mete la tinta debajo de la piel que se renueva.", "clave": ["debajo"]},
+ {"inicio": 6.2,  "fin": 9.2,  "texto": "Y ahí abajo, tu sistema inmune detecta un intruso.", "clave": ["intruso"]},
+ {"inicio": 9.2,  "fin": 12.2, "texto": "Manda a sus células limpiadoras: los macrófagos.", "clave": ["macrófagos"]},
+ {"inicio": 12.2, "fin": 15.0, "texto": "Se la tragan… pero no pueden digerirla.", "clave": ["digerirla"]},
+ {"inicio": 15.0, "fin": 18.8, "texto": "Cuando una muere, la suelta… y otra se la vuelve a tragar.", "clave": ["otra"]},
+ {"inicio": 18.8, "fin": 21.6, "texto": "Por eso lo que hace un tatuador dura décadas.", "clave": ["décadas"]},
+ {"inicio": 21.6, "fin": 26.0, "texto": "Pero no es tinta quieta: es tinta que tus células se pasan toda tu vida.", "clave": ["toda", "tu", "vida"]},
+ {"inicio": 26.0, "fin": 29.5, "texto": "¿Cuántos años lleva tu cuerpo con el tuyo?", "clave": ["años"]}
+]
