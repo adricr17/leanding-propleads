@@ -1,7 +1,6 @@
 [
  {
   "imagen": "diseno_a.png",
-  "rotulo": "HECHO CON IA",
   "inicio": 0.0,
   "fin": 5.81,
   "texto": ""
@@ -24,7 +23,6 @@
    0.6,
    1.12
   ],
-  "rotulo": "1 · MALFORMACIONES",
   "inicio": 6.74,
   "fin": 8.81,
   "texto": ""
@@ -42,7 +40,6 @@
    0.5,
    1.0
   ],
-  "rotulo": "1 · MALFORMACIONES",
   "marcas": [
    [
     541,
@@ -68,7 +65,6 @@
    0.5,
    1.0
   ],
-  "rotulo": "1 · MALFORMACIONES",
   "marcas": [
    [
     600,
@@ -94,7 +90,6 @@
    0.5,
    1.0
   ],
-  "rotulo": "2 · DETALLES DIMINUTOS",
   "marcas": [
    [
     750,
@@ -113,7 +108,6 @@
    0.5,
    1.04
   ],
-  "rotulo": "3 · SOBRECARGADO",
   "inicio": 15.45,
   "fin": 19.83,
   "texto": ""
@@ -125,7 +119,6 @@
    0.48,
    1.06
   ],
-  "rotulo": "4 · NO ADAPTADO AL CUERPO",
   "sub_y": 0.76,
   "inicio": 19.83,
   "fin": 24.02,
@@ -133,7 +126,6 @@
  },
  {
   "imagen": "cabeza.png",
-  "rotulo": "5 · TU CABEZA",
   "inicio": 24.02,
   "fin": 27.68,
   "texto": ""
@@ -167,6 +159,7 @@
   "texto": "¿Has traído alguna vez un diseño hecho con IA?",
   "clave": [
    "IA"
-  ]
+  ],
+  "filtro": "eq=brightness=-0.16:contrast=1.25:gamma=0.6:saturation=1.3,vignette=PI/3.5"
  }
 ]
