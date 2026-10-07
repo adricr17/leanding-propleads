@@ -60,8 +60,8 @@ Leyenda de fuentes:
   - Aceptan que el cliente pegue su nota del móvil en el DM tal cual, y alguien contesta los DM de "mándanos tu foto y te decimos qué vemos".
   - En la camilla el cliente puede: preguntarlo todo, pedir cambios en el diseño antes de empezar, mover el stencil las veces que haga falta, pedir pausas, decir "no me gusta" y traer su música.
   - Precio: cuentan el tamaño, la zona, el nivel de detalle y las horas. No suma que sea el primer tatuaje, el miedo ni venir con la idea a medias. El diseño personalizado va incluido. Se da presupuesto por DM. Nunca se publican cifras.
-  - Color y precio: en una sesión de realismo el color no cambia el precio; en minis, microrrealismo o piezas pequeñas y medianas, sí suma.
-- **Color:** se hace algo de color [Usuario, 06/10/2026]; el grueso del trabajo es blanco y negro. Ejemplo: el vikingo de Uri con rojo. PENDIENTE: si alguien hace color completo y si cambia el precio.
+  - Color y precio: el color **siempre sube el precio**, también en realismo; cuánto depende de la cantidad de color [Usuario, 07/10/2026, corrige lo dicho el 06/10].
+- **Color:** se hace algo de color [Usuario, 06/10/2026]; el grueso del trabajo es blanco y negro. Ejemplo: el vikingo de Uri con rojo. PENDIENTE: si alguien hace color completo. (Precio: el color siempre suma, según cantidad.)
 - **Merch:** las camisetas blancas con el monograma negro son merch del estudio [Usuario] y **hay modelos nuevos en camino**. PENDIENTE: fecha de llegada, precio y si se venden solo en el estudio o también online.
 
 ## Nombres que no se usan

@@ -17,7 +17,7 @@
 | TIPS DE URI 01 · Ojos de realista | 8 (4 de Procreate) | Borrador con la medusa de Uri; frases validadas | Uri anota la foto en Procreate (kit en `privado/kit-uri-ojos/`) |
 | JUEGO 02 · Zoom extremo | 10 | Casi listo | Foto de una vela real para la ronda 4; prueba con 3 personas de fuera |
 | REGLAS DE LA CASA · 01 · Tus derechos en una camilla de PHARAON | 7 | **Listo** (los 6 artículos validados 06/10) | — |
-| TIPS DE PHARAON 03 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color DEPENDE) | — |
+| TIPS DE PHARAON 03 · El ticket de tu tatuaje | 7 | **Listo** (validado 06/10: diseño INCLUIDO, color CUENTA: siempre suma, según cantidad, corregido 07/10) | — |
 
 ---
 
@@ -241,3 +241,4 @@ Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve e
 - **Canva (v4, TIPS):** Bingo https://www.canva.com/d/hF0hh5J-MLqLNm8 · Tips de Pharaon 02 Nota https://www.canva.com/d/sNDcNpzB3KZHSxj · Tips de Pharaon 03 Ticket https://www.canva.com/d/gOZnaS0Fp7o-mPR · Tips de Pharaon 01 DM https://www.canva.com/d/1EmSxRfUENmrnHR (etiquetas cambiadas en el mismo diseño) · Derechos https://www.canva.com/d/Dh85taZqp8gPOId. Las versiones v3 y anteriores de Bingo, Nota y Ticket sobran.
 - **Canva (Reglas de la casa):** Derechos con la etiqueta REGLAS DE LA CASA · 01 https://www.canva.com/d/imy5Ov2EX8XewQ_ (la versión CASA 01 Dh85taZqp8gPOId sobra).
 - **Juegos renumerados (07/10):** se numeran por orden de publicación. Bingo = JUEGO 01 (Canva v5 https://www.canva.com/d/y4w8gOySePjbTFi; las versiones anteriores sobran), Zoom extremo = JUEGO 02. Los juegos de la tanda 1 (Seis realistas, ¿A o B?) cogen número cuando se publiquen.
+- **Ticket, color corregido (07/10):** el color siempre sube el precio, también en realismo, y cuánto depende de la cantidad. Ticket: `COLOR ... CUENTA`; línea a línea: "El color siempre suma, también en realismo. Cuánto, depende de cuánto color lleve."
