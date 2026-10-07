@@ -1,38 +1,33 @@
-# Lista completa de vídeos IA propuestos · 07/10/2026
+# Lista de vídeos IA propuestos · 07/10/2026
+
+Ordenados de más a menos relacionados con un estudio de tatuajes (orden del Director, validado por el usuario).
 
 Ninguno está producido. **No se gasta ningún crédito sin confirmación del usuario.**
 
-- **Créditos disponibles:** 15.936.
-- **Costes:** estimados según `reels/_base/costes-magnific.md`. Hay que sumar un 10-15 % de margen para repetir imágenes que salgan mal.
-- **Cierre de todos los vídeos:** 2-3 s reales del estudio. Hace falta UNA vez: 5 s de la pared del logo morado + 5 s del zumbido de una máquina en una cabina vacía. Sirve para todos.
+**Créditos disponibles:** 15.936.
 
-| # | Vídeo | Bloque | Lo que necesito del usuario | Créditos |
+**Cierre de todos los vídeos:** 2-3 s reales del estudio. El usuario tiene que mandar UNA vez 5 s de la pared del logo morado y 5 s del zumbido de una máquina en una cabina vacía.
+
+| # | Vídeo | Qué es | Qué necesito del usuario | Créditos |
 |---|---|---|---|---|
-| 1 | ¿Se puede o no se puede? | Fijo | Respuesta de un artista a cada caso, por texto o en audio de 5 s | 500 |
-| 2 | Mamá, me he tatuado | Fijo | Nada | 230 |
-| 3 | Fauna del estudio: El Primerizo | Fijo | Nada | 980 |
-| 4 | PHARAON Pictures: La primera vez | Fijo | Nada (usa el zumbido común) | 1.300 |
-| 5 | Tribunal de mitos (donar sangre) | Fijo | Nada | 950 |
-| 6 | Test de revista teen | Fijo | Nada | 630 |
-| 7 | Tatuaje fantasma | Fijo | Nada | 300 |
-| 8 | Una vida, un tatuaje | Fijo | Nada | 1.000 |
-| 9 | Normas para quien cierra la noche del 31 | Halloween | Opcional: 5 s del pasillo con las luces apagadas | 300-630 |
-| 10 | Testamento de un tatuaje | Halloween / Todos los Santos | Nada | 900 |
-| 11 | La Catrina tenía otro nombre (con vuestras catrinas) | Halloween / Día de Muertos | Fotos de 3-4 catrinas tatuadas por el estudio, con permiso del cliente y sin caras + OK para usar el grabado de Posada (dominio público) | 600-900 |
-| 12 | Castanyera contra calabaza (opcional) | Halloween / Castanyada | Nada | 900 |
-| 13 | Nadie le enseñó a nadar al cerdo | Martes 13 de octubre | El sí antes del jueves 8 | 1.350 |
-| 14 | Este diseño lo ha hecho una IA: 5 errores | Tendencia | Texto de un artista sobre el error más gordo | 280 |
-| 15 | Mensajes de tu tatuaje (—T) | Tendencia | Los cuidados reales que recomendáis | 305 |
-| 16 | Ponencia: tatúate la contraseña del wifi | Tendencia | Nada | 1.230 |
-| 17 | La hoja de flash (piloto del reality) | Tendencia | Nada | 1.520 |
+| 1 | ¿Se puede o no se puede? | Concurso con diseños casi imposibles; el veredicto lo firma un artista | Respuesta de un artista a cada caso (texto o audio de 5 s) | 500 |
+| 2 | La Catrina tenía otro nombre | Formato de prensa rosa en plastilina; nació como «Calavera Garbancera». Cierra con catrinas reales del estudio | Fotos de 3-4 catrinas tatuadas (permiso del cliente, sin caras) + OK para usar el grabado de Posada (dominio público) | 600-900 |
+| 3 | 5 errores de un diseño hecho con IA | Juego de encontrar los errores; el último lo explica un artista | Texto de un artista | 280 |
+| 4 | Fauna del estudio: El Primerizo | Falso documental de naturaleza sobre la primera sesión | Nada | 980 |
+| 5 | PHARAON Pictures: La primera vez | Tráiler de terror del primer tatuaje; acaba con «—¿Ya está?» | Nada | 1.300 |
+| 6 | Mensajes de tu tatuaje (—T) | Notificaciones pasivo-agresivas del tatuaje con los cuidados | Los cuidados reales que recomendáis | 305 |
+| 7 | Tribunal de mitos | Juicio en plastilina: «¿El tatuaje impide donar sangre?» | Nada | 950 |
+| 8 | Normas para quien cierra la noche del 31 | VHS sin voz sobre el local real; acaba con la luz del logo | Opcional: 5 s del pasillo apagado | 300-630 |
+| 9 | Testamento de un tatuaje | Una rosa de cómic lee su testamento ante notario | Nada | 900 |
+| 10 | Nadie le enseñó a nadar al cerdo (martes 13) | Amuletos de marineros en plastilina durante un naufragio | El sí antes del jueves 8 | 1.350 |
+| 11 | Una vida, un tatuaje | Una muñeca con una golondrina en fotos de 2001 a hoy | Nada | 1.000 |
+| 12 | La hoja de flash (piloto) | Reality de diseños de flash; «que te expulsen» es que te tatúen | Nada | 1.520 |
+| 13 | Mamá, me he tatuado | Chat; la madre acaba mandando su tatuaje de 1989 | Nada | 230 |
+| 14 | Tatuaje fantasma | Ilusión óptica de post-imagen | Nada | 300 |
+| 15 | Test de revista teen | «Elige un tatuaje y te diré cómo eres»; trampa del efecto Forer | Nada | 630 |
 
-**Total:** ~13.800 créditos con los costes máximos. Quedarían ~2.100 de margen.
+**Total:** ~11.800 créditos con los costes máximos. Quedarían ~4.100 de margen.
 
-## La Catrina (recuperada a petición del usuario)
+**Descartadas por el usuario:** Ponencia de la contraseña del wifi y Castanyera contra calabaza.
 
-El critic la había descartado porque sin trabajos propios era un dato de efeméride. **Con catrinas reales tatuadas en PHARAON cambia:**
-- **Pieza:** estética de prensa rosa en plastilina: «EXCLUSIVA: la Catrina no se llamaba Catrina». Nació como «La Calavera Garbancera» de Posada, una burla a quien renegaba de sus raíces, y Diego Rivera le puso el nombre en 1947 [VERIFICAR fechas].
-- **Remate:** «Empezó siendo un insulto. Hoy la llevan en la piel como homenaje», con 3-4 catrinas reales del estudio.
-- **Derechos:**
-  - Los grabados de Posada son de dominio público, pero la regla actual solo admite Unsplash y Pexels: el usuario tiene que dar el OK.
-  - El mural de Rivera no se puede enseñar.
+**Halloween:** se recomiendan 2 (Catrina) y 8 (Normas del 31); 9 (Testamento) como tercera opcional.
