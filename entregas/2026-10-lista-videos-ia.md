@@ -30,3 +30,11 @@ Ninguno está producido. **No se gasta ningún crédito sin confirmación del us
 **Descartadas por el usuario:** Ponencia de la contraseña del wifi, Castanyera contra calabaza y La hoja de flash.
 
 **Halloween:** se recomiendan 2 (Catrina) y 8 (Normas del 31); 9 (Testamento) como tercera opcional.
+
+## Pendiente para el 08/10/2026 [Usuario, 07/10/2026]
+
+- **5 errores de un diseño hecho con IA:** rehacerlo sobre un diseño IA real que mandará el usuario.
+  - Sin subtítulos (solo en este vídeo).
+  - Se mantienen los círculos rojos, sin títulos arriba, la música plana y el logo oscurecido.
+  - Si los fallos del diseño nuevo no coinciden con la voz actual, regenerar la voz (~50 créditos) con confirmación previa del usuario.
+- **La Catrina:** cerrado, no se toca.
