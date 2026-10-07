@@ -51,3 +51,39 @@ Solo ideas, ninguna está producida. **No se genera nada ni se gastan créditos 
    - Permiso del cliente para enseñarlas, sin que se le pueda identificar.
 
 **Pendiente del usuario:** conocer la personalidad de cada artista (siguen PENDIENTE en sus fichas) para poder hacer piezas en las que el motivo para verlas sea el artista.
+
+---
+
+# Segunda ronda · reels que produce el equipo de IA entero
+
+El usuario aclara que quiere vídeos que hagamos nosotros de principio a fin. Como mucho le pedimos una toma corta («pásame esto»).
+
+**Proceso:**
+- El `creative` propuso 28 ideas.
+- El `critic` descartó 6, dejó 15 como mejorables y aprobó 7.
+
+**Regla del critic que adopta el Director:**
+- **Personajes:** siempre se ven claramente ficticios (plastilina, cómic, VHS degradado, sin cara o solo manos). Nada de personas IA fotorrealistas que puedan pasar por clientes.
+- **Tatuajes IA:** nunca pueden parecer trabajos de PHARAON.
+- **Cierre:** cada pieza termina con 2-3 s reales del estudio (la pared del logo o el zumbido).
+
+## Selección del Director (orden de producción propuesto)
+
+| # | Idea | Formato | Créditos | Qué hace falta del usuario |
+|---|---|---|---|---|
+| 1 | **¿Se puede o no se puede?** | Concurso: diseños casi imposibles (microtexto, solo tinta blanca, retrato de 3 cm, sobre cicatriz…); el espectador vota y responde un artista real | ~500 | La respuesta real de Uri, Avilas o Meii a cada caso (texto o audio de 5 s) |
+| 2 | **Mamá, me he tatuado** | Chat simulado; la madre escandalizada acaba mandando su tatuaje de 1989: «Tu padre aún no lo sabe» | ~230 | Nada |
+| 3 | **Fauna del estudio: El Primerizo** | Falso documental de naturaleza con narrador susurrando; personaje de plastilina o sin cara | ~980 | Nada |
+| 4 | **PHARAON Pictures: La primera vez** | Parodia de tráiler de terror en POV; final en silencio: «—¿Ya está?» | ~1.300 | 3 s del zumbido real de una máquina (opcional) |
+| 5 | **Tribunal de mitos** | Juicio en plastilina; primer caso: «¿El tatuaje te impide donar sangre?» (falso: en España esperas 4 meses) | ~950 | Nada |
+| 6 | **Test de revista teen** | «Elige un tatuaje y te diré cómo eres»; los 4 resultados son iguales (efecto Forer) | ~630 | Nada |
+| 7 | **Tatuaje fantasma** | Ilusión óptica: miras un punto 15 s y «ves» un tatuaje en un brazo vacío | ~300 | Nada |
+| 8 | **Una vida, un tatuaje** | Solo la muñeca con una golondrina en fotos de época, de 2001 a hoy: «Lo único que salió en todas las fotos» | ~1.000 | Nada |
+
+**Total de las 8:** ~5.900 créditos de los 15.900 que quedan.
+
+**Suplentes:**
+- **El tiempo en tu piel:** parodia del parte del tiempo sobre el cuerpo. Necesita que el equipo valide qué zonas duelen más.
+- **Noticiario 1891:** la máquina de tatuar viene de la pluma de Edison para copiar documentos.
+
+**Descartadas:** caso Ötzi, significados marineros, museo de la tinta, el espejo, 300 capturas y pico-final. O repetían la fórmula documental, o eran temas muy vistos, o los datos eran débiles o incorrectos.
