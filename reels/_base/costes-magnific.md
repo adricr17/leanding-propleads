@@ -40,3 +40,7 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - Voces nuevas de Fernando Ruiz (ElevenLabs turbo v2.5, el motor B): 143 créditos.
   - Montaje: 0 créditos. Las pausas se recortan con `reels/_base/ajustar_voz.py`; la voz casi no se acelera (como mucho un 6 %).
   - Voz por defecto a partir de ahora: Fernando Ruiz, turbo v2.5, estabilidad 0,45, velocidad 1,1. Cuesta unos 48 créditos por reel.
+- **07/10/2026, «La Catrina tenía otro nombre» y «5 errores de un diseño hecho con IA»:**
+  - Sin clips de Kling. Las imágenes fijas se animan con zoom y recortes, y se usan fotos reales y la toma del logo.
+  - Gasto: imágenes IA, 3 voces (una repetida para quitar "seis dedos") y 2 músicas.
+  - Total: 917 créditos, unos 460 por reel. Quedan 15.019.
