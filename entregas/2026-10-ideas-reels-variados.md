@@ -87,3 +87,41 @@ El usuario aclara que quiere vídeos que hagamos nosotros de principio a fin. Co
 - **Noticiario 1891:** la máquina de tatuar viene de la pluma de Edison para copiar documentos.
 
 **Descartadas:** caso Ötzi, significados marineros, museo de la tinta, el espejo, 300 capturas y pico-final. O repetían la fórmula documental, o eran temas muy vistos, o los datos eran débiles o incorrectos.
+
+---
+
+# Tercera ronda · Halloween, martes 13 y tendencias virales (07/10/2026)
+
+**Base:** informe del trend-hunter (`entregas/2026-10-tendencias-octubre.md`).
+
+**Proceso:**
+- El creative propuso 16 ideas.
+- El critic aprobó 3, dejó 8 como mejorables y descartó 5: Catrina, Consultas de ultratumba, Sospechoso nº 13, Simulador de pareja y Mira el segundo 1.
+
+## Halloween (semana del 26 al 31 de octubre)
+
+| # | Idea | Créditos | Cuándo |
+|---|---|---|---|
+| H1 | **Normas para quien cierra el estudio la noche del 31.** Cinta VHS sin narrador sobre fotos reales del local vacío. La última norma da la vuelta al vídeo: «Si a las 9:00 hay alguien esperando, ábrele. Tiene cita» → 3 s reales de la luz encendiéndose. | ~300-630 | Viernes 30 o sábado 31 |
+| H2 | **Testamento de un tatuaje.** Una rosa de cómic lee su testamento ante un notario de plastilina. Cierre cambiado para no repetir «Una vida, un tatuaje»: «Y si algún día me quitáis con láser, que conste que me fui sin rencor». | ~900 | Sábado 31, víspera de Todos los Santos |
+| H3 (opcional) | **Castanyera contra calabaza.** Debate electoral de plastilina. Solo si el bloque de tatuajes decide el debate y se queda en 2 voces. | ~900 | Sábado 31 |
+
+## Martes 13 de octubre (si se produce a partir del jueves 8)
+
+**Nadie le enseñó a nadar al cerdo** (reconvertida). Abre con «Martes 13. Ni te cases ni te embarques. Por si acaso, los marineros se tatuaban esto.» Después, el cerdo y el gallo tatuados en los pies de un marinero discuten en pleno naufragio. Coste: ~1.350.
+- **Alternativa más segura:** pantalla partida martes 13 en España contra viernes 13 en EE. UU., sin voz y sin citar a Oliver Peck. Coste: ~1.000.
+
+## Ampliación con tendencias
+
+| # | Idea | Créditos | Necesita |
+|---|---|---|---|
+| T1 | **Este diseño lo ha hecho una IA: 5 cosas que no se pueden tatuar** (juego de errores, debate actual) | ~280 | Texto de Uri, Avilas o Meii para el quinto error |
+| T2 | **Mensajes de tu tatuaje (—T):** notificaciones pasivo-agresivas («Te vi en la playa a las 15:00. Sin crema. —T») | ~305 | Validar los cuidados reales con el estudio |
+| T3 | **Ponencia: por qué deberías tatuarte la contraseña del wifi** (charla solemne absurda, con remate de oficio sobre el lettering) | ~1.230 | Nada |
+| T4 | **La hoja de flash** (reality de diseños de flash: «que te expulsen» es que te tatúen; el público vota). Solo como piloto y sin el nombre «Gran Hermano». | ~1.520 | Nada |
+
+**Separar en el calendario:**
+- T1 y «¿Se puede o no se puede?», por lo menos una semana.
+- T2 y «Mamá, me he tatuado», porque las dos usan el móvil.
+
+**Presupuesto:** Halloween + martes 13 + ampliación suman ~4.500-6.000 créditos, sobre los ~10.000 libres después de las 8 ya elegidas.
