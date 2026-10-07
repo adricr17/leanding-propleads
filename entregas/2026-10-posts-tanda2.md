@@ -218,3 +218,10 @@ Nota nueva: "- el nombre de mi perro ¿con la huella?" · "- algo de anime pero 
 ## Zoom extremo · versión final (06/10/2026)
 La ronda 4 ya no necesita foto de una vela: es "la de la portada" (¿Ya sabes qué es? → "Cera de una vela. Sí, también es piel."). Listo para publicar, como imágenes (tiene fotos de clientes, así que no pasa por URL pública ni por Canva).
 **Caption:** "Todo lo que vas a ver es piel. 4 rondas de zoom extremo a trabajos de Uri: piénsalo antes de deslizar y cuenta tus aciertos. La última es la de la portada. / ¿Cuántas de 4? Sin mentir. / Si quieres este nivel de detalle: idea, zona y tamaño por DM (Guía 01). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
+
+---
+
+## Ojos de realista · versión final (07/10/2026)
+Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve esto." · pregunta "¿Qué crees que fue lo más difícil de esta pieza?" · 01 La zona oscura · 02 El ojo en blanco · 03 Las grietas · 04 Lo más difícil: las serpientes (dos primeros planos) · Tu foto también se mira así (Guía 02) · cierre. Sin la diapositiva de la luz ni la de blanco y negro (Uri no quiso). Listo para publicar como imágenes (fotos de cliente: fuera del repositorio y de Canva).
+**Caption:** "Tú ves una medusa. Uri ve un maquillaje oscuro para que el ojo en blanco resalte, una esfera hecha con una sombra suave y grietas que no son líneas: "el realismo no tiene líneas, son conjuntos de sombras". / Antes de llegar a la 6: ¿qué crees que fue lo más difícil? Coméntalo y luego compara. / Medusa de Uri (@uri.cr_tattoo). / #tatuajerealista #realismotattoo #tatuajesbarcelona #santfeliudellobregat #baixllobregat"
+**Separación:** no publicar en la misma semana que Zoom extremo ni que Seis ojos.

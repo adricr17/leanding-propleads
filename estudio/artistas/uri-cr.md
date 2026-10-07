@@ -53,3 +53,11 @@ Fotos de 8 trabajos de realismo de Uri, con permiso de los clientes [Usuario]: d
 - Las fotos están en `privado/trabajos/uri/`, que no se sube al repositorio porque es público.
 - El payaso "Why so serious" es un personaje con derechos: se puede enseñar como trabajo, pero nunca como portada ni como reclamo.
 - Color: solo el vikingo lleva color (rojo). El morado que se ve en otras fotos son restos del stencil, no tinta [Usuario]. Al recortar o encuadrar, evitar las marcas de stencil o no presentarlas como color.
+
+## Cómo explica su trabajo (respuestas para "Ojos de realista", 07/10/2026) [Usuario]
+Sobre la medusa con la piel agrietada:
+- Zona oscura: alrededor del ojo deja una zona oscura, como un maquillaje, para que el ojo en blanco resalte muchísimo más.
+- Ojo en blanco: mete una sombra muy suave con el tono más claro alrededor para darle forma de esfera y, con un detalle de blanco, crea el brillo.
+- Grietas: no las trabaja con negro puro ni como una línea. "El realismo no tiene líneas, son conjuntos de sombras": cada grieta es una sombra más, con más o menos profundidad según la zona y el tono adecuado.
+- Lo más difícil: las serpientes, por el detalle y las texturas (como el brillo), y porque están en las dos zonas que más le duelen al cliente; la última, al final de la sesión, se hace más difícil.
+- No le interesa hablar de la dirección de la luz ni de mirar la referencia en blanco y negro.
