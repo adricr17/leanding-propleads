@@ -109,3 +109,22 @@ Todo el equipo se lleva muy bien. Fuente del equipo, estilos, disposición y din
 ## Agenda semanal
 
 La agenda cambia cada semana. El Director la pide al usuario y la apunta en la entrega de esa semana (`entregas/AAAA-Www.md`), no en esta ficha.
+
+## Respuestas del equipo para vídeos [Usuario, 07/10/2026]
+
+- **¿Se puede tatuar…?**
+  - Un texto de 2 mm: **no**.
+  - Solo con tinta blanca: **sí**.
+  - Un retrato realista de 3 cm: **no**.
+  - Encima de una cicatriz: **sí**.
+  - Degradado neón: sin respuesta todavía.
+  - PENDIENTE: qué artista firma estas respuestas.
+- **Diseños hechos con IA que trae el cliente.** Errores típicos:
+  - alguna malformación;
+  - muchos detalles pequeños;
+  - diseños sobrecargados;
+  - diseños no adaptados a la forma del cuerpo.
+  - Además, cuando el cliente hace el diseño con IA se le mete muy en la cabeza y cuesta explicarle y convencerle de que hay cosas que no se pueden hacer.
+- **Catrinas:** el estudio ha tatuado varias. Hay 2 fotos en `privado/trabajos/catrinas/`.
+  - PENDIENTE: qué artista las hizo y confirmar el permiso de los clientes.
+- **Grabado de Posada** (dominio público): el usuario autoriza enseñarlo.
