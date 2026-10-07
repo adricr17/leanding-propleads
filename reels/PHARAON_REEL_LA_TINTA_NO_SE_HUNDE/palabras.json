@@ -1,0 +1,512 @@
+[
+{
+"texto": "Tu",
+"escena": 1,
+"inicio": 0.04,
+"fin": 0.145
+},
+{
+"texto": "tatuaje",
+"escena": 1,
+"inicio": 0.203,
+"fin": 0.713
+},
+{
+"texto": "no",
+"escena": 1,
+"inicio": 0.771,
+"fin": 0.864
+},
+{
+"texto": "se",
+"escena": 1,
+"inicio": 0.922,
+"fin": 1.004
+},
+{
+"texto": "está",
+"escena": 1,
+"inicio": 1.027,
+"fin": 1.236
+},
+{
+"texto": "borrando.",
+"escena": 1,
+"inicio": 1.294,
+"fin": 1.956
+},
+{
+"texto": "Se",
+"escena": 1,
+"inicio": 2.246,
+"fin": 2.408
+},
+{
+"texto": "está",
+"escena": 1,
+"inicio": 2.431,
+"fin": 2.733
+},
+{
+"texto": "moviendo.",
+"escena": 1,
+"inicio": 2.791,
+"fin": 3.639
+},
+{
+"texto": "La",
+"escena": 2,
+"inicio": 3.929,
+"fin": 4.033
+},
+{
+"texto": "tinta",
+"escena": 2,
+"inicio": 4.068,
+"fin": 4.324
+},
+{
+"texto": "vive",
+"escena": 2,
+"inicio": 4.37,
+"fin": 4.602
+},
+{
+"texto": "en",
+"escena": 2,
+"inicio": 4.626,
+"fin": 4.707
+},
+{
+"texto": "la",
+"escena": 2,
+"inicio": 4.765,
+"fin": 4.846
+},
+{
+"texto": "dermis.",
+"escena": 2,
+"inicio": 4.893,
+"fin": 5.473
+},
+{
+"texto": "Pero",
+"escena": 3,
+"inicio": 5.763,
+"fin": 5.96
+},
+{
+"texto": "con",
+"escena": 3,
+"inicio": 5.995,
+"fin": 6.111
+},
+{
+"texto": "los",
+"escena": 3,
+"inicio": 6.146,
+"fin": 6.262
+},
+{
+"texto": "años,",
+"escena": 3,
+"inicio": 6.297,
+"fin": 6.819
+},
+{
+"texto": "las",
+"escena": 3,
+"inicio": 7.11,
+"fin": 7.237
+},
+{
+"texto": "partículas",
+"escena": 3,
+"inicio": 7.295,
+"fin": 7.806
+},
+{
+"texto": "se",
+"escena": 3,
+"inicio": 7.829,
+"fin": 7.911
+},
+{
+"texto": "desplazan",
+"escena": 3,
+"inicio": 7.957,
+"fin": 8.41
+},
+{
+"texto": "un",
+"escena": 3,
+"inicio": 8.468,
+"fin": 8.526
+},
+{
+"texto": "poquito",
+"escena": 3,
+"inicio": 8.584,
+"fin": 8.979
+},
+{
+"texto": "hacia",
+"escena": 3,
+"inicio": 9.025,
+"fin": 9.269
+},
+{
+"texto": "los",
+"escena": 3,
+"inicio": 9.304,
+"fin": 9.431
+},
+{
+"texto": "lados.",
+"escena": 3,
+"inicio": 9.529,
+"fin": 10.052
+},
+{
+"texto": "Una",
+"escena": 4,
+"inicio": 10.342,
+"fin": 10.493
+},
+{
+"texto": "parte",
+"escena": 4,
+"inicio": 10.54,
+"fin": 10.76
+},
+{
+"texto": "incluso",
+"escena": 4,
+"inicio": 10.795,
+"fin": 11.155
+},
+{
+"texto": "viaja",
+"escena": 4,
+"inicio": 11.201,
+"fin": 11.468
+},
+{
+"texto": "por",
+"escena": 4,
+"inicio": 11.526,
+"fin": 11.677
+},
+{
+"texto": "tu",
+"escena": 4,
+"inicio": 11.735,
+"fin": 11.828
+},
+{
+"texto": "cuerpo,",
+"escena": 4,
+"inicio": 11.863,
+"fin": 12.479
+},
+{
+"texto": "hasta",
+"escena": 4,
+"inicio": 12.699,
+"fin": 12.931
+},
+{
+"texto": "los",
+"escena": 4,
+"inicio": 12.966,
+"fin": 13.082
+},
+{
+"texto": "ganglios.",
+"escena": 4,
+"inicio": 13.129,
+"fin": 13.756
+},
+{
+"texto": "Y",
+"escena": 5,
+"inicio": 14.046,
+"fin": 14.104
+},
+{
+"texto": "el",
+"escena": 5,
+"inicio": 14.162,
+"fin": 14.232
+},
+{
+"texto": "sol",
+"escena": 5,
+"inicio": 14.29,
+"fin": 14.453
+},
+{
+"texto": "va",
+"escena": 5,
+"inicio": 14.511,
+"fin": 14.58
+},
+{
+"texto": "rompiendo",
+"escena": 5,
+"inicio": 14.638,
+"fin": 15.08
+},
+{
+"texto": "el",
+"escena": 5,
+"inicio": 15.103,
+"fin": 15.161
+},
+{
+"texto": "pigmento",
+"escena": 5,
+"inicio": 15.219,
+"fin": 15.718
+},
+{
+"texto": "poco",
+"escena": 5,
+"inicio": 15.776,
+"fin": 16.055
+},
+{
+"texto": "a",
+"escena": 5,
+"inicio": 16.101,
+"fin": 16.136
+},
+{
+"texto": "poco.",
+"escena": 5,
+"inicio": 16.183,
+"fin": 16.74
+},
+{
+"texto": "Por",
+"escena": 6,
+"inicio": 17.03,
+"fin": 17.181
+},
+{
+"texto": "eso",
+"escena": 6,
+"inicio": 17.216,
+"fin": 17.332
+},
+{
+"texto": "las",
+"escena": 6,
+"inicio": 17.39,
+"fin": 17.495
+},
+{
+"texto": "líneas",
+"escena": 6,
+"inicio": 17.553,
+"fin": 17.855
+},
+{
+"texto": "muy",
+"escena": 6,
+"inicio": 17.901,
+"fin": 18.029
+},
+{
+"texto": "finas",
+"escena": 6,
+"inicio": 18.087,
+"fin": 18.412
+},
+{
+"texto": "o",
+"escena": 6,
+"inicio": 18.482,
+"fin": 18.505
+},
+{
+"texto": "muy",
+"escena": 6,
+"inicio": 18.551,
+"fin": 18.667
+},
+{
+"texto": "juntas",
+"escena": 6,
+"inicio": 18.702,
+"fin": 19.143
+},
+{
+"texto": "acaban",
+"escena": 6,
+"inicio": 19.213,
+"fin": 19.538
+},
+{
+"texto": "fundiéndose.",
+"escena": 6,
+"inicio": 19.596,
+"fin": 20.525
+},
+{
+"texto": "Los",
+"escena": 7,
+"inicio": 20.815,
+"fin": 20.966
+},
+{
+"texto": "que",
+"escena": 7,
+"inicio": 21.012,
+"fin": 21.082
+},
+{
+"texto": "mejor",
+"escena": 7,
+"inicio": 21.117,
+"fin": 21.36
+},
+{
+"texto": "envejecen",
+"escena": 7,
+"inicio": 21.418,
+"fin": 21.976
+},
+{
+"texto": "tienen",
+"escena": 7,
+"inicio": 22.034,
+"fin": 22.278
+},
+{
+"texto": "espacio",
+"escena": 7,
+"inicio": 22.336,
+"fin": 22.765
+},
+{
+"texto": "para",
+"escena": 7,
+"inicio": 22.812,
+"fin": 22.974
+},
+{
+"texto": "respirar.",
+"escena": 7,
+"inicio": 23.032,
+"fin": 23.706
+},
+{
+"texto": "No",
+"escena": 8,
+"inicio": 23.996,
+"fin": 24.101
+},
+{
+"texto": "es",
+"escena": 8,
+"inicio": 24.135,
+"fin": 24.194
+},
+{
+"texto": "que",
+"escena": 8,
+"inicio": 24.252,
+"fin": 24.344
+},
+{
+"texto": "la",
+"escena": 8,
+"inicio": 24.402,
+"fin": 24.484
+},
+{
+"texto": "tinta",
+"escena": 8,
+"inicio": 24.542,
+"fin": 24.89
+},
+{
+"texto": "se",
+"escena": 8,
+"inicio": 24.948,
+"fin": 25.053
+},
+{
+"texto": "hunda.",
+"escena": 8,
+"inicio": 25.076,
+"fin": 25.633
+},
+{
+"texto": "Es",
+"escena": 8,
+"inicio": 25.923,
+"fin": 26.109
+},
+{
+"texto": "que",
+"escena": 8,
+"inicio": 26.167,
+"fin": 26.376
+},
+{
+"texto": "nunca",
+"escena": 8,
+"inicio": 26.597,
+"fin": 26.945
+},
+{
+"texto": "deja",
+"escena": 8,
+"inicio": 26.991,
+"fin": 27.2
+},
+{
+"texto": "de",
+"escena": 8,
+"inicio": 27.247,
+"fin": 27.317
+},
+{
+"texto": "moverse.",
+"escena": 8,
+"inicio": 27.363,
+"fin": 28.071
+},
+{
+"texto": "¿El",
+"escena": 9,
+"inicio": 28.361,
+"fin": 28.547
+},
+{
+"texto": "tuyo",
+"escena": 9,
+"inicio": 28.605,
+"fin": 28.837
+},
+{
+"texto": "ya",
+"escena": 9,
+"inicio": 28.884,
+"fin": 28.954
+},
+{
+"texto": "ha",
+"escena": 9,
+"inicio": 28.977,
+"fin": 29.023
+},
+{
+"texto": "empezado?",
+"escena": 9,
+"inicio": 29.07,
+"fin": 29.65
+}
+]

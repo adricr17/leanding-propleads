@@ -1,0 +1,524 @@
+[
+{
+"texto": "Tu",
+"escena": 1,
+"inicio": 0.039,
+"fin": 0.129
+},
+{
+"texto": "cuerpo",
+"escena": 1,
+"inicio": 0.174,
+"fin": 0.456
+},
+{
+"texto": "lleva",
+"escena": 1,
+"inicio": 0.479,
+"fin": 0.704
+},
+{
+"texto": "años",
+"escena": 1,
+"inicio": 0.726,
+"fin": 1.065
+},
+{
+"texto": "intentando",
+"escena": 1,
+"inicio": 1.132,
+"fin": 1.696
+},
+{
+"texto": "eliminar",
+"escena": 1,
+"inicio": 1.73,
+"fin": 2.113
+},
+{
+"texto": "tu",
+"escena": 1,
+"inicio": 2.181,
+"fin": 2.282
+},
+{
+"texto": "tatuaje.",
+"escena": 1,
+"inicio": 2.338,
+"fin": 3.049
+},
+{
+"texto": "La",
+"escena": 2,
+"inicio": 3.33,
+"fin": 3.419
+},
+{
+"texto": "aguja",
+"escena": 2,
+"inicio": 3.443,
+"fin": 3.679
+},
+{
+"texto": "mete",
+"escena": 2,
+"inicio": 3.736,
+"fin": 3.927
+},
+{
+"texto": "la",
+"escena": 2,
+"inicio": 3.972,
+"fin": 4.051
+},
+{
+"texto": "tinta",
+"escena": 2,
+"inicio": 4.096,
+"fin": 4.355
+},
+{
+"texto": "debajo",
+"escena": 2,
+"inicio": 4.389,
+"fin": 4.683
+},
+{
+"texto": "de",
+"escena": 2,
+"inicio": 4.727,
+"fin": 4.783
+},
+{
+"texto": "la",
+"escena": 2,
+"inicio": 4.829,
+"fin": 4.896
+},
+{
+"texto": "piel",
+"escena": 2,
+"inicio": 4.942,
+"fin": 5.167
+},
+{
+"texto": "que",
+"escena": 2,
+"inicio": 5.235,
+"fin": 5.348
+},
+{
+"texto": "se",
+"escena": 2,
+"inicio": 5.392,
+"fin": 5.483
+},
+{
+"texto": "renueva.",
+"escena": 2,
+"inicio": 5.55,
+"fin": 6.17
+},
+{
+"texto": "Y",
+"escena": 3,
+"inicio": 6.451,
+"fin": 6.508
+},
+{
+"texto": "ahí",
+"escena": 3,
+"inicio": 6.564,
+"fin": 6.688
+},
+{
+"texto": "abajo,",
+"escena": 3,
+"inicio": 6.733,
+"fin": 7.285
+},
+{
+"texto": "tu",
+"escena": 3,
+"inicio": 7.534,
+"fin": 7.647
+},
+{
+"texto": "sistema",
+"escena": 3,
+"inicio": 7.703,
+"fin": 8.097
+},
+{
+"texto": "inmune",
+"escena": 3,
+"inicio": 8.142,
+"fin": 8.469
+},
+{
+"texto": "detecta",
+"escena": 3,
+"inicio": 8.515,
+"fin": 8.977
+},
+{
+"texto": "un",
+"escena": 3,
+"inicio": 9.033,
+"fin": 9.112
+},
+{
+"texto": "intruso.",
+"escena": 3,
+"inicio": 9.168,
+"fin": 9.855
+},
+{
+"texto": "Manda",
+"escena": 4,
+"inicio": 10.137,
+"fin": 10.442
+},
+{
+"texto": "a",
+"escena": 4,
+"inicio": 10.464,
+"fin": 10.486
+},
+{
+"texto": "sus",
+"escena": 4,
+"inicio": 10.543,
+"fin": 10.735
+},
+{
+"texto": "células",
+"escena": 4,
+"inicio": 10.757,
+"fin": 11.163
+},
+{
+"texto": "limpiadoras:",
+"escena": 4,
+"inicio": 11.264,
+"fin": 12.144
+},
+{
+"texto": "los",
+"escena": 4,
+"inicio": 12.425,
+"fin": 12.572
+},
+{
+"texto": "macrófagos.",
+"escena": 4,
+"inicio": 12.64,
+"fin": 13.428
+},
+{
+"texto": "Se",
+"escena": 5,
+"inicio": 13.71,
+"fin": 13.811
+},
+{
+"texto": "la",
+"escena": 5,
+"inicio": 13.867,
+"fin": 13.935
+},
+{
+"texto": "tragan…",
+"escena": 5,
+"inicio": 13.98,
+"fin": 14.51
+},
+{
+"texto": "pero",
+"escena": 5,
+"inicio": 14.791,
+"fin": 14.983
+},
+{
+"texto": "no",
+"escena": 5,
+"inicio": 15.017,
+"fin": 15.084
+},
+{
+"texto": "pueden",
+"escena": 5,
+"inicio": 15.13,
+"fin": 15.389
+},
+{
+"texto": "digerirla.",
+"escena": 5,
+"inicio": 15.434,
+"fin": 16.145
+},
+{
+"texto": "Cuando",
+"escena": 6,
+"inicio": 16.426,
+"fin": 16.719
+},
+{
+"texto": "una",
+"escena": 6,
+"inicio": 16.776,
+"fin": 16.911
+},
+{
+"texto": "muere,",
+"escena": 6,
+"inicio": 16.967,
+"fin": 17.384
+},
+{
+"texto": "la",
+"escena": 6,
+"inicio": 17.598,
+"fin": 17.711
+},
+{
+"texto": "suelta…",
+"escena": 6,
+"inicio": 17.767,
+"fin": 18.376
+},
+{
+"texto": "y",
+"escena": 6,
+"inicio": 18.657,
+"fin": 18.69
+},
+{
+"texto": "otra",
+"escena": 6,
+"inicio": 18.736,
+"fin": 18.961
+},
+{
+"texto": "se",
+"escena": 6,
+"inicio": 19.017,
+"fin": 19.096
+},
+{
+"texto": "la",
+"escena": 6,
+"inicio": 19.142,
+"fin": 19.21
+},
+{
+"texto": "vuelve",
+"escena": 6,
+"inicio": 19.254,
+"fin": 19.491
+},
+{
+"texto": "a",
+"escena": 6,
+"inicio": 19.525,
+"fin": 19.548
+},
+{
+"texto": "tragar.",
+"escena": 6,
+"inicio": 19.592,
+"fin": 20.134
+},
+{
+"texto": "Por",
+"escena": 7,
+"inicio": 20.416,
+"fin": 20.562
+},
+{
+"texto": "eso",
+"escena": 7,
+"inicio": 20.608,
+"fin": 20.754
+},
+{
+"texto": "lo",
+"escena": 7,
+"inicio": 20.799,
+"fin": 20.878
+},
+{
+"texto": "que",
+"escena": 7,
+"inicio": 20.923,
+"fin": 21.002
+},
+{
+"texto": "hace",
+"escena": 7,
+"inicio": 21.036,
+"fin": 21.193
+},
+{
+"texto": "un",
+"escena": 7,
+"inicio": 21.261,
+"fin": 21.34
+},
+{
+"texto": "tatuador",
+"escena": 7,
+"inicio": 21.396,
+"fin": 21.858
+},
+{
+"texto": "dura",
+"escena": 7,
+"inicio": 21.96,
+"fin": 22.208
+},
+{
+"texto": "décadas.",
+"escena": 7,
+"inicio": 22.253,
+"fin": 22.873
+},
+{
+"texto": "Pero",
+"escena": 8,
+"inicio": 23.154,
+"fin": 23.357
+},
+{
+"texto": "no",
+"escena": 8,
+"inicio": 23.402,
+"fin": 23.492
+},
+{
+"texto": "es",
+"escena": 8,
+"inicio": 23.549,
+"fin": 23.627
+},
+{
+"texto": "tinta",
+"escena": 8,
+"inicio": 23.683,
+"fin": 24.022
+},
+{
+"texto": "quieta:",
+"escena": 8,
+"inicio": 24.079,
+"fin": 24.63
+},
+{
+"texto": "es",
+"escena": 8,
+"inicio": 24.912,
+"fin": 25.047
+},
+{
+"texto": "tinta",
+"escena": 8,
+"inicio": 25.103,
+"fin": 25.374
+},
+{
+"texto": "que",
+"escena": 8,
+"inicio": 25.418,
+"fin": 25.509
+},
+{
+"texto": "tus",
+"escena": 8,
+"inicio": 25.553,
+"fin": 25.7
+},
+{
+"texto": "células",
+"escena": 8,
+"inicio": 25.723,
+"fin": 26.083
+},
+{
+"texto": "se",
+"escena": 8,
+"inicio": 26.117,
+"fin": 26.208
+},
+{
+"texto": "pasan",
+"escena": 8,
+"inicio": 26.264,
+"fin": 26.58
+},
+{
+"texto": "toda",
+"escena": 8,
+"inicio": 26.681,
+"fin": 26.951
+},
+{
+"texto": "tu",
+"escena": 8,
+"inicio": 27.019,
+"fin": 27.132
+},
+{
+"texto": "vida.",
+"escena": 8,
+"inicio": 27.188,
+"fin": 27.583
+},
+{
+"texto": "¿Cuántos",
+"escena": 9,
+"inicio": 27.864,
+"fin": 28.214
+},
+{
+"texto": "años",
+"escena": 9,
+"inicio": 28.236,
+"fin": 28.484
+},
+{
+"texto": "lleva",
+"escena": 9,
+"inicio": 28.518,
+"fin": 28.698
+},
+{
+"texto": "tu",
+"escena": 9,
+"inicio": 28.744,
+"fin": 28.834
+},
+{
+"texto": "cuerpo",
+"escena": 9,
+"inicio": 28.868,
+"fin": 29.172
+},
+{
+"texto": "con",
+"escena": 9,
+"inicio": 29.217,
+"fin": 29.33
+},
+{
+"texto": "el",
+"escena": 9,
+"inicio": 29.386,
+"fin": 29.443
+},
+{
+"texto": "tuyo?",
+"escena": 9,
+"inicio": 29.487,
+"fin": 29.849
+}
+]

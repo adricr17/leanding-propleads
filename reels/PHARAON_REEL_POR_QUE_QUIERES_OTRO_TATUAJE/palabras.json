@@ -1,0 +1,494 @@
+[
+{
+"texto": "El",
+"escena": 1,
+"inicio": 0.038,
+"fin": 0.125
+},
+{
+"texto": "primer",
+"escena": 1,
+"inicio": 0.169,
+"fin": 0.377
+},
+{
+"texto": "tatuaje",
+"escena": 1,
+"inicio": 0.432,
+"fin": 0.826
+},
+{
+"texto": "casi",
+"escena": 1,
+"inicio": 0.881,
+"fin": 1.09
+},
+{
+"texto": "nunca",
+"escena": 1,
+"inicio": 1.133,
+"fin": 1.451
+},
+{
+"texto": "es",
+"escena": 1,
+"inicio": 1.506,
+"fin": 1.604
+},
+{
+"texto": "el",
+"escena": 1,
+"inicio": 1.67,
+"fin": 1.725
+},
+{
+"texto": "último.",
+"escena": 1,
+"inicio": 1.779,
+"fin": 2.316
+},
+{
+"texto": "Antes",
+"escena": 2,
+"inicio": 2.561,
+"fin": 2.944
+},
+{
+"texto": "de",
+"escena": 2,
+"inicio": 2.989,
+"fin": 3.043
+},
+{
+"texto": "hacértelo,",
+"escena": 2,
+"inicio": 3.087,
+"fin": 3.854
+},
+{
+"texto": "tu",
+"escena": 2,
+"inicio": 4.127,
+"fin": 4.237
+},
+{
+"texto": "cabeza",
+"escena": 2,
+"inicio": 4.281,
+"fin": 4.543
+},
+{
+"texto": "imagina",
+"escena": 2,
+"inicio": 4.588,
+"fin": 4.992
+},
+{
+"texto": "un",
+"escena": 2,
+"inicio": 5.047,
+"fin": 5.125
+},
+{
+"texto": "dolor",
+"escena": 2,
+"inicio": 5.19,
+"fin": 5.431
+},
+{
+"texto": "enorme.",
+"escena": 2,
+"inicio": 5.486,
+"fin": 6.055
+},
+{
+"texto": "Luego",
+"escena": 3,
+"inicio": 6.3,
+"fin": 6.607
+},
+{
+"texto": "llega…",
+"escena": 3,
+"inicio": 6.629,
+"fin": 7.253
+},
+{
+"texto": "y",
+"escena": 3,
+"inicio": 7.498,
+"fin": 7.553
+},
+{
+"texto": "es",
+"escena": 3,
+"inicio": 7.608,
+"fin": 7.684
+},
+{
+"texto": "menos",
+"escena": 3,
+"inicio": 7.739,
+"fin": 7.991
+},
+{
+"texto": "de",
+"escena": 3,
+"inicio": 8.045,
+"fin": 8.1
+},
+{
+"texto": "lo",
+"escena": 3,
+"inicio": 8.143,
+"fin": 8.221
+},
+{
+"texto": "que",
+"escena": 3,
+"inicio": 8.264,
+"fin": 8.341
+},
+{
+"texto": "esperabas.",
+"escena": 3,
+"inicio": 8.362,
+"fin": 9.075
+},
+{
+"texto": "Mientras",
+"escena": 4,
+"inicio": 9.32,
+"fin": 9.704
+},
+{
+"texto": "te",
+"escena": 4,
+"inicio": 9.758,
+"fin": 9.835
+},
+{
+"texto": "tatúan,",
+"escena": 4,
+"inicio": 9.878,
+"fin": 10.536
+},
+{
+"texto": "tu",
+"escena": 4,
+"inicio": 10.809,
+"fin": 10.908
+},
+{
+"texto": "cuerpo",
+"escena": 4,
+"inicio": 10.952,
+"fin": 11.248
+},
+{
+"texto": "suelta",
+"escena": 4,
+"inicio": 11.292,
+"fin": 11.653
+},
+{
+"texto": "adrenalina",
+"escena": 4,
+"inicio": 11.675,
+"fin": 12.277
+},
+{
+"texto": "y",
+"escena": 4,
+"inicio": 12.354,
+"fin": 12.375
+},
+{
+"texto": "endorfinas:",
+"escena": 4,
+"inicio": 12.42,
+"fin": 13.263
+},
+{
+"texto": "sus",
+"escena": 4,
+"inicio": 13.592,
+"fin": 13.756
+},
+{
+"texto": "propios",
+"escena": 4,
+"inicio": 13.8,
+"fin": 14.161
+},
+{
+"texto": "calmantes.",
+"escena": 4,
+"inicio": 14.216,
+"fin": 14.95
+},
+{
+"texto": "Sales",
+"escena": 5,
+"inicio": 15.195,
+"fin": 15.48
+},
+{
+"texto": "de",
+"escena": 5,
+"inicio": 15.524,
+"fin": 15.578
+},
+{
+"texto": "ahí",
+"escena": 5,
+"inicio": 15.623,
+"fin": 15.754
+},
+{
+"texto": "con",
+"escena": 5,
+"inicio": 15.819,
+"fin": 15.951
+},
+{
+"texto": "un",
+"escena": 5,
+"inicio": 16.006,
+"fin": 16.082
+},
+{
+"texto": "subidón",
+"escena": 5,
+"inicio": 16.137,
+"fin": 16.531
+},
+{
+"texto": "raro.",
+"escena": 5,
+"inicio": 16.63,
+"fin": 17.079
+},
+{
+"texto": "Pero",
+"escena": 6,
+"inicio": 17.325,
+"fin": 17.5
+},
+{
+"texto": "a",
+"escena": 6,
+"inicio": 17.522,
+"fin": 17.543
+},
+{
+"texto": "las",
+"escena": 6,
+"inicio": 17.576,
+"fin": 17.686
+},
+{
+"texto": "pocas",
+"escena": 6,
+"inicio": 17.741,
+"fin": 18.004
+},
+{
+"texto": "semanas,",
+"escena": 6,
+"inicio": 18.025,
+"fin": 18.683
+},
+{
+"texto": "tu",
+"escena": 6,
+"inicio": 18.957,
+"fin": 19.066
+},
+{
+"texto": "cerebro",
+"escena": 6,
+"inicio": 19.11,
+"fin": 19.46
+},
+{
+"texto": "se",
+"escena": 6,
+"inicio": 19.515,
+"fin": 19.592
+},
+{
+"texto": "acostumbra",
+"escena": 6,
+"inicio": 19.625,
+"fin": 20.14
+},
+{
+"texto": "al",
+"escena": 6,
+"inicio": 20.161,
+"fin": 20.249
+},
+{
+"texto": "tatuaje.",
+"escena": 6,
+"inicio": 20.325,
+"fin": 21.104
+},
+{
+"texto": "Deja",
+"escena": 7,
+"inicio": 21.349,
+"fin": 21.59
+},
+{
+"texto": "de",
+"escena": 7,
+"inicio": 21.623,
+"fin": 21.699
+},
+{
+"texto": "ser",
+"escena": 7,
+"inicio": 21.754,
+"fin": 21.918
+},
+{
+"texto": "nuevo.",
+"escena": 7,
+"inicio": 21.995,
+"fin": 22.477
+},
+{
+"texto": "Ya",
+"escena": 7,
+"inicio": 22.723,
+"fin": 22.876
+},
+{
+"texto": "es",
+"escena": 7,
+"inicio": 22.898,
+"fin": 22.986
+},
+{
+"texto": "parte",
+"escena": 7,
+"inicio": 23.051,
+"fin": 23.402
+},
+{
+"texto": "de",
+"escena": 7,
+"inicio": 23.445,
+"fin": 23.533
+},
+{
+"texto": "ti.",
+"escena": 7,
+"inicio": 23.61,
+"fin": 24.037
+},
+{
+"texto": "Así",
+"escena": 8,
+"inicio": 24.282,
+"fin": 24.469
+},
+{
+"texto": "que",
+"escena": 8,
+"inicio": 24.524,
+"fin": 24.6
+},
+{
+"texto": "no",
+"escena": 8,
+"inicio": 24.644,
+"fin": 24.731
+},
+{
+"texto": "quieres",
+"escena": 8,
+"inicio": 24.786,
+"fin": 25.147
+},
+{
+"texto": "otro",
+"escena": 8,
+"inicio": 25.246,
+"fin": 25.531
+},
+{
+"texto": "tatuaje.",
+"escena": 8,
+"inicio": 25.586,
+"fin": 26.407
+},
+{
+"texto": "Quieres",
+"escena": 8,
+"inicio": 26.652,
+"fin": 26.925
+},
+{
+"texto": "volver",
+"escena": 8,
+"inicio": 26.958,
+"fin": 27.232
+},
+{
+"texto": "a",
+"escena": 8,
+"inicio": 27.287,
+"fin": 27.308
+},
+{
+"texto": "sentir",
+"escena": 8,
+"inicio": 27.353,
+"fin": 27.681
+},
+{
+"texto": "el",
+"escena": 8,
+"inicio": 27.736,
+"fin": 27.813
+},
+{
+"texto": "primero.",
+"escena": 8,
+"inicio": 27.868,
+"fin": 28.459
+},
+{
+"texto": "¿Cuántos",
+"escena": 9,
+"inicio": 28.705,
+"fin": 29.142
+},
+{
+"texto": "llevas",
+"escena": 9,
+"inicio": 29.175,
+"fin": 29.472
+},
+{
+"texto": "desde",
+"escena": 9,
+"inicio": 29.526,
+"fin": 29.767
+},
+{
+"texto": "el",
+"escena": 9,
+"inicio": 29.789,
+"fin": 29.855
+},
+{
+"texto": "primero?",
+"escena": 9,
+"inicio": 29.909,
+"fin": 30.413
+}
+]
