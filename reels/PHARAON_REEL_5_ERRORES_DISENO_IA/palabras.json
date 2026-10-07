@@ -1,0 +1,620 @@
+[
+{
+"texto": "Este",
+"escena": 1,
+"inicio": 0.04,
+"fin": 0.237
+},
+{
+"texto": "diseño",
+"escena": 1,
+"inicio": 0.284,
+"fin": 0.632
+},
+{
+"texto": "lo",
+"escena": 1,
+"inicio": 0.667,
+"fin": 0.76
+},
+{
+"texto": "ha",
+"escena": 1,
+"inicio": 0.818,
+"fin": 0.876
+},
+{
+"texto": "hecho",
+"escena": 1,
+"inicio": 0.899,
+"fin": 1.131
+},
+{
+"texto": "una",
+"escena": 1,
+"inicio": 1.155,
+"fin": 1.317
+},
+{
+"texto": "IA",
+"escena": 1,
+"inicio": 1.375,
+"fin": 1.538
+},
+{
+"texto": "en",
+"escena": 1,
+"inicio": 1.561,
+"fin": 1.642
+},
+{
+"texto": "cuatro",
+"escena": 1,
+"inicio": 1.7,
+"fin": 2.037
+},
+{
+"texto": "segundos.",
+"escena": 1,
+"inicio": 2.072,
+"fin": 2.745
+},
+{
+"texto": "Y",
+"escena": 1,
+"inicio": 3.005,
+"fin": 3.075
+},
+{
+"texto": "tiene",
+"escena": 1,
+"inicio": 3.133,
+"fin": 3.331
+},
+{
+"texto": "cinco",
+"escena": 1,
+"inicio": 3.365,
+"fin": 3.644
+},
+{
+"texto": "cosas",
+"escena": 1,
+"inicio": 3.69,
+"fin": 3.992
+},
+{
+"texto": "que",
+"escena": 1,
+"inicio": 4.05,
+"fin": 4.225
+},
+{
+"texto": "no",
+"escena": 1,
+"inicio": 4.387,
+"fin": 4.492
+},
+{
+"texto": "se",
+"escena": 1,
+"inicio": 4.538,
+"fin": 4.631
+},
+{
+"texto": "pueden",
+"escena": 1,
+"inicio": 4.689,
+"fin": 4.944
+},
+{
+"texto": "tatuar.",
+"escena": 1,
+"inicio": 5.002,
+"fin": 5.594
+},
+{
+"texto": "¿Las",
+"escena": 2,
+"inicio": 5.854,
+"fin": 6.063
+},
+{
+"texto": "ves?",
+"escena": 2,
+"inicio": 6.121,
+"fin": 6.516
+},
+{
+"texto": "Uno:",
+"escena": 3,
+"inicio": 6.776,
+"fin": 7.182
+},
+{
+"texto": "malformaciones.",
+"escena": 3,
+"inicio": 7.442,
+"fin": 8.591
+},
+{
+"texto": "Mira",
+"escena": 4,
+"inicio": 8.851,
+"fin": 9.037
+},
+{
+"texto": "esa",
+"escena": 4,
+"inicio": 9.06,
+"fin": 9.2
+},
+{
+"texto": "mano.",
+"escena": 4,
+"inicio": 9.246,
+"fin": 9.618
+},
+{
+"texto": "Y",
+"escena": 5,
+"inicio": 9.878,
+"fin": 9.936
+},
+{
+"texto": "esos",
+"escena": 5,
+"inicio": 9.994,
+"fin": 10.18
+},
+{
+"texto": "números",
+"escena": 5,
+"inicio": 10.238,
+"fin": 10.575
+},
+{
+"texto": "del",
+"escena": 5,
+"inicio": 10.633,
+"fin": 10.749
+},
+{
+"texto": "reloj.",
+"escena": 5,
+"inicio": 10.807,
+"fin": 11.271
+},
+{
+"texto": "Dos:",
+"escena": 6,
+"inicio": 11.531,
+"fin": 12.007
+},
+{
+"texto": "detalles",
+"escena": 6,
+"inicio": 12.297,
+"fin": 12.669
+},
+{
+"texto": "tan",
+"escena": 6,
+"inicio": 12.715,
+"fin": 12.82
+},
+{
+"texto": "pequeños",
+"escena": 6,
+"inicio": 12.878,
+"fin": 13.272
+},
+{
+"texto": "que",
+"escena": 6,
+"inicio": 13.331,
+"fin": 13.4
+},
+{
+"texto": "en",
+"escena": 6,
+"inicio": 13.423,
+"fin": 13.47
+},
+{
+"texto": "la",
+"escena": 6,
+"inicio": 13.528,
+"fin": 13.598
+},
+{
+"texto": "piel",
+"escena": 6,
+"inicio": 13.644,
+"fin": 13.818
+},
+{
+"texto": "acaban",
+"escena": 6,
+"inicio": 13.865,
+"fin": 14.132
+},
+{
+"texto": "siendo",
+"escena": 6,
+"inicio": 14.178,
+"fin": 14.48
+},
+{
+"texto": "una",
+"escena": 6,
+"inicio": 14.538,
+"fin": 14.666
+},
+{
+"texto": "mancha.",
+"escena": 6,
+"inicio": 14.724,
+"fin": 15.235
+},
+{
+"texto": "Tres:",
+"escena": 7,
+"inicio": 15.495,
+"fin": 15.983
+},
+{
+"texto": "está",
+"escena": 7,
+"inicio": 16.331,
+"fin": 16.598
+},
+{
+"texto": "sobrecargado.",
+"escena": 7,
+"inicio": 16.656,
+"fin": 17.527
+},
+{
+"texto": "No",
+"escena": 7,
+"inicio": 17.787,
+"fin": 17.891
+},
+{
+"texto": "queda",
+"escena": 7,
+"inicio": 17.937,
+"fin": 18.123
+},
+{
+"texto": "ni",
+"escena": 7,
+"inicio": 18.17,
+"fin": 18.251
+},
+{
+"texto": "un",
+"escena": 7,
+"inicio": 18.321,
+"fin": 18.402
+},
+{
+"texto": "hueco",
+"escena": 7,
+"inicio": 18.437,
+"fin": 18.715
+},
+{
+"texto": "para",
+"escena": 7,
+"inicio": 18.773,
+"fin": 18.948
+},
+{
+"texto": "respirar.",
+"escena": 7,
+"inicio": 19.006,
+"fin": 19.609
+},
+{
+"texto": "Cuatro:",
+"escena": 8,
+"inicio": 19.869,
+"fin": 20.369
+},
+{
+"texto": "no",
+"escena": 8,
+"inicio": 20.629,
+"fin": 20.722
+},
+{
+"texto": "está",
+"escena": 8,
+"inicio": 20.745,
+"fin": 20.896
+},
+{
+"texto": "pensado",
+"escena": 8,
+"inicio": 20.954,
+"fin": 21.337
+},
+{
+"texto": "para",
+"escena": 8,
+"inicio": 21.395,
+"fin": 21.581
+},
+{
+"texto": "un",
+"escena": 8,
+"inicio": 21.639,
+"fin": 21.72
+},
+{
+"texto": "cuerpo.",
+"escena": 8,
+"inicio": 21.767,
+"fin": 22.278
+},
+{
+"texto": "Un",
+"escena": 8,
+"inicio": 22.538,
+"fin": 22.631
+},
+{
+"texto": "brazo",
+"escena": 8,
+"inicio": 22.654,
+"fin": 22.898
+},
+{
+"texto": "no",
+"escena": 8,
+"inicio": 22.956,
+"fin": 23.025
+},
+{
+"texto": "es",
+"escena": 8,
+"inicio": 23.06,
+"fin": 23.13
+},
+{
+"texto": "un",
+"escena": 8,
+"inicio": 23.211,
+"fin": 23.281
+},
+{
+"texto": "folio.",
+"escena": 8,
+"inicio": 23.339,
+"fin": 23.803
+},
+{
+"texto": "Y",
+"escena": 9,
+"inicio": 24.063,
+"fin": 24.121
+},
+{
+"texto": "el",
+"escena": 9,
+"inicio": 24.179,
+"fin": 24.249
+},
+{
+"texto": "cinco",
+"escena": 9,
+"inicio": 24.295,
+"fin": 24.597
+},
+{
+"texto": "no",
+"escena": 9,
+"inicio": 24.655,
+"fin": 24.736
+},
+{
+"texto": "está",
+"escena": 9,
+"inicio": 24.783,
+"fin": 25.003
+},
+{
+"texto": "en",
+"escena": 9,
+"inicio": 25.061,
+"fin": 25.131
+},
+{
+"texto": "el",
+"escena": 9,
+"inicio": 25.189,
+"fin": 25.259
+},
+{
+"texto": "diseño.",
+"escena": 9,
+"inicio": 25.317,
+"fin": 25.897
+},
+{
+"texto": "Está",
+"escena": 9,
+"inicio": 26.157,
+"fin": 26.459
+},
+{
+"texto": "en",
+"escena": 9,
+"inicio": 26.517,
+"fin": 26.598
+},
+{
+"texto": "tu",
+"escena": 9,
+"inicio": 26.656,
+"fin": 26.784
+},
+{
+"texto": "cabeza.",
+"escena": 9,
+"inicio": 26.842,
+"fin": 27.457
+},
+{
+"texto": "Cuando",
+"escena": 10,
+"inicio": 27.717,
+"fin": 28.031
+},
+{
+"texto": "lo",
+"escena": 10,
+"inicio": 28.077,
+"fin": 28.147
+},
+{
+"texto": "hace",
+"escena": 10,
+"inicio": 28.193,
+"fin": 28.391
+},
+{
+"texto": "una",
+"escena": 10,
+"inicio": 28.46,
+"fin": 28.658
+},
+{
+"texto": "IA,",
+"escena": 10,
+"inicio": 28.739,
+"fin": 29.169
+},
+{
+"texto": "te",
+"escena": 10,
+"inicio": 29.459,
+"fin": 29.575
+},
+{
+"texto": "enamoras",
+"escena": 10,
+"inicio": 29.621,
+"fin": 30.202
+},
+{
+"texto": "de",
+"escena": 10,
+"inicio": 30.26,
+"fin": 30.341
+},
+{
+"texto": "él...",
+"escena": 10,
+"inicio": 30.399,
+"fin": 30.875
+},
+{
+"texto": "y",
+"escena": 10,
+"inicio": 31.135,
+"fin": 31.193
+},
+{
+"texto": "luego",
+"escena": 10,
+"inicio": 31.251,
+"fin": 31.483
+},
+{
+"texto": "cuesta",
+"escena": 10,
+"inicio": 31.541,
+"fin": 31.866
+},
+{
+"texto": "aceptar",
+"escena": 10,
+"inicio": 31.901,
+"fin": 32.331
+},
+{
+"texto": "lo",
+"escena": 10,
+"inicio": 32.389,
+"fin": 32.47
+},
+{
+"texto": "que",
+"escena": 10,
+"inicio": 32.516,
+"fin": 32.609
+},
+{
+"texto": "no",
+"escena": 10,
+"inicio": 32.667,
+"fin": 32.76
+},
+{
+"texto": "se",
+"escena": 10,
+"inicio": 32.818,
+"fin": 32.911
+},
+{
+"texto": "puede",
+"escena": 10,
+"inicio": 32.969,
+"fin": 33.225
+},
+{
+"texto": "tatuar.",
+"escena": 10,
+"inicio": 33.283,
+"fin": 33.921
+},
+{
+"texto": "Tráelo",
+"escena": 11,
+"inicio": 34.181,
+"fin": 34.541
+},
+{
+"texto": "como",
+"escena": 11,
+"inicio": 34.588,
+"fin": 34.785
+},
+{
+"texto": "idea.",
+"escena": 11,
+"inicio": 34.831,
+"fin": 34.831
+},
+{
+"texto": "No",
+"escena": 11,
+"inicio": 35.642,
+"fin": 35.758
+},
+{
+"texto": "como",
+"escena": 11,
+"inicio": 35.816,
+"fin": 36.014
+},
+{
+"texto": "plano.",
+"escena": 11,
+"inicio": 36.049,
+"fin": 36.478
+}
+]

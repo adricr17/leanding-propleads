@@ -4,7 +4,10 @@
 Uso: python3 reels/_base/montar.py <carpeta_reel> [--sin-voz]
 La carpeta necesita imagenes/01.png..NN.png y escenas.json:
   [{"inicio": 0.0, "fin": 3.0, "texto": "Tu cuerpo lleva años…", "clave": ["eliminar"]}, ...]
-  Una escena puede llevar "video": "clips/01.mp4" (clip animado) en vez de imagen.
+  Una escena puede llevar "video": "clips/01.mp4" (clip animado) en vez de imagen, y además:
+  "recorte": [x0, y0, x1, y1] (px de la imagen original), "foco": [cx, cy, zoom] (0-1, zoom final),
+  "rotulo": "EXCLUSIVA" (cartela arriba), "marcas": [[cx, cy, r], ...] (círculos, en px de salida 1080x1920),
+  "sin_subtitulo": true, "sub_y": 0.78 (altura del subtítulo, 0-1).
 Opcional: voz.mp3, musica.mp3 y reel.json ({"velocidad": 1.1, "musica": 0.22}).
 Los tiempos de escenas.json son los de la voz ya acelerada.
 Salida: <carpeta_reel>/<NOMBRE_CARPETA>.mp4
@@ -17,7 +20,7 @@ FUENTE = os.path.join(BASE, '..', '..', 'posts', '_base', 'fuentes', 'DMSans-700
 W, H, FPS = 1080, 1920, 30
 BLANCO, CIAN, ROJO = (255, 255, 255, 255), (64, 224, 240, 255), (235, 40, 40, 255)
 
-def subtitulo(texto, claves, ruta, activa=None):
+def subtitulo(texto, claves, ruta, activa=None, alto_y=0.60):
     """PNG transparente con el texto en 2-3 líneas centradas.
     Sin `activa`: las palabras clave en cian. Con `activa` (índice): solo esa palabra en rojo."""
     img = Image.new('RGBA', (W, H), (0, 0, 0, 0))
@@ -32,7 +35,7 @@ def subtitulo(texto, claves, ruta, activa=None):
             actual.append(p)
     if actual: lineas.append(actual)
     alto = 78
-    y = int(H * 0.60) - (len(lineas) * alto) // 2
+    y = int(H * alto_y) - (len(lineas) * alto) // 2
     claves = [c.lower() for c in claves]
     n = 0
     for linea in lineas:
@@ -50,6 +53,21 @@ def subtitulo(texto, claves, ruta, activa=None):
         y += alto
     img.save(ruta)
 
+def decorar(ruta, rotulo=None, marcas=None):
+    """Añade a un PNG de subtítulo una cartela superior y/o círculos de señalización."""
+    img = Image.open(ruta).convert('RGBA')
+    d = ImageDraw.Draw(img)
+    if rotulo:
+        f = ImageFont.truetype(FUENTE, 54)
+        ancho = d.textlength(rotulo, font=f)
+        x0, y0 = (W - ancho) / 2 - 36, int(H * 0.17)
+        d.rectangle([x0, y0, x0 + ancho + 72, y0 + 92], fill=(235, 40, 40, 235))
+        d.text((x0 + 36, y0 + 14), rotulo, font=f, fill=BLANCO)
+    for cx, cy, r in (marcas or []):
+        for k in range(7):
+            d.ellipse([cx - r - k, cy - r - k, cx + r + k, cy + r + k], outline=(235, 40, 40, 255))
+    img.save(ruta)
+
 def main(carpeta, sin_voz=False):
     carpeta = os.path.abspath(carpeta)
     escenas = json.load(open(os.path.join(carpeta, "escenas.json")))
@@ -63,24 +81,30 @@ def main(carpeta, sin_voz=False):
     clips = []
     for i, e in enumerate(escenas, 1):
         img = os.path.join(carpeta, 'imagenes', e.get('imagen', f'{i:02d}.png'))
+        if e.get('recorte'):
+            recortada = os.path.join(tmp, f'rec{i:02d}.png')
+            Image.open(img).convert('RGB').crop(tuple(e['recorte'])).save(recortada)
+            img = recortada
         dur = e['fin'] - e['inicio']
         frames = max(1, round(dur * FPS))
         sub = os.path.join(tmp, f'sub{i:02d}.png')
         # Karaoke: con palabras.json, el texto de la escena sale de las palabras de la voz
         # y cada palabra se pone en rojo mientras suena
-        pals = [p for p in (palabras or []) if p['escena'] == i]
+        pals = [] if e.get('sin_subtitulo') else [p for p in (palabras or []) if p['escena'] == i]
         resaltes = []
         if pals:
             texto = ' '.join(p['texto'] for p in pals)
-            subtitulo(texto, [], sub)
+            subtitulo(texto, [], sub, alto_y=e.get('sub_y', 0.60))
             for k, p in enumerate(pals):
                 a = max(0.0, p['inicio'] - e['inicio'])
                 b = (pals[k + 1]['inicio'] - e['inicio']) if k + 1 < len(pals) else min(dur, p['fin'] - e['inicio'] + 0.25)
                 r = os.path.join(tmp, f'sub{i:02d}_{k:02d}.png')
-                subtitulo(texto, [], r, activa=k)
+                subtitulo(texto, [], r, activa=k, alto_y=e.get('sub_y', 0.60))
                 resaltes.append((r, a, b))
         else:
-            subtitulo(e.get('texto', ''), e.get('clave', []), sub)
+            subtitulo('' if e.get('sin_subtitulo') else e.get('texto', ''), e.get('clave', []), sub, alto_y=e.get('sub_y', 0.60))
+        if e.get('rotulo') or e.get('marcas'):
+            decorar(sub, e.get('rotulo'), e.get('marcas'))
         out = os.path.join(tmp, f'clip{i:02d}.mp4')
         if e.get('video'):
             # Clip animado: se encaja a 1080x1920 y se corta a la duración de la escena
@@ -89,7 +113,9 @@ def main(carpeta, sin_voz=False):
         else:
             # Zoom lento 100 -> 108 % centrado sobre la imagen escalada a 2x para que no tiemble
             entrada = ['-loop', '1', '-i', img]
-            zoom = f"zoompan=z='1+0.08*on/{frames}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS}"
+            cx, cy, zf = e.get('foco', [0.5, 0.5, 1.08])
+            zoom = (f"zoompan=z='1+{zf - 1:.3f}*on/{frames}':x='max(0,min(iw-iw/zoom,iw*{cx}-iw/zoom/2))':"
+                    f"y='max(0,min(ih-ih/zoom,ih*{cy}-ih/zoom/2))':d={frames}:s={W}x{H}:fps={FPS}")
             base = f"[0:v]scale={W*2}:{H*2}:force_original_aspect_ratio=increase:flags=lanczos,crop={W*2}:{H*2},{zoom}[b];"
         filtro = base + "[b][1:v]overlay=0:0[c0];"
         extra = []

@@ -1,0 +1,172 @@
+[
+ {
+  "imagen": "diseno_a.png",
+  "rotulo": "HECHO CON IA",
+  "inicio": 0.0,
+  "fin": 5.81,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_a.png",
+  "foco": [
+   0.5,
+   0.5,
+   1.15
+  ],
+  "inicio": 5.81,
+  "fin": 6.74,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_a.png",
+  "foco": [
+   0.6,
+   0.6,
+   1.12
+  ],
+  "rotulo": "1 · MALFORMACIONES",
+  "inicio": 6.74,
+  "fin": 8.81,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_a.png",
+  "recorte": [
+   518,
+   1024,
+   1094,
+   2048
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "rotulo": "1 · MALFORMACIONES",
+  "marcas": [
+   [
+    541,
+    883,
+    281
+   ]
+  ],
+  "sub_y": 0.8,
+  "inicio": 8.81,
+  "fin": 9.84,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_a.png",
+  "recorte": [
+   253,
+   778,
+   760,
+   1679
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "rotulo": "1 · MALFORMACIONES",
+  "marcas": [
+   [
+    541,
+    612,
+    417
+   ]
+  ],
+  "sub_y": 0.8,
+  "inicio": 9.84,
+  "fin": 11.49,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_a.png",
+  "recorte": [
+   714,
+   778,
+   1129,
+   1516
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.0
+  ],
+  "rotulo": "2 · DETALLES DIMINUTOS",
+  "marcas": [
+   [
+    750,
+    587,
+    180
+   ]
+  ],
+  "inicio": 11.49,
+  "fin": 15.45,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_a.png",
+  "foco": [
+   0.5,
+   0.5,
+   1.04
+  ],
+  "rotulo": "3 · SOBRECARGADO",
+  "inicio": 15.45,
+  "fin": 19.83,
+  "texto": ""
+ },
+ {
+  "imagen": "folio_brazo.png",
+  "foco": [
+   0.5,
+   0.48,
+   1.06
+  ],
+  "rotulo": "4 · NO ADAPTADO AL CUERPO",
+  "sub_y": 0.76,
+  "inicio": 19.83,
+  "fin": 24.02,
+  "texto": ""
+ },
+ {
+  "imagen": "cabeza.png",
+  "rotulo": "5 · TU CABEZA",
+  "inicio": 24.02,
+  "fin": 27.68,
+  "texto": ""
+ },
+ {
+  "imagen": "cabeza.png",
+  "foco": [
+   0.45,
+   0.4,
+   1.18
+  ],
+  "inicio": 27.68,
+  "fin": 34.14,
+  "texto": ""
+ },
+ {
+  "imagen": "diseno_b.png",
+  "foco": [
+   0.5,
+   0.5,
+   1.08
+  ],
+  "inicio": 34.14,
+  "fin": 37.18,
+  "texto": ""
+ },
+ {
+  "inicio": 37.18,
+  "fin": 39.78,
+  "video": "/home/user/leanding-propleads/reels/_base/tomas/logo-pared.mp4",
+  "texto": "¿Has traído alguna vez un diseño hecho con IA?",
+  "clave": [
+   "IA"
+  ]
+ }
+]

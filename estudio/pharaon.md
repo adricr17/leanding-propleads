@@ -126,5 +126,7 @@ La agenda cambia cada semana. El Director la pide al usuario y la apunta en la e
   - diseños no adaptados a la forma del cuerpo.
   - Además, cuando el cliente hace el diseño con IA se le mete muy en la cabeza y cuesta explicarle y convencerle de que hay cosas que no se pueden hacer.
 - **Catrinas:** el estudio ha tatuado varias. Hay 2 fotos en `privado/trabajos/catrinas/`.
-  - PENDIENTE: qué artista las hizo y confirmar el permiso de los clientes.
+  - Una la hizo Uri y la otra Andrea. PENDIENTE: cuál es de cada uno.
+  - Los clientes están de acuerdo en que salgan en vídeo.
+  - Las fotos se quedan en `privado/` (no van al repo público).
 - **Grabado de Posada** (dominio público): el usuario autoriza enseñarlo.
