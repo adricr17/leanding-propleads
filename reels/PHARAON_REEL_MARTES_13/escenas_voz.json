@@ -1,0 +1,52 @@
+[
+ {
+  "inicio": 0.0,
+  "fin": 1.45,
+  "texto": ""
+ },
+ {
+  "inicio": 1.45,
+  "fin": 3.37,
+  "texto": ""
+ },
+ {
+  "inicio": 3.37,
+  "fin": 6.45,
+  "texto": ""
+ },
+ {
+  "inicio": 6.45,
+  "fin": 11.1,
+  "texto": ""
+ },
+ {
+  "inicio": 11.1,
+  "fin": 15.15,
+  "texto": ""
+ },
+ {
+  "inicio": 15.15,
+  "fin": 17.7,
+  "texto": ""
+ },
+ {
+  "inicio": 17.7,
+  "fin": 19.86,
+  "texto": ""
+ },
+ {
+  "inicio": 19.86,
+  "fin": 23.52,
+  "texto": ""
+ },
+ {
+  "inicio": 23.52,
+  "fin": 26.13,
+  "texto": ""
+ },
+ {
+  "inicio": 26.13,
+  "fin": 28.69,
+  "texto": ""
+ }
+]

@@ -1,0 +1,307 @@
+[
+ {
+  "video": "clips/01.mp4",
+  "sin_subtitulo": true,
+  "inicio": 0.0,
+  "fin": 1.45
+ },
+ {
+  "imagen": "gato.png",
+  "foco": [
+   0.55,
+   0.6,
+   1.12
+  ],
+  "sin_subtitulo": true,
+  "inicio": 1.45,
+  "fin": 2.41
+ },
+ {
+  "imagen": "espejo.png",
+  "foco": [
+   0.5,
+   0.45,
+   1.15
+  ],
+  "sin_subtitulo": true,
+  "inicio": 2.41,
+  "fin": 3.37
+ },
+ {
+  "imagen": "flash.png",
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 3.37,
+  "fin": 4.91
+ },
+ {
+  "imagen": "flash.png",
+  "recorte": [
+   570,
+   154,
+   1089,
+   1075
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 4.91,
+  "fin": 6.45
+ },
+ {
+  "imagen": "cola.png",
+  "foco": [
+   0.5,
+   0.4,
+   1.08
+  ],
+  "sin_subtitulo": true,
+  "inicio": 6.45,
+  "fin": 8.0
+ },
+ {
+  "imagen": "cola.png",
+  "recorte": [
+   397,
+   563,
+   1031,
+   1690
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 8.0,
+  "fin": 9.55
+ },
+ {
+  "imagen": "cola.png",
+  "recorte": [
+   634,
+   461,
+   1152,
+   1382
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 9.55,
+  "fin": 11.1
+ },
+ {
+  "imagen": "flash.png",
+  "recorte": [
+   173,
+   410,
+   749,
+   1434
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.12
+  ],
+  "sin_subtitulo": true,
+  "inicio": 11.1,
+  "fin": 12.45
+ },
+ {
+  "imagen": "gato_tattoo.png",
+  "foco": [
+   0.45,
+   0.55,
+   1.12
+  ],
+  "sin_subtitulo": true,
+  "inicio": 12.45,
+  "fin": 13.8
+ },
+ {
+  "imagen": "calavera.png",
+  "recorte": [
+   196,
+   451,
+   772,
+   1475
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 13.8,
+  "fin": 15.15
+ },
+ {
+  "imagen": "calavera.png",
+  "recorte": [
+   369,
+   512,
+   1060,
+   1741
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 15.15,
+  "fin": 16.425
+ },
+ {
+  "imagen": "cola.png",
+  "recorte": [
+   86,
+   154,
+   605,
+   1075
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 16.425,
+  "fin": 17.7
+ },
+ {
+  "imagen": "flash.png",
+  "foco": [
+   0.5,
+   0.5,
+   1.2
+  ],
+  "sin_subtitulo": true,
+  "inicio": 17.7,
+  "fin": 18.78
+ },
+ {
+  "imagen": "calendario.png",
+  "recorte": [
+   259,
+   51,
+   893,
+   1178
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.05
+  ],
+  "sin_subtitulo": true,
+  "inicio": 18.78,
+  "fin": 19.86
+ },
+ {
+  "imagen": "amuleto.png",
+  "foco": [
+   0.6,
+   0.45,
+   1.1
+  ],
+  "sin_subtitulo": true,
+  "inicio": 19.86,
+  "fin": 21.69
+ },
+ {
+  "imagen": "amuleto.png",
+  "recorte": [
+   449,
+   553,
+   933,
+   1413
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.12
+  ],
+  "sin_subtitulo": true,
+  "inicio": 21.69,
+  "fin": 23.52
+ },
+ {
+  "imagen": "calendario.png",
+  "foco": [
+   0.5,
+   0.3,
+   1.12
+  ],
+  "sin_subtitulo": true,
+  "inicio": 23.52,
+  "fin": 24.825
+ },
+ {
+  "imagen": "calendario.png",
+  "recorte": [
+   334,
+   307,
+   818,
+   1167
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.15
+  ],
+  "sin_subtitulo": true,
+  "inicio": 24.825,
+  "fin": 26.13
+ },
+ {
+  "imagen": "amuleto.png",
+  "recorte": [
+   403,
+   471,
+   979,
+   1495
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.06
+  ],
+  "sin_subtitulo": true,
+  "inicio": 26.13,
+  "fin": 27.41
+ },
+ {
+  "imagen": "gato_tattoo.png",
+  "recorte": [
+   230,
+   512,
+   806,
+   1536
+  ],
+  "foco": [
+   0.5,
+   0.5,
+   1.12
+  ],
+  "sin_subtitulo": true,
+  "inicio": 27.41,
+  "fin": 28.69
+ },
+ {
+  "inicio": 28.69,
+  "fin": 30.69,
+  "video": "/home/user/leanding-propleads/reels/_base/tomas/logo-pared.mp4",
+  "sin_subtitulo": true,
+  "filtro": "eq=brightness=-0.16:contrast=1.25:gamma=0.6:saturation=1.3,vignette=PI/3.5"
+ }
+]

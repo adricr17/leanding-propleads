@@ -49,3 +49,6 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - Se quitan los subtítulos y ningún plano dura más de unos 2 s.
   - El troceado (`reels/_base/trocear.py`) no cuesta créditos.
   - Quedan unos 14.119 créditos.
+- **09/10/2026, «Martes 13»:**
+  - 8 imágenes (600), 1 clip de Kling 2.5 a 1080p (325), voz (41) y música (80): 1.046 créditos.
+  - Dos intentos de imagen fallaron por un 403 del servidor. Parece que no se cobraron; comprobar en el saldo.
