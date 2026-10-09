@@ -44,3 +44,8 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - Sin clips de Kling. Las imágenes fijas se animan con zoom y recortes, y se usan fotos reales y la toma del logo.
   - Gasto: imágenes IA, 3 voces (una repetida para quitar "seis dedos") y 2 músicas.
   - Total: 917 créditos, unos 460 por reel. Quedan 15.019.
+- **09/10/2026, montaje dinámico de los 3 primeros reels (opción B):**
+  - 12 imágenes nuevas, 4 por reel, a 75 créditos cada una: 900 créditos.
+  - Se quitan los subtítulos y ningún plano dura más de unos 2 s.
+  - El troceado (`reels/_base/trocear.py`) no cuesta créditos.
+  - Quedan unos 14.119 créditos.

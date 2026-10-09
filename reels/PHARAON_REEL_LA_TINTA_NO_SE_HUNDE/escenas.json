@@ -1,76 +1,283 @@
 [
  {
-  "inicio": 0.0,
-  "fin": 3.89,
   "texto": "Tu tatuaje no se está borrando. Se está moviendo.",
   "clave": [
    "moviendo"
   ],
-  "video": "clips/01.mp4"
+  "video": "clips/01.mp4",
+  "inicio": 0.0,
+  "fin": 1.945,
+  "escena_voz": 1,
+  "sin_subtitulo": true
  },
  {
-  "inicio": 3.89,
-  "fin": 5.72,
+  "texto": "Tu tatuaje no se está borrando. Se está moviendo.",
+  "clave": [
+   "moviendo"
+  ],
+  "video": "clips/01.mp4",
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920",
+  "inicio": 1.945,
+  "fin": 3.89,
+  "escena_voz": 1,
+  "desde": 1.945,
+  "sin_subtitulo": true
+ },
+ {
   "texto": "La tinta vive en la dermis.",
   "clave": [
    "dermis"
-  ]
+  ],
+  "imagen": "02.png",
+  "inicio": 3.89,
+  "fin": 5.72,
+  "escena_voz": 2,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  },
  {
-  "inicio": 5.72,
-  "fin": 10.3,
   "texto": "Pero con los años, las partículas se desplazan un poquito hacia los lados.",
   "clave": [
    "lados"
-  ]
+  ],
+  "imagen": "03.png",
+  "inicio": 5.72,
+  "fin": 7.247,
+  "escena_voz": 3,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  },
  {
-  "inicio": 10.3,
-  "fin": 14.01,
+  "texto": "Pero con los años, las partículas se desplazan un poquito hacia los lados.",
+  "clave": [
+   "lados"
+  ],
+  "imagen": "03b.png",
+  "inicio": 7.247,
+  "fin": 8.773,
+  "escena_voz": 3,
+  "foco": [
+   0.45,
+   0.42,
+   1.12
+  ],
+  "sin_subtitulo": true
+ },
+ {
+  "texto": "Pero con los años, las partículas se desplazan un poquito hacia los lados.",
+  "clave": [
+   "lados"
+  ],
+  "imagen": "03.png",
+  "recorte": [
+   219,
+   389,
+   933,
+   1659
+  ],
+  "foco": [
+   0.5,
+   0.45,
+   1.1
+  ],
+  "inicio": 8.773,
+  "fin": 10.3,
+  "escena_voz": 3,
+  "sin_subtitulo": true
+ },
+ {
   "texto": "Una parte incluso viaja por tu cuerpo, hasta los ganglios.",
   "clave": [
    "ganglios"
-  ]
+  ],
+  "imagen": "04.png",
+  "inicio": 10.3,
+  "fin": 12.155,
+  "escena_voz": 4,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  },
  {
-  "inicio": 14.01,
-  "fin": 16.99,
+  "texto": "Una parte incluso viaja por tu cuerpo, hasta los ganglios.",
+  "clave": [
+   "ganglios"
+  ],
+  "imagen": "04b.png",
+  "inicio": 12.155,
+  "fin": 14.01,
+  "escena_voz": 4,
+  "foco": [
+   0.45,
+   0.42,
+   1.12
+  ],
+  "sin_subtitulo": true
+ },
+ {
   "texto": "Y el sol va rompiendo el pigmento poco a poco.",
   "clave": [
    "sol"
-  ]
+  ],
+  "imagen": "05.png",
+  "inicio": 14.01,
+  "fin": 15.5,
+  "escena_voz": 5,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  },
  {
-  "inicio": 16.99,
-  "fin": 20.77,
+  "texto": "Y el sol va rompiendo el pigmento poco a poco.",
+  "clave": [
+   "sol"
+  ],
+  "imagen": "05.png",
+  "recorte": [
+   219,
+   389,
+   933,
+   1659
+  ],
+  "foco": [
+   0.5,
+   0.45,
+   1.1
+  ],
+  "inicio": 15.5,
+  "fin": 16.99,
+  "escena_voz": 5,
+  "sin_subtitulo": true
+ },
+ {
   "texto": "Por eso las líneas muy finas o muy juntas acaban fundiéndose.",
   "clave": [
    "fundiéndose"
-  ]
+  ],
+  "imagen": "06.png",
+  "inicio": 16.99,
+  "fin": 18.88,
+  "escena_voz": 6,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  },
  {
-  "inicio": 20.77,
-  "fin": 23.96,
+  "texto": "Por eso las líneas muy finas o muy juntas acaban fundiéndose.",
+  "clave": [
+   "fundiéndose"
+  ],
+  "imagen": "06b.png",
+  "inicio": 18.88,
+  "fin": 20.77,
+  "escena_voz": 6,
+  "foco": [
+   0.45,
+   0.42,
+   1.12
+  ],
+  "sin_subtitulo": true
+ },
+ {
   "texto": "Los que mejor envejecen tienen espacio para respirar.",
   "clave": [
    "espacio"
-  ]
+  ],
+  "imagen": "07.png",
+  "inicio": 20.77,
+  "fin": 22.365,
+  "escena_voz": 7,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  },
  {
-  "inicio": 23.96,
-  "fin": 28.32,
+  "texto": "Los que mejor envejecen tienen espacio para respirar.",
+  "clave": [
+   "espacio"
+  ],
+  "imagen": "07b.png",
+  "inicio": 22.365,
+  "fin": 23.96,
+  "escena_voz": 7,
+  "foco": [
+   0.45,
+   0.42,
+   1.12
+  ],
+  "sin_subtitulo": true
+ },
+ {
   "texto": "No es que la tinta se hunda. Es que nunca deja de moverse.",
   "clave": [
    "moverse"
   ],
-  "video": "clips/08.mp4"
+  "video": "clips/08.mp4",
+  "inicio": 23.96,
+  "fin": 25.413,
+  "escena_voz": 8,
+  "sin_subtitulo": true
  },
  {
-  "inicio": 28.32,
-  "fin": 30.35,
+  "texto": "No es que la tinta se hunda. Es que nunca deja de moverse.",
+  "clave": [
+   "moverse"
+  ],
+  "video": "clips/08.mp4",
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920",
+  "inicio": 25.413,
+  "fin": 26.867,
+  "escena_voz": 8,
+  "desde": 1.453,
+  "sin_subtitulo": true
+ },
+ {
+  "texto": "No es que la tinta se hunda. Es que nunca deja de moverse.",
+  "clave": [
+   "moverse"
+  ],
+  "video": "clips/08.mp4",
+  "filtro": "crop=iw*0.6:ih*0.6:iw*0.2:ih*0.15,scale=1080:1920",
+  "inicio": 26.867,
+  "fin": 28.32,
+  "escena_voz": 8,
+  "desde": 2.907,
+  "sin_subtitulo": true
+ },
+ {
   "texto": "¿El tuyo ya ha empezado?",
   "clave": [
    "empezado"
-  ]
+  ],
+  "imagen": "09.png",
+  "inicio": 28.32,
+  "fin": 30.35,
+  "escena_voz": 9,
+  "foco": [
+   0.5,
+   0.5,
+   1.1
+  ],
+  "sin_subtitulo": true
  }
 ]

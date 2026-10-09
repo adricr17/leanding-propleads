@@ -1,0 +1,79 @@
+[
+ {
+  "inicio": 0.0,
+  "fin": 2.52,
+  "texto": "El primer tatuaje casi nunca es el último.",
+  "clave": [
+   "último"
+  ],
+  "video": "clips/01.mp4"
+ },
+ {
+  "inicio": 2.52,
+  "fin": 6.26,
+  "texto": "Antes de hacértelo, tu cabeza imagina un dolor enorme.",
+  "clave": [
+   "enorme"
+  ]
+ },
+ {
+  "inicio": 6.26,
+  "fin": 9.28,
+  "texto": "Luego llega… y es menos de lo que esperabas.",
+  "clave": [
+   "menos"
+  ]
+ },
+ {
+  "inicio": 9.28,
+  "fin": 15.16,
+  "texto": "Mientras te tatúan, tu cuerpo suelta adrenalina y endorfinas: sus propios calmantes.",
+  "clave": [
+   "endorfinas"
+  ]
+ },
+ {
+  "inicio": 15.16,
+  "fin": 17.29,
+  "texto": "Sales de ahí con un subidón raro.",
+  "clave": [
+   "subidón"
+  ]
+ },
+ {
+  "inicio": 17.29,
+  "fin": 21.31,
+  "texto": "Pero a las pocas semanas, tu cerebro se acostumbra al tatuaje.",
+  "clave": [
+   "acostumbra"
+  ]
+ },
+ {
+  "inicio": 21.31,
+  "fin": 24.24,
+  "texto": "Deja de ser nuevo. Ya es parte de ti.",
+  "clave": [
+   "parte",
+   "de",
+   "ti"
+  ]
+ },
+ {
+  "inicio": 24.24,
+  "fin": 28.67,
+  "texto": "Así que no quieres otro tatuaje. Quieres volver a sentir el primero.",
+  "clave": [
+   "el",
+   "primero"
+  ],
+  "video": "clips/08.mp4"
+ },
+ {
+  "inicio": 28.67,
+  "fin": 31.07,
+  "texto": "¿Cuántos llevas desde el primero?",
+  "clave": [
+   "cuántos"
+  ]
+ }
+]

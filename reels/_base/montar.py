@@ -8,7 +8,8 @@ La carpeta necesita imagenes/01.png..NN.png y escenas.json:
   "recorte": [x0, y0, x1, y1] (px de la imagen original), "foco": [cx, cy, zoom] (0-1, zoom final),
   "rotulo": "EXCLUSIVA" (cartela arriba), "marcas": [[cx, cy, r], ...] (círculos, en px de salida 1080x1920),
   "sin_subtitulo": true, "sub_y": 0.78 (altura del subtítulo, 0-1),
-  "filtro": "eq=..." (filtro de vídeo extra para un clip, p. ej. oscurecerlo).
+  "filtro": "eq=..." (filtro de vídeo extra para un clip, p. ej. oscurecerlo),
+  "desde": 2.0 (segundo del clip en el que empieza la escena).
 Opcional: voz.mp3, musica.mp3 y reel.json ({"velocidad": 1.1, "musica": 0.22}).
 Los tiempos de escenas.json son los de la voz ya acelerada.
 Salida: <carpeta_reel>/<NOMBRE_CARPETA>.mp4
@@ -109,7 +110,7 @@ def main(carpeta, sin_voz=False):
         out = os.path.join(tmp, f'clip{i:02d}.mp4')
         if e.get('video'):
             # Clip animado: se encaja a 1080x1920 y se corta a la duración de la escena
-            entrada = ['-i', os.path.join(carpeta, e['video'])]
+            entrada = (['-ss', str(e['desde'])] if e.get('desde') else []) + ['-i', os.path.join(carpeta, e['video'])]
             base = f"[0:v]fps={FPS},scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},setsar=1{',' + e['filtro'] if e.get('filtro') else ''}[b];"
         else:
             # Zoom lento 100 -> 108 % centrado sobre la imagen escalada a 2x para que no tiemble
