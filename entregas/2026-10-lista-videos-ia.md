@@ -38,3 +38,19 @@ Ninguno está producido. **No se gasta ningún crédito sin confirmación del us
   - Se mantienen los círculos rojos, sin títulos arriba, la música plana y el logo oscurecido.
   - Si los fallos del diseño nuevo no coinciden con la voz actual, regenerar la voz (~50 créditos) con confirmación previa del usuario.
 - **La Catrina:** cerrado, no se toca.
+
+## Pendiente: trend «¿Cuál es tu dorsal favorito?» con edades IA [Usuario, 10/10/2026]
+
+- **Referencia:** vídeo de @sefutbol. Cada jugadora dice un dorsal y después aparece con esa edad hecha con IA: la del 2 como bebé, la del 99 como abuela.
+- **La gracia, según el usuario:** que haya de todo, desde bebé hasta mayor.
+- **Preguntas descartadas:** «¿Hasta qué edad vas a tatuar?», «¿A qué edad te hiciste el primero?» y «¿Qué número te tatuarías?».
+- **Propuestas sin decidir:**
+  1. «Del 1 al 100, ¿cuánto duelen las costillas?» (la favorita del Director).
+  2. «¿Cuántos tatuajes llevas?»
+  3. «Del 1 al 100, ¿cuánto te arrepientes de tu primer tatuaje?»
+  4. «¿Cuántos años llevas tatuando?»
+- **Necesita:**
+  - el permiso de cada artista para transformar su cara con IA;
+  - un clip por artista diciendo su número;
+  - una prueba previa con un artista (~150-200 créditos).
+- **Coste:** ~2.600 créditos con todas las transformaciones animadas, o ~1.100 animando solo el remate.
