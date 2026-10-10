@@ -52,3 +52,6 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 - **09/10/2026, «Martes 13»:**
   - 8 imágenes (600), 1 clip de Kling 2.5 a 1080p (325), voz (41) y música (80): 1.046 créditos.
   - Dos intentos de imagen fallaron por un 403 del servidor. Parece que no se cobraron; comprobar en el saldo.
+- **10/10/2026, transición «granada» (reel del primer año):**
+  - 1 clip de Kling 2.5 a 1080p con fotograma inicial (local en obras) y final (local hoy): 325 créditos.
+  - La foto en obras la hizo el usuario.
