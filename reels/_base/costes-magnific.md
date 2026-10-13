@@ -56,3 +56,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - 1 clip de Kling 2.5 a 1080p con fotograma inicial (local en obras) y final (local hoy): 325 créditos.
   - La foto en obras la hizo el usuario.
 - **10/10/2026, segundo clip de la granada** (la granada rueda y explota con fuego): 325 créditos. Quedan 12.423.
+- **13/10/2026, transición «calabaza» (Halloween):** 1 clip de Kling 2.5 a 1080p desde la foto actual del estudio: 325 créditos. Quedan unos 12.098.
