@@ -57,3 +57,7 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - La foto en obras la hizo el usuario.
 - **10/10/2026, segundo clip de la granada** (la granada rueda y explota con fuego): 325 créditos. Quedan 12.423.
 - **13/10/2026, transición «calabaza» (Halloween):** 1 clip de Kling 2.5 a 1080p desde la foto actual del estudio: 325 créditos. Quedan unos 12.098.
+- **13/10/2026, calabaza v2:**
+  - Clip de 10 s de Kling 2.5 a 1080p (la calabaza rueda, se para brillando y explota): 650 créditos.
+  - El usuario autorizó gastar para que la espera fuera fluida.
+  - Quedan unos 11.448.
