@@ -61,3 +61,7 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - Clip de 10 s de Kling 2.5 a 1080p (la calabaza rueda, se para brillando y explota): 650 créditos.
   - El usuario autorizó gastar para que la espera fuera fluida.
   - Quedan unos 11.448.
+- **13/10/2026, librería de efectos de sonido (`reels/_base/sfx/`):**
+  - Efectos: impacto (3 s), gato, cristal, máquina de tatuar (2 s cada uno) y whoosh (1 s).
+  - Coste: 50 créditos. Se reutilizan gratis en otros vídeos.
+  - Primer uso: Martes 13.
