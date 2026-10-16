@@ -243,3 +243,25 @@ Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve e
 - **Juegos renumerados (07/10):** se numeran por orden de publicación. Bingo = JUEGO 01 (Canva v5 https://www.canva.com/d/y4w8gOySePjbTFi; las versiones anteriores sobran), Zoom extremo = JUEGO 02. Los juegos de la tanda 1 (Seis realistas, ¿A o B?) cogen número cuando se publiquen.
 - **Ticket, color corregido (07/10):** el color siempre sube el precio, también en realismo, y cuánto depende de la cantidad. Ticket: `COLOR ... CUENTA`; línea a línea: "El color siempre suma, también en realismo. Cuánto, depende de cuánto color lleve."
 - **Canva Ticket v5 (color corregido):** https://www.canva.com/d/YliE3dq3tqZw4EK (las versiones anteriores del Ticket sobran).
+
+## TIPS DE ANDREA · 01 · Cara en la mano (16/10/2026)
+
+10 diapositivas con las respuestas de Andrea:
+1. Portada: «Tú ves una cara en una mano. Andrea ve esto.»
+2. Pregunta: «¿Qué crees que fue lo más difícil?»
+3. 01 La mirada.
+4. 02 El rímel corrido.
+5. 03 La sonrisa.
+6. 04 El pelo, en negativo.
+7. 05 El negro de los dedos.
+8. 06 Lo más difícil: los dedos.
+9. «¿Te estás pensando la mano?» (piel menos tersa y sesión de repaso).
+10. Cierre.
+
+- **Fotos de cliente:** fuera del repositorio y de Canva.
+- **Personaje:** no se nombra Harley Quinn en ningún sitio.
+- **Caption:** "Tú ves una cara. Andrea ve una mirada hecha de contrastes, un rímel que se corre en su dirección natural y un pelo que no está tatuado: "pinto los huecos para sacar el mechón en negativo". / Antes de llegar a la 8: ¿qué crees que fue lo más difícil? Coméntalo y luego compara. / 5 horas de sesión, por Andrea. / #tatuajerealista #realismotattoo #tatuajemano #tatuajesbarcelona #santfeliudellobregat"
+- **Pendiente:**
+  - el Instagram de Andrea para citarla;
+  - el OK del cliente para publicar la pieza;
+  - no publicarlo la misma semana que «Ojos de realista».
