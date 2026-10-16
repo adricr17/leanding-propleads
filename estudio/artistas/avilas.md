@@ -36,8 +36,6 @@
 - **07/10/2026 · Reel «La Catrina tenía otro nombre»:** sale una de sus catrinas.
 - **16/10/2026 · Carrusel TIPS DE ANDREA · 01 («Tú ves una cara en una mano. Andrea ve esto.»):** 10 diapositivas, en `posts/tanda2/privado-andrea-mano.html`. Las fotos están en `privado/kit-andrea-mano/`.
 
-- (vacío)
-
 ## Cómo explica su trabajo (respuestas del 16/10/2026, pieza de la mano) [Usuario]
 
 - **Duración:** una sesión de unas 5 h. Hará falta una sesión de repaso: la mano es una zona complicada para cicatrizar sin desgaste, sobre todo los dedos.
