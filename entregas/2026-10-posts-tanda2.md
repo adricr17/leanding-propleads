@@ -260,8 +260,9 @@ Con las respuestas de Uri. 8 diapositivas: portada "Tú ves una medusa. Uri ve e
 
 - **Fotos de cliente:** fuera del repositorio y de Canva.
 - **Personaje:** no se nombra Harley Quinn en ningún sitio.
-- **Caption:** "Tú ves una cara. Andrea ve una mirada hecha de contrastes, un rímel que se corre en su dirección natural y un pelo que no está tatuado: "pinto los huecos para sacar el mechón en negativo". / Antes de llegar a la 8: ¿qué crees que fue lo más difícil? Coméntalo y luego compara. / 5 horas de sesión, por Andrea. / #tatuajerealista #realismotattoo #tatuajemano #tatuajesbarcelona #santfeliudellobregat"
+- **Caption:** "Tú ves una cara. Andrea ve una mirada hecha de contrastes, un rímel que se corre en su dirección natural y un pelo que no está tatuado: "pinto los huecos para sacar el mechón en negativo". / Antes de llegar a la 8: ¿qué crees que fue lo más difícil? Coméntalo y luego compara. / 5 horas de sesión, por Andrea (@avilastattoo). / #tatuajerealista #realismotattoo #tatuajemano #tatuajesbarcelona #santfeliudellobregat"
 - **Pendiente:**
-  - el Instagram de Andrea para citarla;
   - el OK del cliente para publicar la pieza;
   - no publicarlo la misma semana que «Ojos de realista».
+
+- **Cambio del 16/10:** la portada pasa a foto completa (antes iba partida). Se cita @avilastattoo en la portada, en cada cita y en el cierre. Andrea es Avilas: su ficha es `estudio/artistas/avilas.md`.
