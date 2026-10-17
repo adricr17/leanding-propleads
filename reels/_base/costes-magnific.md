@@ -69,3 +69,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - Gasto: 6 imágenes (450), 3 clips de Kling 2.5 a 1080p (975), voz (47) y música (80). Total: 1.552 créditos.
   - Se reutilizan gratis los efectos de la librería, el clip de la calabaza en el estudio y la música de Martes 13.
 - **16/10/2026, storyboard «Globo»** (cebo neutro para la Halloween Week): 4 imágenes, 300 créditos. A partir de aquí, nada se anima sin el OK del usuario.
+| 2026-10-17 | Conejo · storyboard | images_generate x1 | 75 |
