@@ -39,11 +39,12 @@ A Adri en recepción con el móvil · B grupo asomado detrás de Adri · C Meii 
 Nos pidió algo pequeñito. No era pequeñito. Y aquí nadie se quejó.
 Los personajes los hemos dibujado nosotros; la IA los anima y las voces son las nuestras de verdad.
 ¿Quién se la queda: Meii, Andrea, Uri o Kike?
+Manga de @uri.cr_tattoo.
 #tatuajerealismo #mangatattoo #tatuajesbarcelona #santfeliudellobregat #pharaonsitcom
 
 ## Por confirmar
 1. Que Uri esté de acuerdo con «Perdona, el estudio es mío» (si no, la alternativa).
-2. Foto de la manga: una real de PHARAON (solo el brazo, con permiso del cliente) o una manga dibujada con IA en el mismo estilo.
+2. ~~Foto de la manga~~ RESUELTO 18/10: manga real de Uri (@uri.cr_tattoo), el cliente ha dado permiso. Archivo en `privado/sitcom-ep01/manga.jpg` (no subir al repo). Inserto de móvil montado en local, 0 cr.
 3. Subtítulos sí o no.
 
 ## Coste estimado (simulado el 18/10/2026)
