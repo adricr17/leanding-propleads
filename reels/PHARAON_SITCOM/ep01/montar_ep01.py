@@ -10,7 +10,10 @@ from PIL import Image, ImageDraw, ImageFont
 
 R = '/home/user/leanding-propleads'
 EP = f'{R}/reels/PHARAON_SITCOM/ep01'
-VG = f'{EP}/voces_guia'
+# VOCES=ia usa las voces de IA alineadas (voces_ia/) y genera EP01_voces_ia_movil.mp4
+IA = os.environ.get('VOCES') == 'ia'
+VG = f'{EP}/voces_ia' if IA else f'{EP}/voces_guia'
+VOZ_ADRI = f'{VG}/voz_adri.wav' if IA else f'{EP}/voz_adri.wav'
 PRIV = f'{R}/privado/sitcom-ep01'
 SFX = f'{R}/reels/_base/sfx'
 FUENTES = f'{R}/posts/_base/fuentes/'
@@ -74,11 +77,11 @@ k = ini[8]
 
 # 3) pistas de audio: (archivo, inicio_en_archivo, duración, momento_en_vídeo, volumen)
 voces = [
-    (f'{EP}/voz_adri.wav', 0.0, 3.05, ini[0], 1.0),
+    (VOZ_ADRI, 0.0, 3.05, ini[0], 1.0),
     (f'{VG}/uri_completo.wav', 1.35, 0.85, ini[2] + 0.15, 0.8),     # ¿Pequeñito?
     (f'{VG}/meii_completo.wav', 1.25, 0.95, ini[2] + 0.45, 0.7),    # Madre mía
     (f'{VG}/andrea_completo.wav', 1.48, 0.45, ini[2] + 0.95, 0.7),  # Hala
-    (f'{EP}/voz_adri.wav', 3.4, 1.73, ini[3], 1.0),
+    (VOZ_ADRI, 3.4, 1.73, ini[3], 1.0),
     (f'{VG}/uri_completo.wav', 3.12, 0.4, ini[4] + 0.35, 0.9),      # ¡NO! x4
     (f'{VG}/meii_completo.wav', 3.08, 0.38, ini[4] + 0.37, 0.9),
     (f'{VG}/andrea_completo.wav', 2.24, 0.36, ini[4] + 0.36, 0.9),
@@ -115,7 +118,8 @@ def mezcla(pistas, salida):
 mezcla(voces + efectos, f'{TMP}/audio_guia.wav')
 mezcla(efectos, f'{TMP}/audio_sfx.wav')
 
-for audio, nombre in [(f'{TMP}/audio_guia.wav', 'EP01_guia_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP01_sin_voces_movil.mp4')]:
+salidas = [(f'{TMP}/audio_guia.wav', 'EP01_voces_ia_movil.mp4')] if IA else [(f'{TMP}/audio_guia.wav', 'EP01_guia_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP01_sin_voces_movil.mp4')]
+for audio, nombre in salidas:
     sh('ffmpeg', '-v', 'error', '-y', '-i', f'{TMP}/video.mp4', '-i', c1, '-i', c2, '-i', audio,
        '-filter_complex',
        f"[0][1]overlay=enable='between(t,{k},{k + 1.9})'[v1];[v1][2]overlay=enable='between(t,{k + 2.4},{TOTAL})'[v]",

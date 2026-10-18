@@ -81,3 +81,5 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-18 | SFX scratch x2, ballena, desenchufe, bip | audio_sfx_generate | 50 |
 | 2026-10-18 | Sitcom EP02 · lip-sync Andrea (180) + Uri (360) + Adri (360) | video_speak x3 | 900 |
 | 2026-10-18 | Sitcom EP02 · clips duelo, sufrimiento, Carlos (Kling 720p) | video_generate x3 | 420 |
+| 2026-10-18 | Sitcom EP01 · voces IA (5 TTS) | audio_tts | 25 |
+| 2026-10-18 | Sitcom EP01 · voces IA sueltas (5 TTS) | audio_tts | 6 |
