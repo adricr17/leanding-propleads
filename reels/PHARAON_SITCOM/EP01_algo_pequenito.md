@@ -57,3 +57,6 @@ Manga de @uri.cr_tattoo.
 ## Producción
 - 18/10: imagen A aprobada por el usuario → `ep01/A_adri_recepcion_v2.png` (logo real retocado). Referencias: dibujo de Adri subido a Magnific + `estudio/marca/fotos/logo-pared-morado.jpg` (usar SIEMPRE esta foto como referencia para la pared del logo).
 - Siguiente: audio real de Adri → lip-sync OmniHuman (~180 cr/s).
+- 18/10: planos generados (lip-sync C/D/E con la voz guía del usuario, clips Kling de grupo y Kike). Montaje con `ep01/montar_ep01.py` → `privado/sitcom-ep01/EP01_guia_movil.mp4` (voces guía) y `EP01_sin_voces_movil.mp4` (solo efectos, para doblar en CapCut). Van en privado/ porque llevan la foto de la manga del cliente.
+- Gasto Magnific del episodio: 155 + 375 + 900 + 1.080 + 280 = 2.790 cr. ElevenLabs (transcripciones): ~525 créditos de ElevenLabs.
+- Pendiente: en el plano de Kike se ven al fondo 2 figuras genéricas que no son del equipo (recortadas en parte).
