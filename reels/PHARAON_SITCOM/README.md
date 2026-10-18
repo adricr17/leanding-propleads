@@ -18,6 +18,7 @@ Delia ya no forma parte del estudio (18/10/2026).
 ## Reglas
 - Personalidades, manías y anécdotas: solo las que dé el usuario. Nada deducido de los dibujos.
 - Voces: preferible la voz real de cada uno (audio del móvil) con sincronizado de labios; voz IA solo si lo pide el usuario.
+- Todo en dibujos: sin planos reales de nadie del equipo (usuario, 18/10/2026).
 - Proceso: guion (0 cr) → prueba de 1 escena con coste exacto → episodio completo. OK del usuario en cada paso.
 
 ## Estado
