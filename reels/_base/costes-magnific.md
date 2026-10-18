@@ -73,3 +73,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-18 | Sitcom EP01 · imagen A Adri recepción | images_generate x1 | 75 |
 | 2026-10-18 | Sitcom EP01 · imagen A v2 (logo real, ideogram preciseEdit) | images_generate x1 | 80 |
 | 2026-10-18 | Sitcom EP01 · lip-sync Adri (OmniHuman, 5 s) | video_speak | 900 |
+| 2026-10-18 | Sitcom EP01 · imágenes B-F | images_generate x5 | 375 |
