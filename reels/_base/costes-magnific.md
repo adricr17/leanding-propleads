@@ -70,3 +70,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
   - Se reutilizan gratis los efectos de la librería, el clip de la calabaza en el estudio y la música de Martes 13.
 - **16/10/2026, storyboard «Globo»** (cebo neutro para la Halloween Week): 4 imágenes, 300 créditos. A partir de aquí, nada se anima sin el OK del usuario.
 | 2026-10-17 | Conejo · storyboard | images_generate x1 | 75 |
+| 2026-10-18 | Sitcom EP01 · imagen A Adri recepción | images_generate x1 | 75 |
