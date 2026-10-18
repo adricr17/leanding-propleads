@@ -45,3 +45,10 @@ Los personajes los hemos dibujado nosotros, la IA los anima y las voces son las 
 
 ## Coste estimado
 5 imágenes (375) + 3 lip-sync (1.080) + 6 clips Kling 720p (840) + efectos (~60) ≈ **2.355 cr** (+360 con «Mi turno»).
+
+## Producción (18/10/2026, versión económica)
+- Voces guía con IA (TTS: Andrea=Carmen Ruiz, Uri=Álvaro Serrano, Adri=Iván Mendoza), solo para el lip-sync; el estudio dobla encima en CapCut.
+- Duelo y giro de cabezas salen del mismo clip de Kling (ahorro de 140 cr). Meii sin voz con zoom sobre imagen fija.
+- Montaje: `ep02/montar_ep02.py` → `ep02/EP02_guia_movil.mp4` y `ep02/EP02_sin_voces_movil.mp4` (23,3 s).
+- Gasto Magnific: 9 (voces) + 375 (imágenes) + 900 (lip-sync) + 420 (Kling) + 50 (SFX nuevos, quedan en reels/_base/sfx) = 1.754 cr.
+- Nota: el altavoz del inserto es un modelo más grande que el de los planos generales.
