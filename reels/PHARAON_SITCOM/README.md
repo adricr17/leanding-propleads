@@ -13,7 +13,7 @@ Referencia de formato: mini sitcom animada con labios sincronizados (estilo @irr
 | personajes/adri.png | Adri | Manager y recepcionista | (sin ficha de artista) |
 | personajes/carlos.png | Carlos Moreno | Tatuador | estudio/artistas/carlos-moreno.md |
 
-Delia no tiene dibujo por ahora.
+Delia ya no forma parte del estudio (18/10/2026).
 
 ## Reglas
 - Personalidades, manías y anécdotas: solo las que dé el usuario. Nada deducido de los dibujos.

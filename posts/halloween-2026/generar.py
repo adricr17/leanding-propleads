@@ -97,7 +97,7 @@ y=parrafo(d,y,'Carrer de Prolongació Falguera, 2',font('DMSans-500.ttf',38),CRE
 y=parrafo(d,y,'Sant Feliu de Llobregat',font('DMSans-500.ttf',38),CREMA)
 y+=15; y=parrafo(d,y,'Martes a sábado, de 9:00 a 19:00',font('DMSans-500.ttf',38),GRIS)
 y+=55; d=centro(d,y,'NUESTROS ARTISTAS',font('Anton-Regular.ttf',44),ROJO); y+=75
-for l in ['@uri.cr_tattoo   @avilastattoo   @siz0.tattoo','@delia.tattoo   @carlosmoreno.es   @meii.tattoo']:
+for l in ['@uri.cr_tattoo   @avilastattoo   @siz0.tattoo','@carlosmoreno.es   @meii.tattoo']:
     y=parrafo(d,y,l,font('DMSans-700.ttf',34),CREMA,1000)
 firma(d,6); img.save(OUT+'06_reserva.png')
 print('ok')

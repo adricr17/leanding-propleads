@@ -1,5 +1,7 @@
 # Delia (@delia.tattoo) — Ficha de artista
 
+> **YA NO FORMA PARTE DE PHARAON** (confirmado por el usuario el 18/10/2026). No incluirla en vídeos, posts, menciones ni listas de artistas.
+
 > Regla: no deducir personalidad, humor, comportamiento ante cámara ni rasgos personales a partir de fotos o portfolio. Lo no declarado explícitamente queda como **PENDIENTE DE COMPLETAR**.
 
 Última revisión: 2026-10-06 · Fuente principal: **[Usuario]** (información facilitada por PHARAON).
