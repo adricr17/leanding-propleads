@@ -52,3 +52,7 @@ Los personajes los hemos dibujado nosotros; la IA los anima y las voces son las 
 - Planos animados sin voz (Kling 2.5): 2-3 × 325 = 650-975 cr.
 - **Total ≈ 2.900-3.200 cr.**
 - Prueba previa: imagen de Adri + sus 2 frases con labios sincronizados ≈ 800 cr.
+
+## Producción
+- 18/10: imagen A aprobada por el usuario → `ep01/A_adri_recepcion_v2.png` (logo real retocado). Referencias: dibujo de Adri subido a Magnific + `estudio/marca/fotos/logo-pared-morado.jpg` (usar SIEMPRE esta foto como referencia para la pared del logo).
+- Siguiente: audio real de Adri → lip-sync OmniHuman (~180 cr/s).
