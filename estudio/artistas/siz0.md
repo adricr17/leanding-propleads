@@ -26,7 +26,7 @@
 | Disposición a salir en vídeos | **Más tímido a la hora de salir en vídeos** (según el usuario). Preferir papeles sin hablar o de bajo protagonismo salvo que él mismo quiera más. |
 | Personalidad | PENDIENTE DE COMPLETAR |
 | Sentido del humor | PENDIENTE DE COMPLETAR |
-| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | PENDIENTE DE COMPLETAR |
+| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | Tímido en vídeo, pero **sí graba su voz** para la sitcom animada (usuario, 18/10/2026) |
 | Límites | PENDIENTE DE COMPLETAR |
 | Aficiones / intereses aprovechables | PENDIENTE DE COMPLETAR |
 | Frases, manías, running jokes | PENDIENTE DE COMPLETAR |

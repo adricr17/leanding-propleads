@@ -28,7 +28,7 @@
 | Disposición a salir en vídeos | **Baja disponibilidad**: según el usuario, ahora viene poco por el estudio y no sale en muchos vídeos. No planificar vídeos que dependan de su presencia sin confirmarlo antes. |
 | Personalidad | PENDIENTE DE COMPLETAR |
 | Sentido del humor | PENDIENTE DE COMPLETAR |
-| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | PENDIENTE DE COMPLETAR |
+| ¿Acepta hablar a cámara / improvisar / hacer el tonto? | **No graba voz** para la sitcom animada: viene poco al estudio (usuario, 18/10/2026) |
 | Límites | PENDIENTE DE COMPLETAR |
 | Aficiones / intereses aprovechables | PENDIENTE DE COMPLETAR |
 | Frases, manías, running jokes | PENDIENTE DE COMPLETAR |

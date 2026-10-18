@@ -22,3 +22,7 @@ Delia ya no forma parte del estudio (18/10/2026).
 
 ## Estado
 - PENDIENTE: situaciones reales del estudio para el episodio 1.
+
+## Voces (usuario, 18/10/2026)
+- Graban su voz: Uri, Meii, Kike, Andrea y Adri.
+- Carlos: no graba (viene poco). Si sale, sin diálogo o con un papel mudo.
