@@ -83,3 +83,9 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-18 | Sitcom EP02 · clips duelo, sufrimiento, Carlos (Kling 720p) | video_generate x3 | 420 |
 | 2026-10-18 | Sitcom EP01 · voces IA (5 TTS) | audio_tts | 25 |
 | 2026-10-18 | Sitcom EP01 · voces IA sueltas (5 TTS) | audio_tts | 6 |
+| 2026-10-19 | Sitcom EP03 Halloween · voces TTS x2 | audio_tts | 5 |
+| 2026-10-19 | Sitcom EP03 · imágenes x4 | images_generate | 300 |
+| 2026-10-19 | Sitcom EP03 · cara de Uri en la calabaza (preciseEdit) | images_generate | 80 |
+| 2026-10-19 | Sitcom EP03 · lip-sync Adri + Uri | video_speak x2 | 720 |
+| 2026-10-19 | Sitcom EP03 · clips grupo, calabaza, Carlos (Kling 720p) | video_generate x3 | 420 |
+| 2026-10-19 | SFX trueno | audio_sfx_generate | 10 |
