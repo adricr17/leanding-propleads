@@ -89,3 +89,5 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-19 | Sitcom EP03 · lip-sync Adri + Uri | video_speak x2 | 720 |
 | 2026-10-19 | Sitcom EP03 · clips grupo, calabaza, Carlos (Kling 720p) | video_generate x3 | 420 |
 | 2026-10-19 | SFX trueno | audio_sfx_generate | 10 |
+| 2026-10-19 | Sitcom EP03 · quitar septum a Uri (preciseEdit) | images_generate | 80 |
+| 2026-10-19 | Sitcom EP03 · clip calabaza rehecho sin septum | video_generate | 140 |

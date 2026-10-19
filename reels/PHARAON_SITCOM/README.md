@@ -27,3 +27,6 @@ Delia ya no forma parte del estudio (18/10/2026).
 ## Voces (usuario, 18/10/2026)
 - Graban su voz: Uri, Meii, Kike, Andrea y Adri.
 - Carlos: no graba (viene poco). Si sale, sin diálogo o con un papel mudo.
+
+## Detalles físicos que hay que respetar en los prompts (usuario)
+- Uri: dos aros en la nariz, uno en cada aleta. **No lleva septum** (19/10/2026).
