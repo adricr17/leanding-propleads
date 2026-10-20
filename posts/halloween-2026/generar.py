@@ -37,8 +37,9 @@ def parrafo(d,y,txt,f,col,ancho=880,inter=1.35):
         d.text(((W-d.textlength(l,font=f))/2,y),l,font=f,fill=col); y+=int(f.size*inter)
     return y
 def firma(d,n):
-    f=font('Anton-Regular.ttf',34); d.text((60,H-80),'PHARAON STUDIO',font=f,fill=ROJO)
-    f2=font('DMSans-500.ttf',28); t=f'{n}/6'; d.text((W-60-d.textlength(t,font=f2),H-74),t,font=f2,fill=GRIS)
+    # margen amplio abajo y a los lados: en el móvil Instagram tapa/recorta los bordes
+    f=font('Anton-Regular.ttf',34); d.text((90,H-150),'PHARAON STUDIO',font=f,fill=ROJO)
+    f2=font('DMSans-500.ttf',30); t=f'{n}/6'; d.text((W-90-d.textlength(t,font=f2),H-144),t,font=f2,fill=GRIS)
 def titulo(img,y,lineas,size=128):
     d=ImageDraw.Draw(img); f=font('Anton-Regular.ttf',size)
     for l in lineas:
