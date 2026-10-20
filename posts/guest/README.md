@@ -7,7 +7,7 @@ Canva sin cuota de IA (quota_exceeded) → montado en local con HTML + Playwrigh
 - `guest/07.png`: post suelto con todo resumido en una imagen.
 - Volver a generar: `node posts/_base/render.js posts/guest/guest.html`
 
-Portada: geisha de Uri (@uri.cr_tattoo), crédito en la portada. Resplandor lila: suave y separado de la letra con borde oscuro (el fuerte no se leía).
+Portada: geisha de Uri (@uri.cr_tattoo), crédito en la portada. Permiso de Uri y del cliente confirmado (20/10/2026). Palabras lila: letra en lila claro (#C46BDD) con halo morado (#9925AE) detrás y borde oscuro; así se leen bien (el halo fuerte o claro no se leía).
 Contenido: cartel «OFRECEMOS» del iPad del estudio + usuario (material incluido excepto tintas y agujas, negociable). Estilos del equipo según estudio/pharaon.md.
 
 ## Caption
