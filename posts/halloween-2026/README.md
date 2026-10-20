@@ -24,3 +24,8 @@ Reserva por DM · C/ Prolongació Falguera, 2 · Sant Feliu de Llobregat
 ¿De qué te vas a disfrazar? Te leemos 👇
 
 #halloween #halloween2026 #tatuajes #tattoo #santfeliudellobregat #tatuajesbarcelona #baixllobregat #disfraces #pharaonstudio
+
+### Caption breve (elegida)
+HALLOWEEN COSTUME WEEK 🎃 Del 27 al 31 de octubre ven disfrazado: premio seguro en la Terror Box y concurso al mejor disfraz. Aunque no vengas a tatuarte 👻
+¿De qué te vas a disfrazar? 👇
+#halloween #tatuajes #santfeliudellobregat #pharaonstudio
