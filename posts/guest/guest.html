@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../_base/base.css">
+<!-- GUEST SPOT en PHARAON · carrusel de 6 + post suelto (el 7). Lo que se ofrece sale del cartel del iPad del estudio y del usuario (20/10/2026). -->
+<style>
+.bgfoto { position: absolute; inset: 0; background: center / cover; }
+.velo { position: absolute; inset: 0; background: linear-gradient(rgba(10,10,10,.55), rgba(10,10,10,.92) 70%); }
+.velo.fuerte { background: rgba(10,10,10,.78); }
+.bgfoto, .velo { z-index: 0; }
+.slide > :not(.bgfoto):not(.velo):not(.etiqueta):not(.contador):not(.firma):not(.logo) { position: relative; z-index: 1; }
+.slide > .etiqueta, .slide > .contador, .slide > .firma { z-index: 2; }
+.lista { margin-top: 60px; list-style: none; }
+.lista li { font-family: 'Anton'; text-transform: uppercase; font-size: 66px; line-height: 1.05; padding: 22px 0; border-bottom: 2px solid rgba(239,235,228,.18); }
+.lista li span { display: block; font-family: 'DM Sans'; text-transform: none; font-size: 32px; font-weight: 500; opacity: .75; margin-top: 8px; }
+.num { font-family: 'Space Mono'; font-weight: 700; color: var(--morado); font-size: 30px; letter-spacing: 3px; }
+.chip { display: inline-block; border: 3px solid var(--morado); color: var(--hueso); font-family: 'Space Mono'; font-weight: 700; font-size: 30px; padding: 10px 22px; border-radius: 40px; margin: 0 14px 18px 0; }
+.brillo { text-shadow: 0 0 40px rgba(153,37,174,.65); }
+</style></head><body>
+
+<!-- 1 · Portada -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(img/logo-pared-morado.jpg); background-position: center 35%"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · GUEST SPOT</div><div class="contador">1/6</div>
+  <div style="margin-top:430px">
+    <div class="num">SE BUSCAN GUEST ARTISTS</div>
+    <h1 class="titular brillo" style="font-size:170px; margin-top:20px">Guest spot<br><span class="morado">en Pharaon</span></h1>
+    <p class="sub" style="font-size:44px; font-weight:700">¿Tatúas y quieres pasar unos días o unas semanas con nosotros?</p>
+  </div>
+  <div class="firma">Desliza →</div>
+</section>
+
+<!-- 2 · Visibilidad -->
+<section class="slide" style="display:flex; flex-direction:column; justify-content:center">
+  <div class="etiqueta">PHARAON · GUEST SPOT</div><div class="contador">2/6</div>
+  <div class="num">01 · QUÉ OFRECEMOS</div>
+  <h2 class="titular t-l" style="margin-top:20px">Te damos<br><span class="morado">visibilidad</span></h2>
+  <ul class="lista">
+    <li>Exposición en redes<span>Te presentamos a nuestra comunidad antes y durante tu estancia.</span></li>
+    <li>Promoción personalizada<span>Anunciamos tus fechas y tu trabajo.</span></li>
+    <li>Apoyo en creación de contenido<span>Grabamos y te ayudamos con el contenido de tus piezas.</span></li>
+  </ul>
+</section>
+
+<!-- 3 · Instalaciones -->
+<section class="slide" style="display:flex; flex-direction:column; justify-content:center">
+  <div class="bgfoto" style="background-image:url(img/pared-posters-cabina2.jpg)"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · GUEST SPOT</div><div class="contador">3/6</div>
+  <div class="num">02 · DÓNDE TATÚAS</div>
+  <h2 class="titular t-l" style="margin-top:20px">Instalaciones<br><span class="morado">premium</span></h2>
+  <ul class="lista">
+    <li>Material incluido<span>Tintas y agujas aparte… aunque se puede hablar.</span></li>
+    <li>Entorno profesional y creativo<span>Un estudio cuidado, pensado para trabajar a gusto.</span></li>
+  </ul>
+</section>
+
+<!-- 4 · Clientes y equipo -->
+<section class="slide" style="display:flex; flex-direction:column; justify-content:center">
+  <div class="bgfoto" style="background-image:url(img/pasillo-mascara-skate.jpg)"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · GUEST SPOT</div><div class="contador">4/6</div>
+  <div class="num">03 · NO VIENES SOLO</div>
+  <h2 class="titular t-l" style="margin-top:20px">Clientes<br>y <span class="morado">equipo</span></h2>
+  <ul class="lista">
+    <li>Derivación de clientes<span>Te pasamos clientes que encajan con tu estilo.</span></li>
+    <li>Aprende de nuestros artistas<span>Comparte cabina con un equipo de realistas.</span></li>
+  </ul>
+  <div style="margin-top:40px"><span class="chip">REALISMO</span><span class="chip">LETTERING</span><span class="chip">ANIME</span><span class="chip">BLACKWORK</span></div>
+</section>
+
+<!-- 5 · Experiencia -->
+<section class="slide" style="display:flex; flex-direction:column; justify-content:center">
+  <div class="bgfoto" style="background-image:url(img/recepcion-pasillo-camisetas.jpg)"></div>
+  <div class="velo fuerte"></div>
+  <div class="etiqueta">PHARAON · GUEST SPOT</div><div class="contador">5/6</div>
+  <div class="num">04 · TÚ ELIGES</div>
+  <h2 class="titular brillo" style="font-size:150px; margin-top:20px">La experiencia<br><span class="morado">Pharaon</span></h2>
+  <p class="sub" style="font-size:48px; font-weight:700">Unos días o unas semanas.<br>Tú pones las fechas.</p>
+</section>
+
+<!-- 6 · Cierre -->
+<section class="slide cierre foto">
+  <div class="etiqueta">PHARAON · GUEST SPOT</div><div class="contador">6/6</div>
+  <div class="frase brillo">¿Te<br>apuntas?</div>
+  <div class="datos" style="font-size:40px"><b>Escríbenos por DM</b> con tu portfolio<br>y las fechas que te interesan.</div>
+  <div class="datos" style="margin-top:40px"><b class="morado" style="font-size:48px; font-family:Anton; letter-spacing:1px">@PHARAONSTUDIO</b><br>C/ Prolongació Falguera, 2 · Sant Feliu de Llobregat (Barcelona)</div>
+  <img src="../_base/logo.png" style="position:absolute; right:90px; bottom:110px; width:150px; opacity:.9">
+</section>
+
+<!-- 7 · Post suelto (resumen en una imagen) -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(img/logo-pared-morado.jpg); background-position: center 35%"></div>
+  <div class="velo fuerte"></div>
+  <div class="etiqueta">PHARAON · GUEST SPOT</div>
+  <div class="num" style="margin-top:20px">SE BUSCAN GUEST ARTISTS</div>
+  <h1 class="titular brillo" style="font-size:140px; margin-top:16px">Guest spot<br><span class="morado">en Pharaon</span></h1>
+  <ul class="lista" style="margin-top:40px">
+    <li style="font-size:46px; padding:14px 0">Exposición y promoción en redes</li>
+    <li style="font-size:46px; padding:14px 0">Instalaciones premium y material incluido</li>
+    <li style="font-size:46px; padding:14px 0">Derivación de clientes</li>
+    <li style="font-size:46px; padding:14px 0">Aprende de nuestros artistas</li>
+    <li style="font-size:46px; padding:14px 0">Días o semanas, tú eliges</li>
+  </ul>
+  <p style="margin-top:44px; font-size:38px"><b>Portfolio y fechas por DM</b> · <span class="morado" style="font-family:Anton; font-size:44px">@PHARAONSTUDIO</span></p>
+</section>
+
+</body></html>
