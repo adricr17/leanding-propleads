@@ -10,3 +10,17 @@
   - Los premios de la Terror Box: lista provisional.
   - Si se publican los importes (bono de 100 €, 100 € de descuento con un mínimo de 400 € y 6 meses de validez).
 - **Volver a generar:** `python3 posts/halloween-2026/generar.py`. Necesita `poster_fecha.png`, la ruta está dentro del script.
+
+## Caption (20/10/2026)
+HALLOWEEN COSTUME WEEK 🎃 Del 27 al 31 de octubre, en PHARAON se viene disfrazado.
+
+👻 ¿Tienes cita esa semana? Ven disfrazado de terror y mete la mano en la Terror Box: premio seguro.
+🏆 Best Client Costume: subiremos los disfraces a nuestro Instagram y elegiréis vosotros al ganador. Premio gordo para su próximo tatuaje.
+🔪 ¿No vienes a tatuarte? Ven igual. Pásate disfrazado por el estudio y participa en el concurso.
+
+Desliza para ver los premios 👉
+Reserva por DM · C/ Prolongació Falguera, 2 · Sant Feliu de Llobregat
+
+¿De qué te vas a disfrazar? Te leemos 👇
+
+#halloween #halloween2026 #tatuajes #tattoo #santfeliudellobregat #tatuajesbarcelona #baixllobregat #disfraces #pharaonstudio
