@@ -11,8 +11,9 @@ from PIL import Image, ImageDraw, ImageFont
 R = '/home/user/leanding-propleads'
 EP = f'{R}/reels/PHARAON_SITCOM/ep01'
 # VOCES=ia usa las voces de IA alineadas (voces_ia/) y genera EP01_voces_ia_movil.mp4
-IA = os.environ.get('VOCES') == 'ia'
-VG = f'{EP}/voces_ia' if IA else f'{EP}/voces_guia'
+MODO = os.environ.get('VOCES', '')  # '' = voz guía · 'ia' = primeras voces IA · 'v2' = voces definitivas del casting
+IA = MODO in ('ia', 'v2')
+VG = f'{EP}/voces_{MODO}' if IA else f'{EP}/voces_guia'
 VOZ_ADRI = f'{VG}/voz_adri.wav' if IA else f'{EP}/voz_adri.wav'
 PRIV = f'{R}/privado/sitcom-ep01'
 SFX = f'{R}/reels/_base/sfx'
@@ -118,7 +119,7 @@ def mezcla(pistas, salida):
 mezcla(voces + efectos, f'{TMP}/audio_guia.wav')
 mezcla(efectos, f'{TMP}/audio_sfx.wav')
 
-salidas = [(f'{TMP}/audio_guia.wav', 'EP01_voces_ia_movil.mp4')] if IA else [(f'{TMP}/audio_guia.wav', 'EP01_guia_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP01_sin_voces_movil.mp4')]
+salidas = [(f'{TMP}/audio_guia.wav', f'EP01_voces_{MODO}_movil.mp4')] if IA else [(f'{TMP}/audio_guia.wav', 'EP01_guia_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP01_sin_voces_movil.mp4')]
 for audio, nombre in salidas:
     sh('ffmpeg', '-v', 'error', '-y', '-i', f'{TMP}/video.mp4', '-i', c1, '-i', c2, '-i', audio,
        '-filter_complex',

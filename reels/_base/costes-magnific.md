@@ -92,3 +92,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-19 | Sitcom EP03 · quitar septum a Uri (preciseEdit) | images_generate | 80 |
 | 2026-10-19 | Sitcom EP03 · clip calabaza rehecho sin septum | video_generate | 140 |
 | 2026-10-20 | Casting de voces (15 TTS: eleven_v3 + Gemini) | audio_tts | 118 |
+| 2026-10-20 | Voces v2 (todas las B): 12 OK + 2 combinadas (6 fallidas de Gemini) | audio_tts | ~112 |

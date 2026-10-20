@@ -11,7 +11,8 @@ from PIL import Image, ImageDraw, ImageFont, ImageEnhance
 R = '/home/user/leanding-propleads'
 EP = f'{R}/reels/PHARAON_SITCOM/ep02'
 EP1 = f'{R}/reels/PHARAON_SITCOM/ep01'
-VG = f'{EP}/voces_guia'
+V2 = os.environ.get('VOCES') == 'v2'  # voces definitivas del casting
+VG = f'{EP}/voces_v2' if V2 else f'{EP}/voces_guia'
 SFX = f'{R}/reels/_base/sfx'
 FUENTES = f'{R}/posts/_base/fuentes/'
 TMP = f'{EP}/tmp'
@@ -179,7 +180,8 @@ mezcla(voces + efectos, f'{TMP}/audio_guia.wav')
 mezcla(efectos, f'{TMP}/audio_sfx.wav')
 
 c = ini[I_CARLOS]
-for audio, nombre in [(f'{TMP}/audio_guia.wav', 'EP02_guia_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP02_sin_voces_movil.mp4')]:
+salidas = [(f'{TMP}/audio_guia.wav', 'EP02_voces_v2_movil.mp4')] if V2 else [(f'{TMP}/audio_guia.wav', 'EP02_guia_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP02_sin_voces_movil.mp4')]
+for audio, nombre in salidas:
     sh('ffmpeg', '-v', 'error', '-y', '-i', f'{TMP}/video.mp4', '-i', hook, '-i', regla, '-i', pregunta, '-i', audio,
        '-filter_complex',
        f"[0][1]overlay=enable='between(t,0,{ini[2]})'[v1];"

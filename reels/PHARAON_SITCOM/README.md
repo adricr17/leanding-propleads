@@ -30,3 +30,12 @@ Delia ya no forma parte del estudio (18/10/2026).
 
 ## Detalles físicos que hay que respetar en los prompts (usuario)
 - Uri: dos aros en la nariz, uno en cada aleta. **No lleva septum** (19/10/2026).
+
+## Voces definitivas (casting 20/10/2026, el usuario eligió todas las B)
+- Adri: Emilio Salcedo (ElevenLabs, eleven_v3, id 1280)
+- Uri: Fenrir (Google, gemini_v3_1_flash_tts, id 706)
+- Andrea: Leda (Google, id 711)
+- Meii: Laomedeia (Google, id 710)
+- Kike: Achird (Google, id 695)
+Con Google, pedir siempre en `systemInstruction`: español de España, acento castellano peninsular, joven, natural, sin locutor. Las frases muy cortas a veces fallan («No audio content generated»): generarlas juntas en una toma y cortar.
+Montaje con estas voces: `VOCES=v2 python3 reels/PHARAON_SITCOM/epXX/montar_epXX.py` (alineado en `voces_v2/alinear_v2.py`).

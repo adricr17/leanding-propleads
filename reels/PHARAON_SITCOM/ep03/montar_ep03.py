@@ -15,6 +15,8 @@ TMP = f'{EP}/tmp'
 os.makedirs(TMP, exist_ok=True)
 W, H, FPS = 1080, 1920, 30
 NARANJA = (255, 140, 30)
+V2 = os.environ.get('VOCES') == 'v2'  # voces definitivas del casting
+VOC = f'{EP}/voces_v2' if V2 else f'{EP}/voces'
 
 
 def sh(*a):
@@ -116,8 +118,8 @@ TOTAL = t
 carlos = cartela('carlos', ['Carlos va de Carlos.'], 1380, 96)
 
 voces = [
-    (f'{EP}/voces/adri_claro.wav', 0, 1.95, ini[1], 1.0),
-    (f'{EP}/voces/uri_todos.wav', 0, 1.7, ini[2], 1.0),
+    (f'{VOC}/adri_claro.wav', 0, 1.95, ini[1], 1.0),
+    (f'{VOC}/uri_todos.wav', 0, 1.7, ini[2], 1.0),
 ]
 efectos = [
     (f'{SFX}/bip.mp3', 0, 0.6, ini[0] + 0.15, 0.7),
@@ -146,7 +148,8 @@ def mezcla(pistas, salida):
 mezcla(voces + efectos, f'{TMP}/audio_voces.wav')
 mezcla(efectos, f'{TMP}/audio_sfx.wav')
 
-for audio, nombre in [(f'{TMP}/audio_voces.wav', 'EP03_halloween_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP03_halloween_sin_voces_movil.mp4')]:
+salidas = [(f'{TMP}/audio_voces.wav', 'EP03_halloween_voces_v2_movil.mp4')] if V2 else [(f'{TMP}/audio_voces.wav', 'EP03_halloween_movil.mp4'), (f'{TMP}/audio_sfx.wav', 'EP03_halloween_sin_voces_movil.mp4')]
+for audio, nombre in salidas:
     sh('ffmpeg', '-v', 'error', '-y', '-i', f'{TMP}/video.mp4', '-i', carlos, '-i', audio,
        '-filter_complex', f"[0][1]overlay=enable='between(t,{ini[5] + 1.1},{ini[6]})'[v]",
        '-map', '[v]', '-map', '2:a', '-c:v', 'libx264', '-profile:v', 'high', '-level', '4.1', '-pix_fmt', 'yuv420p',
