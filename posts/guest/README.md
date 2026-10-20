@@ -3,7 +3,7 @@
 Petición del usuario: publicación + carrusel para atraer tatuadores invitados (días o semanas).
 Canva sin cuota de IA (quota_exceeded) → montado en local con HTML + Playwright y fotos reales del estudio (sin personas).
 
-- `guest/01-06.png`: carrusel (portada, visibilidad, instalaciones, clientes y equipo, experiencia, cierre).
+- `guest/01-06.png`: carrusel. La portada usa una foto de cliente (`privado/guest/`), así que los PNG renderizados NO se suben al repo (gitignore).
 - `guest/07.png`: post suelto con todo resumido en una imagen.
 - Volver a generar: `node posts/_base/render.js posts/guest/guest.html`
 
