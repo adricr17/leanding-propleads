@@ -56,7 +56,7 @@ u_peq = frase('u_peq', f'{RAW}/uri_peq_seacabo', [(0.25, 1.22)]); u_seacabo = fr
 u_no = frase('u_no', f'{RAW}/uri_no')
 u_todos = frase('u_todos', f'{RAW}/uri_todos_perdona', [(0.5, 1.96)]); u_perdona = frase('u_perdona', f'{RAW}/uri_todos_perdona', [(3.58, 4.16), (5.02, 6.95)])
 a_hala = frase('a_hala', f'{RAW}/andrea_hala2', [(0.22, 1.08)]); a_no = frase('a_no', f'{RAW}/andrea_no')
-a_primero = frase('a_primero', f'{RAW}/andrea_nibroma_primero', [(1.68, 2.75)]); a_nibroma = frase('a_nibroma', f'{RAW}/andrea_nibroma')
+a_primero = frase('a_primero', f'{RAW}/andrea_nibroma_primero', [(1.68, 2.75)]); a_nibroma = frase('a_nibroma', f'{RAW}/andrea_nibroma_primero', [(0.22, 1.32)])  # toma del casting (la suelta salió mal)
 m_madre = frase('m_madre', f'{RAW}/meii_madre'); m_no = frase('m_no', f'{RAW}/meii_no'); m_es = frase('m_es', f'{RAW}/meii_esmia')
 k_no = frase('k_no', f'{RAW}/kike_no')
 
