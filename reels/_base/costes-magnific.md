@@ -94,3 +94,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-20 | Casting de voces (15 TTS: eleven_v3 + Gemini) | audio_tts | 118 |
 | 2026-10-20 | Voces v2 (todas las B): 12 OK + 2 combinadas (6 fallidas de Gemini) | audio_tts | ~112 |
 | 2026-10-20 | Casting Adri (4 TTS) | audio_tts | 48 |
+| 2026-10-21 | Post Halloween · fondo calabazas con flash de tatuaje x2 | images_generate | 120 |
