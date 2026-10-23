@@ -32,7 +32,7 @@ Delia ya no forma parte del estudio (18/10/2026).
 - Uri: dos aros en la nariz, uno en cada aleta. **No lleva septum** (19/10/2026).
 
 ## Voces definitivas (casting 20/10/2026, el usuario eligió todas las B)
-- Adri: Emilio Salcedo (ElevenLabs, eleven_v3, id 1280)
+- Adri: Puck (Google, gemini_v3_1_flash_tts, id 714) · opción C del casting de Adri (23/10). Antes: Emilio Salcedo (ElevenLabs, id 1280)
 - Uri: Fenrir (Google, gemini_v3_1_flash_tts, id 706)
 - Andrea: Leda (Google, id 711)
 - Meii: Laomedeia (Google, id 710)
