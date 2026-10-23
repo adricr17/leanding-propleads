@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<link rel="stylesheet" href="../_base/base.css">
+<!-- ÍCARO · carrusel de 7. Portada: foto con el rótulo que mandó el usuario (23/10/2026). Última: el tatuaje curado.
+     Fotos de cliente en privado/icaro/ (no se suben); los renders van a posts/icaro/icaro/ (gitignored). -->
+<style>
+.bgfoto { position: absolute; inset: 0; background: center / cover no-repeat; z-index: 0; }
+.velo { position: absolute; inset: 0; z-index: 0;
+  background: linear-gradient(rgba(10,10,10,.35) 0%, rgba(10,10,10,0) 18%, rgba(10,10,10,0) 42%, rgba(10,10,10,.82) 64%, rgba(10,10,10,.95) 100%); }
+.slide > .etiqueta, .slide > .contador, .slide > .firma { z-index: 2; text-shadow: 0 1px 6px #000; }
+.texto { position: absolute; left: 90px; right: 90px; bottom: 130px; z-index: 1; }
+.num { font-family: 'Space Mono'; font-weight: 700; color: var(--morado); font-size: 28px; letter-spacing: 3px; }
+.texto .titular { font-size: 96px; margin-top: 16px; }
+.texto p { font-size: 38px; line-height: 1.38; margin-top: 26px; }
+.texto p b { font-weight: 700; }
+.lista { list-style: none; margin-top: 22px; }
+.lista li { font-size: 36px; padding: 12px 0; border-bottom: 2px solid rgba(239,235,228,.18); }
+.lista li b { font-family: 'Anton'; text-transform: uppercase; font-weight: 400; color: var(--morado); letter-spacing: 1px; margin-right: 12px; }
+</style></head><body>
+
+<!-- 1 · Portada: la foto con el rótulo ICARO, tal cual -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/01_portada.jpg)"></div>
+  <div class="contador" style="color:#fff">1/7</div>
+  <div class="mono" style="position:absolute; right:80px; bottom:60px; font-size:24px; color:#fff; opacity:.85; text-shadow:0 1px 6px #000; z-index:2">Desliza →</div>
+</section>
+
+<!-- 2 · Dédalo y el laberinto -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/03.jpg); background-position: center 30%"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · ÍCARO</div><div class="contador">2/7</div>
+  <div class="texto">
+    <div class="num">01 · LA CÁRCEL</div>
+    <h2 class="titular">Encerrados en su <span class="morado">propio laberinto</span></h2>
+    <p>Dédalo era el mejor inventor de Grecia. El rey Minos lo encerró en Creta con su hijo, <b>Ícaro</b>, en el laberinto que el propio Dédalo había construido.</p>
+  </div>
+</section>
+
+<!-- 3 · Las alas -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/05.jpg); background-position: center 25%"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · ÍCARO</div><div class="contador">3/7</div>
+  <div class="texto">
+    <div class="num">02 · EL PLAN</div>
+    <h2 class="titular">Si no se puede salir por tierra… <span class="morado">se sale volando</span></h2>
+    <p>Dédalo fabricó dos pares de alas con plumas, hilo y <b>cera</b>.</p>
+  </div>
+</section>
+
+<!-- 4 · La advertencia (la vela que gotea) -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/04_vela.jpg); background-position: center 20%"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · ÍCARO</div><div class="contador">4/7</div>
+  <div class="texto">
+    <div class="num">03 · LA ADVERTENCIA</div>
+    <h2 class="titular">Ni muy bajo, <span class="morado">ni muy alto</span></h2>
+    <p>Muy cerca del mar, las plumas se mojarían. Muy cerca del sol, <b>la cera se derretiría</b>.</p>
+  </div>
+</section>
+
+<!-- 5 · La caída (encuadre en el sol) -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/02.jpg); background-size: 165%; background-position: 20% 0%"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · ÍCARO</div><div class="contador">5/7</div>
+  <div class="texto">
+    <div class="num">04 · LA CAÍDA</div>
+    <h2 class="titular">Ícaro <span class="morado">no hizo caso</span></h2>
+    <p>Se vino arriba, subió cada vez más cerca del sol… la cera se derritió y cayó al mar. Ese mar todavía lleva su nombre: <b>el mar Icario</b>.</p>
+  </div>
+</section>
+
+<!-- 6 · La historia en el brazo -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/02.jpg); background-position: center 100%"></div>
+  <div class="velo" style="background: linear-gradient(rgba(10,10,10,.95) 0%, rgba(10,10,10,.85) 36%, rgba(10,10,10,0) 58%)"></div>
+  <div class="etiqueta">PHARAON · ÍCARO</div><div class="contador">6/7</div>
+  <div class="texto" style="top:150px; bottom:auto">
+    <div class="num">05 · EN LA PIEL</div>
+    <h2 class="titular">Toda la historia <span class="morado">en un brazo</span></h2>
+    <ul class="lista">
+      <li><b>Arriba</b>el sol</li>
+      <li><b>En el centro</b>un rostro que se agrieta</li>
+      <li><b>En la muñeca</b>la cera que gotea</li>
+    </ul>
+  </div>
+</section>
+
+<!-- 7 · Curado -->
+<section class="slide">
+  <div class="bgfoto" style="background-image:url(../../privado/icaro/06_curado.jpg); background-position: center 30%"></div>
+  <div class="velo"></div>
+  <div class="etiqueta">PHARAON · ÍCARO</div><div class="contador">7/7</div>
+  <div class="texto">
+    <div class="num">YA CURADO</div>
+    <h2 class="titular">Así se ve <span class="morado">curado</span></h2>
+    <p>¿Qué mito te tatuarías tú? 👇</p>
+    <p style="margin-top:30px"><span class="morado" style="font-family:Anton; font-size:46px; letter-spacing:1px">@PHARAONSTUDIO</span></p>
+  </div>
+</section>
+
+</body></html>
