@@ -96,3 +96,6 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-20 | Casting Adri (4 TTS) | audio_tts | 48 |
 | 2026-10-21 | Post Halloween · fondo calabazas con flash de tatuaje x2 | images_generate | 120 |
 | 2026-10-23 | Reel1 · clip de prueba imagen 07 (Kling 720p) | video_generate | 140 |
+| 2026-10-23 | Reel1 · clips animados 02, 05, 08 (Kling 720p x3) | video_generate | 420 |
+| 2026-10-23 | Reel3 · clips animados 04, 05, 07, 09 (Kling 720p x4) | video_generate | 560 |
+| 2026-10-23 | Reel4 · clips animados 03, 04, 05, 07 (Kling 720p x4) | video_generate | 560 |

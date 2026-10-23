@@ -44,16 +44,11 @@
   "clave": [
    "lados"
   ],
-  "imagen": "03.png",
   "inicio": 5.72,
   "fin": 7.247,
   "escena_voz": 3,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/03.mp4"
  },
  {
   "texto": "Pero con los años, las partículas se desplazan un poquito hacia los lados.",
@@ -76,38 +71,24 @@
   "clave": [
    "lados"
   ],
-  "imagen": "03.png",
-  "recorte": [
-   219,
-   389,
-   933,
-   1659
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 8.773,
   "fin": 10.3,
   "escena_voz": 3,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/03.mp4",
+  "desde": 1.527,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Una parte incluso viaja por tu cuerpo, hasta los ganglios.",
   "clave": [
    "ganglios"
   ],
-  "imagen": "04.png",
   "inicio": 10.3,
   "fin": 12.155,
   "escena_voz": 4,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/04.mp4"
  },
  {
   "texto": "Una parte incluso viaja por tu cuerpo, hasta los ganglios.",
@@ -130,38 +111,24 @@
   "clave": [
    "sol"
   ],
-  "imagen": "05.png",
   "inicio": 14.01,
   "fin": 15.5,
   "escena_voz": 5,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/05.mp4"
  },
  {
   "texto": "Y el sol va rompiendo el pigmento poco a poco.",
   "clave": [
    "sol"
   ],
-  "imagen": "05.png",
-  "recorte": [
-   219,
-   389,
-   933,
-   1659
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 15.5,
   "fin": 16.99,
   "escena_voz": 5,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/05.mp4",
+  "desde": 1.49,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Por eso las líneas muy finas o muy juntas acaban fundiéndose.",
@@ -200,16 +167,11 @@
   "clave": [
    "espacio"
   ],
-  "imagen": "07.png",
   "inicio": 20.77,
   "fin": 22.365,
   "escena_voz": 7,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/07.mp4"
  },
  {
   "texto": "Los que mejor envejecen tienen espacio para respirar.",

@@ -92,16 +92,11 @@
   "clave": [
    "endorfinas"
   ],
-  "imagen": "04.png",
   "inicio": 9.28,
   "fin": 11.24,
   "escena_voz": 4,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/04.mp4"
  },
  {
   "texto": "Mientras te tatúan, tu cuerpo suelta adrenalina y endorfinas: sus propios calmantes.",
@@ -124,60 +119,37 @@
   "clave": [
    "endorfinas"
   ],
-  "imagen": "04.png",
-  "recorte": [
-   219,
-   389,
-   933,
-   1659
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 13.2,
   "fin": 15.16,
   "escena_voz": 4,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/04.mp4",
+  "desde": 1.96,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Sales de ahí con un subidón raro.",
   "clave": [
    "subidón"
   ],
-  "imagen": "05.png",
   "inicio": 15.16,
   "fin": 16.225,
   "escena_voz": 5,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/05.mp4"
  },
  {
   "texto": "Sales de ahí con un subidón raro.",
   "clave": [
    "subidón"
-  ],
-  "imagen": "05.png",
-  "recorte": [
-   219,
-   389,
-   933,
-   1659
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
   ],
   "inicio": 16.225,
   "fin": 17.29,
   "escena_voz": 5,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/05.mp4",
+  "desde": 1.065,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Pero a las pocas semanas, tu cerebro se acostumbra al tatuaje.",
@@ -218,16 +190,11 @@
    "de",
    "ti"
   ],
-  "imagen": "07.png",
   "inicio": 21.31,
   "fin": 22.775,
   "escena_voz": 7,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/07.mp4"
  },
  {
   "texto": "Deja de ser nuevo. Ya es parte de ti.",
@@ -236,22 +203,13 @@
    "de",
    "ti"
   ],
-  "imagen": "07.png",
-  "recorte": [
-   219,
-   389,
-   933,
-   1659
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 22.775,
   "fin": 24.24,
   "escena_voz": 7,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/07.mp4",
+  "desde": 1.465,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Así que no quieres otro tatuaje. Quieres volver a sentir el primero.",
@@ -259,62 +217,28 @@
    "el",
    "primero"
   ],
-  "video": "clips/08.mp4",
   "inicio": 24.24,
   "fin": 25.717,
   "escena_voz": 8,
-  "sin_subtitulo": true
- },
- {
-  "texto": "Así que no quieres otro tatuaje. Quieres volver a sentir el primero.",
-  "clave": [
-   "el",
-   "primero"
-  ],
-  "video": "clips/08.mp4",
-  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920",
-  "inicio": 25.717,
-  "fin": 27.193,
-  "escena_voz": 8,
-  "desde": 1.477,
-  "sin_subtitulo": true
- },
- {
-  "texto": "Así que no quieres otro tatuaje. Quieres volver a sentir el primero.",
-  "clave": [
-   "el",
-   "primero"
-  ],
-  "video": "clips/08.mp4",
-  "filtro": "crop=iw*0.6:ih*0.6:iw*0.2:ih*0.15,scale=1080:1920",
-  "inicio": 27.193,
-  "fin": 28.67,
-  "escena_voz": 8,
-  "desde": 2.953,
-  "sin_subtitulo": true
- },
- {
-  "texto": "¿Cuántos llevas desde el primero?",
-  "clave": [
-   "cuántos"
-  ],
-  "imagen": "09.png",
-  "inicio": 28.67,
-  "fin": 29.87,
-  "escena_voz": 9,
+  "sin_subtitulo": true,
+  "imagen": "08.png",
   "foco": [
    0.5,
    0.5,
    1.1
-  ],
-  "sin_subtitulo": true
+  ]
  },
  {
-  "texto": "¿Cuántos llevas desde el primero?",
+  "texto": "Así que no quieres otro tatuaje. Quieres volver a sentir el primero.",
   "clave": [
-   "cuántos"
+   "el",
+   "primero"
   ],
-  "imagen": "09.png",
+  "inicio": 25.717,
+  "fin": 27.193,
+  "escena_voz": 8,
+  "sin_subtitulo": true,
+  "imagen": "08.png",
   "recorte": [
    219,
    389,
@@ -325,10 +249,47 @@
    0.5,
    0.45,
    1.1
+  ]
+ },
+ {
+  "texto": "Así que no quieres otro tatuaje. Quieres volver a sentir el primero.",
+  "clave": [
+   "el",
+   "primero"
+  ],
+  "inicio": 27.193,
+  "fin": 28.67,
+  "escena_voz": 8,
+  "sin_subtitulo": true,
+  "imagen": "08.png",
+  "foco": [
+   0.45,
+   0.42,
+   1.14
+  ]
+ },
+ {
+  "texto": "¿Cuántos llevas desde el primero?",
+  "clave": [
+   "cuántos"
+  ],
+  "inicio": 28.67,
+  "fin": 29.87,
+  "escena_voz": 9,
+  "sin_subtitulo": true,
+  "video": "clips/09.mp4"
+ },
+ {
+  "texto": "¿Cuántos llevas desde el primero?",
+  "clave": [
+   "cuántos"
   ],
   "inicio": 29.87,
   "fin": 31.07,
   "escena_voz": 9,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/09.mp4",
+  "desde": 1.2,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  }
 ]

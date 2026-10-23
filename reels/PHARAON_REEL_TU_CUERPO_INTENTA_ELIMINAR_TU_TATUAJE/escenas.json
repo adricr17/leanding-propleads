@@ -28,38 +28,24 @@
   "clave": [
    "debajo"
   ],
-  "imagen": "02.png",
   "inicio": 3.29,
   "fin": 4.85,
   "escena_voz": 2,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/02.mp4"
  },
  {
   "texto": "La aguja mete la tinta debajo de la piel que se renueva.",
   "clave": [
    "debajo"
   ],
-  "imagen": "02.png",
-  "recorte": [
-   137,
-   243,
-   583,
-   1037
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 4.85,
   "fin": 6.41,
   "escena_voz": 2,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/02.mp4",
+  "desde": 1.56,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Y ahí abajo, tu sistema inmune detecta un intruso.",
@@ -130,38 +116,24 @@
   "clave": [
    "digerirla"
   ],
-  "imagen": "05.png",
   "inicio": 13.67,
   "fin": 15.03,
   "escena_voz": 5,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/05.mp4"
  },
  {
   "texto": "Se la tragan… pero no pueden digerirla.",
   "clave": [
    "digerirla"
   ],
-  "imagen": "05.png",
-  "recorte": [
-   137,
-   243,
-   583,
-   1037
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 15.03,
   "fin": 16.39,
   "escena_voz": 5,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/05.mp4",
+  "desde": 1.36,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Cuando una muere, la suelta… y otra se la vuelve a tragar.",
@@ -200,38 +172,24 @@
   "clave": [
    "décadas"
   ],
-  "imagen": "07.png",
   "inicio": 20.38,
   "fin": 21.75,
   "escena_voz": 7,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/07_prueba.mp4"
  },
  {
   "texto": "Por eso lo que hace un tatuador dura décadas.",
   "clave": [
    "décadas"
   ],
-  "imagen": "07.png",
-  "recorte": [
-   137,
-   243,
-   583,
-   1037
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 21.75,
   "fin": 23.12,
   "escena_voz": 7,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/07_prueba.mp4",
+  "desde": 1.37,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "Pero no es tinta quieta: es tinta que tus células se pasan toda tu vida.",
@@ -240,16 +198,11 @@
    "tu",
    "vida"
   ],
-  "imagen": "08.png",
   "inicio": 23.12,
   "fin": 24.69,
   "escena_voz": 8,
-  "foco": [
-   0.5,
-   0.5,
-   1.1
-  ],
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/08.mp4"
  },
  {
   "texto": "Pero no es tinta quieta: es tinta que tus células se pasan toda tu vida.",
@@ -276,22 +229,13 @@
    "tu",
    "vida"
   ],
-  "imagen": "08.png",
-  "recorte": [
-   137,
-   243,
-   583,
-   1037
-  ],
-  "foco": [
-   0.5,
-   0.45,
-   1.1
-  ],
   "inicio": 26.26,
   "fin": 27.83,
   "escena_voz": 8,
-  "sin_subtitulo": true
+  "sin_subtitulo": true,
+  "video": "clips/08.mp4",
+  "desde": 1.57,
+  "filtro": "crop=iw*0.72:ih*0.72,scale=1080:1920"
  },
  {
   "texto": "¿Cuántos años lleva tu cuerpo con el tuyo?",
