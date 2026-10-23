@@ -87,6 +87,19 @@ voces = [
     (f'{VG}/meii_completo.wav', 3.08, 0.38, ini[4] + 0.37, 0.9),
     (f'{VG}/andrea_completo.wav', 2.24, 0.36, ini[4] + 0.36, 0.9),
     (f'{VG}/kike_completo.wav', 1.32, 0.65, ini[4] + 0.33, 0.9),
+] if MODO != 'v2' else [
+    # voces v2: ventanas con la duración real de cada reacción para que no se corten
+    (VOZ_ADRI, 0.0, 3.05, ini[0], 1.0),
+    (f'{VG}/uri_completo.wav', 1.35, 1.0, ini[2] + 0.15, 0.8),      # ¿Pequeñito?
+    (f'{VG}/meii_completo.wav', 1.25, 1.1, ini[2] + 0.4, 0.7),      # Madre mía
+    (f'{VG}/andrea_completo.wav', 1.48, 0.62, ini[2] + 0.88, 0.7),  # Hala
+    (VOZ_ADRI, 3.4, 1.73, ini[3], 1.0),
+    (f'{VG}/uri_completo.wav', 3.12, 0.45, ini[4] + 0.35, 0.9),     # ¡NO! x4
+    (f'{VG}/meii_completo.wav', 3.08, 0.85, ini[4] + 0.37, 0.9),
+    (f'{VG}/andrea_completo.wav', 2.24, 0.9, ini[4] + 0.36, 0.9),
+    (f'{VG}/kike_completo.wav', 1.32, 0.65, ini[4] + 0.33, 0.9),
+]
+voces += [
     (f'{VG}/C_meii_es_mia.wav', 0.0, 1.48, ini[5], 1.0),
     (f'{VG}/D_andrea_yo_la_vi_primero.wav', 0.0, 1.48, ini[6], 1.0),
     (f'{VG}/E_uri_el_estudio_es_mio.wav', 0.0, 1.97, ini[7], 1.0),
@@ -109,7 +122,7 @@ def mezcla(pistas, salida):
     for j, (src, ss, dur, at, vol) in enumerate(pistas):
         args += ['-i', src]
         fil.append(f'[{j}]atrim={ss}:{ss + dur},asetpts=N/SR/TB,aformat=sample_rates=44100:channel_layouts=stereo,'
-                   f'volume={vol},adelay={int(at * 1000)}|{int(at * 1000)}[a{j}]')
+                   f'afade=t=in:d=0.03,afade=t=out:st={max(dur - 0.06, 0)}:d=0.06,volume={vol},adelay={int(at * 1000)}|{int(at * 1000)}[a{j}]')
     n = len(pistas)
     fil.append(''.join(f'[a{j}]' for j in range(n)) + f'amix=inputs={n}:normalize=0,apad,atrim=0:{TOTAL},'
                'loudnorm=I=-14:TP=-1.5[out]')

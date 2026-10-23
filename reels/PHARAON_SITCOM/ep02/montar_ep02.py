@@ -142,7 +142,7 @@ pregunta = cartela('pregunta', ['¿Qué canción pondrías', 'tú en la camilla?
 voces = [
     (f'{VG}/D_andrea_ni_de_broma.wav', 0, 1.4, ini[I_ANDREA], 1.0),
     (f'{VG}/E_uri_se_acabo.wav', 0, 1.75, ini[I_URI], 1.0),
-    (f'{VG}/adri_chicos_off.wav', 0, 0.68, ini[I_GIRO] + 0.05, 0.9),
+    (f'{VG}/adri_chicos_off.wav', 0, 0.95 if V2 else 0.68, ini[I_GIRO] + 0.05, 0.9),
     (f'{VG}/A_adri_la_musica.wav', 0, 1.97, ini[I_ADRI], 1.0),
 ]
 efectos = [

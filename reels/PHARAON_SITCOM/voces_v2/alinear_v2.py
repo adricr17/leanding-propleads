@@ -30,7 +30,7 @@ def frase(nombre, src, tramos=None):
             fil.append('[t0]anull[c]')
         sh(*args, '-filter_complex', ';'.join(fil), '-map', '[c]', f'{RAW}/_tmp.wav')
         src = f'{RAW}/_tmp.wav'
-    sh('ffmpeg', '-y', '-i', src, '-af', 'silenceremove=start_periods=1:start_threshold=-42dB,areverse,silenceremove=start_periods=1:start_threshold=-42dB,areverse',
+    sh('ffmpeg', '-y', '-i', src, '-af', 'silenceremove=start_periods=1:start_threshold=-58dB,areverse,silenceremove=start_periods=1:start_threshold=-58dB,areverse',
        '-ac', '1', '-ar', '44100', out)
     return out
 
@@ -52,8 +52,8 @@ def montar(destino, total, piezas):
 
 # Adri: una sola toma de Puck con las 5 frases separadas por pausas (Gemini falla con frases sueltas cortas)
 ADRI = f'{RAW}/adri_puck_todas.wav'
-hola = frase('hola', ADRI, [(0.0, 3.75)]); vale = frase('vale', ADRI, [(5.2, 6.78)])
-chicos = frase('chicos', ADRI, [(8.05, 9.02)]); musica = frase('musica', ADRI, [(10.27, 11.98)]); claro = frase('claro', ADRI, [(13.2, 15.1)])
+hola = frase('hola', ADRI, [(0.0, 4.1)]); vale = frase('vale', ADRI, [(5.1, 7.3)])
+chicos = frase('chicos', ADRI, [(7.95, 9.5)]); musica = frase('musica', ADRI, [(10.17, 12.5)]); claro = frase('claro', ADRI, [(13.1, 15.4)])
 u_peq = frase('u_peq', f'{RAW}/uri_peq_seacabo', [(0.25, 1.22)]); u_seacabo = frase('u_seacabo', f'{RAW}/uri_peq_seacabo', [(3.25, 4.22), (4.88, 5.32)])
 u_no = frase('u_no', f'{RAW}/uri_no')
 u_todos = frase('u_todos', f'{RAW}/uri_todos_perdona', [(0.5, 1.96)]); u_perdona = frase('u_perdona', f'{RAW}/uri_todos_perdona', [(3.58, 4.16), (5.02, 6.95)])
@@ -66,8 +66,8 @@ E1, E2, E3 = f'{S}/ep01/voces_v2', f'{S}/ep02/voces_v2', f'{S}/ep03/voces_v2'
 # EP01 (tiempos de la voz guía del 18/10; frases con labios ajustadas, reacciones al ritmo natural)
 montar(f'{E1}/voz_adri.wav', 5.13, [(hola, 0.14, 2.72), (vale, 3.64, 1.15)])
 montar(f'{E1}/uri_completo.wav', 7.1, [(u_peq, 1.40, None), (u_no, 3.18, None), (u_perdona, 4.6, 1.72)])
-montar(f'{E1}/meii_completo.wav', 5.575, [(m_madre, 1.30, None), (m_no, 3.14, None), (m_es, 4.30, 0.72)])
-montar(f'{E1}/andrea_completo.wav', 5.015, [(a_hala, 1.525, None), (a_no, 2.285, None), (a_primero, 3.225, 1.0)])
+montar(f'{E1}/meii_completo.wav', 5.575, [(m_madre, 1.30, 1.0), (m_no, 3.14, None), (m_es, 4.30, 0.72)])
+montar(f'{E1}/andrea_completo.wav', 5.015, [(a_hala, 1.525, 0.55), (a_no, 2.285, None), (a_primero, 3.225, 1.0)])
 montar(f'{E1}/kike_completo.wav', 2.77, [(k_no, 1.35, None)])
 montar(f'{E1}/C_meii_es_mia.wav', 1.5, [(m_es, 0.38, 0.72)])
 montar(f'{E1}/D_andrea_yo_la_vi_primero.wav', 1.5, [(a_primero, 0.275, 1.0)])
