@@ -1,6 +1,6 @@
 """Voces definitivas (casting 20/10/2026, todas las opciones B) alineadas con los labios de EP01-EP03.
 
-Adri = Emilio Salcedo (ElevenLabs v3) · Uri = Fenrir · Andrea = Leda · Meii = Laomedeia · Kike = Achird (Google).
+Adri = Puck (Google, casting Adri opción C, 23/10) · Uri = Fenrir · Andrea = Leda · Meii = Laomedeia · Kike = Achird (Google).
 Genera ep01/voces_v2/, ep02/voces_v2/ y ep03/voces_v2/ con los mismos nombres de archivo que usan los montajes.
 """
 import os, subprocess
@@ -50,8 +50,10 @@ def montar(destino, total, piezas):
     sh(*args, '-filter_complex', ';'.join(fil), '-map', '[o]', '-ar', '44100', destino)
     print(os.path.relpath(destino, S), 'ok')
 
-hola = frase('hola', f'{RAW}/adri_hola'); vale = frase('vale', f'{RAW}/adri_vale')
-chicos = frase('chicos', f'{RAW}/adri_chicos'); musica = frase('musica', f'{RAW}/adri_musica'); claro = frase('claro', f'{RAW}/adri_claro')
+# Adri: una sola toma de Puck con las 5 frases separadas por pausas (Gemini falla con frases sueltas cortas)
+ADRI = f'{RAW}/adri_puck_todas.wav'
+hola = frase('hola', ADRI, [(0.0, 3.75)]); vale = frase('vale', ADRI, [(5.2, 6.78)])
+chicos = frase('chicos', ADRI, [(8.05, 9.02)]); musica = frase('musica', ADRI, [(10.27, 11.98)]); claro = frase('claro', ADRI, [(13.2, 15.1)])
 u_peq = frase('u_peq', f'{RAW}/uri_peq_seacabo', [(0.25, 1.22)]); u_seacabo = frase('u_seacabo', f'{RAW}/uri_peq_seacabo', [(3.25, 4.22), (4.88, 5.32)])
 u_no = frase('u_no', f'{RAW}/uri_no')
 u_todos = frase('u_todos', f'{RAW}/uri_todos_perdona', [(0.5, 1.96)]); u_perdona = frase('u_perdona', f'{RAW}/uri_todos_perdona', [(3.58, 4.16), (5.02, 6.95)])

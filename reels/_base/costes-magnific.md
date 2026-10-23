@@ -99,3 +99,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-23 | Reel1 · clips animados 02, 05, 08 (Kling 720p x3) | video_generate | 420 |
 | 2026-10-23 | Reel3 · clips animados 04, 05, 07, 09 (Kling 720p x4) | video_generate | 560 |
 | 2026-10-23 | Reel4 · clips animados 03, 04, 05, 07 (Kling 720p x4) | video_generate | 560 |
+| 2026-10-23 | Sitcom · voz nueva de Adri (Puck, 5 frases en una toma) | audio_tts | 32 |
