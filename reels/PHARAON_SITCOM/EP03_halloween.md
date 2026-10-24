@@ -14,7 +14,9 @@ Idea del usuario (19/10/2026): Uri enfadado gritando «¡Todos disfrazados!». E
 
 Montaje: `ep03/montar_ep03.py` → `ep03/EP03_halloween_movil.mp4` (voces IA) y `EP03_halloween_sin_voces_movil.mp4`.
 Gasto Magnific: 5 + 300 + 80 + 720 + 420 + 10 = 1.535 cr.
-Pendiente: confirmar que la Costume Week empieza el 27 (el carrusel tenía la duda 26/27).
+Confirmado (24/10): la Costume Week va del 27 al 31. El episodio se sube el mismo 27.
+
+Descripción: «Desde hoy y hasta el 31: todos disfrazados 🎃 Tú también, aunque no vengas a tatuarte. PHARAON Sitcom · Ep. 3 (especial Halloween) #halloween #tatuajes #humor #pharaonstudio»
 
 Caption:
 ¿Disfrazarse en un estudio de tatuajes? Uri lo ha dejado claro.
