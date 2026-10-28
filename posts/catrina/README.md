@@ -13,12 +13,13 @@ Se sube el 28/10, por el tono oscuro de estas fechas. No se menciona Halloween (
 Las tomas de pierna entera llevan el texto abajo (sobre el oso) y los primeros planos, arriba (sobre las rosas): así no se tapan la cara ni la calavera.
 No se le atribuye ningún significado al oso ni a la mano (es algo personal del cliente).
 
-**PENDIENTE DE COMPLETAR:** quién hizo la pieza (para el crédito) y la confirmación de que el cliente ha dado permiso.
+**Pieza de Andrea (@avilastattoo)**, según el usuario (28/10); el crédito va en la portada y en la 6. **PENDIENTE:** confirmar el permiso del cliente.
 
 ## Texto para la publicación
 
 La catrina no nació para dar miedo: nació para burlarse de alguien 💀
 Desliza para conocer su historia.
 ¿Te la tatuarías? 👇
+Pieza de @avilastattoo
 
 #catrina #diademuertos #tatuajerealista #blackandgrey #santfeliudellobregat #pharaonstudio
