@@ -7,6 +7,7 @@ La carpeta lleva:
   subs.json           estilo y extras:
     {"acento": ["100€"],                       palabras en el color de acento y más grandes
      "color_acento": "#FF8A1F",                 opcional (por defecto, cian como los vídeos de Uri)
+     "color": ["premio", ...],                  palabras en el color de acento, al tamaño normal
      "titulo": {"arriba": "Halloween", "abajo": "WEEK", "hasta": 1.9},   rótulo de entrada (opcional)
      "efectos": [["trueno.mp3", 0.0, 0.5], ...]}   [archivo de reels/_base/sfx, segundo, volumen]
 Salida: <carpeta>/SUBTITULADO_movil.mp4 (1080x1920).
@@ -45,15 +46,15 @@ def texto_con_sombra(base, xy, t, f, col, glow=True):
     ImageDraw.Draw(base).text(xy, t, font=f, fill=col + (255,), anchor='mm', stroke_width=2, stroke_fill=(0, 0, 0, 160))
 
 
-def capa_palabra(w, acento, escala):
+def capa_palabra(w, acento, escala, color=False):
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     grande = acento
-    size = int((150 if grande else 96) * escala)
+    size = int((150 if grande else 104) * escala)
     f = ImageFont.truetype(F_PALABRA, size)
     while ImageDraw.Draw(im).textlength(w, font=f) > W - 120:
         size -= 6
         f = ImageFont.truetype(F_PALABRA, size)
-    texto_con_sombra(im, (W // 2, int(H * Y_TEXTO)), w, f, ACENTO if grande else BLANCO)
+    texto_con_sombra(im, (W // 2, int(H * Y_TEXTO)), w, f, ACENTO if grande or color else BLANCO)
     return im
 
 
@@ -73,6 +74,7 @@ def main(carpeta):
         h = cfg['color_acento'].lstrip('#')
         ACENTO = tuple(int(h[i:i + 2], 16) for i in (0, 2, 4))
     acento = set(cfg.get('acento', []))
+    colorear = {c.lower() for c in cfg.get('color', [])}
     tit = cfg.get('titulo')
     info = subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=r_frame_rate',
                            '-show_entries', 'format=duration', '-of', 'json', src], capture_output=True, text=True).stdout
@@ -84,7 +86,7 @@ def main(carpeta):
     tramos = []
     for i, p in enumerate(P):
         fin = P[i + 1]['a'] if i + 1 < len(P) and P[i + 1]['a'] - p['b'] < 0.35 else p['b'] + 0.12
-        tramos.append((p['a'], fin, limpia(p['w']), p['w'].strip('.,') in acento))
+        tramos.append((p['a'], fin, limpia(p['w']), p['w'].strip('.,') in acento, limpia(p['w']).lower() in colorear))
     cache = {}
     titulo = capa_titulo(tit['arriba'], tit['abajo']) if tit else None
 
@@ -104,12 +106,12 @@ def main(carpeta):
         if titulo is not None and t < tit['hasta']:
             frame.alpha_composite(titulo)
         else:
-            for a, b, w, ac in tramos:
+            for a, b, w, ac, co in tramos:
                 if a <= t < b:
                     k = min(int((t - a) * fps), 2)          # «pop»: 3 fotogramas creciendo
-                    clave = (w, ac, k)
+                    clave = (w, ac, co, k)
                     if clave not in cache:
-                        cache[clave] = capa_palabra(w, ac, (0.86, 0.94, 1.0)[k])
+                        cache[clave] = capa_palabra(w, ac, (0.86, 0.94, 1.0)[k], co)
                     frame.alpha_composite(cache[clave])
                     break
         enc.stdin.write(frame.convert('RGB').tobytes())
