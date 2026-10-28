@@ -5,7 +5,8 @@ La carpeta lleva:
   original.(mov|mp4)  vídeo ya montado (con su voz)
   palabras.json       [{"w": "palabra", "a": inicio, "b": fin}, ...]
   subs.json           estilo y extras:
-    {"acento": ["100€"],                       palabras en cian y más grandes
+    {"acento": ["100€"],                       palabras en el color de acento y más grandes
+     "color_acento": "#FF8A1F",                 opcional (por defecto, cian como los vídeos de Uri)
      "titulo": {"arriba": "Halloween", "abajo": "WEEK", "hasta": 1.9},   rótulo de entrada (opcional)
      "efectos": [["trueno.mp3", 0.0, 0.5], ...]}   [archivo de reels/_base/sfx, segundo, volumen]
 Salida: <carpeta>/SUBTITULADO_movil.mp4 (1080x1920).
@@ -18,6 +19,7 @@ R = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SFX = f'{R}/reels/_base/sfx'
 W, H = 1080, 1920
 BLANCO, CIAN = (255, 255, 255), (34, 225, 238)
+ACENTO = CIAN
 F_PALABRA = '/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf'
 F_CURSIVA = '/usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf'
 F_CONDENSADA = f'{R}/posts/_base/fuentes/Anton-Regular.ttf'
@@ -51,13 +53,13 @@ def capa_palabra(w, acento, escala):
     while ImageDraw.Draw(im).textlength(w, font=f) > W - 120:
         size -= 6
         f = ImageFont.truetype(F_PALABRA, size)
-    texto_con_sombra(im, (W // 2, int(H * Y_TEXTO)), w, f, CIAN if grande else BLANCO)
+    texto_con_sombra(im, (W // 2, int(H * Y_TEXTO)), w, f, ACENTO if grande else BLANCO)
     return im
 
 
 def capa_titulo(arriba, abajo):
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
-    texto_con_sombra(im, (W // 2 - 40, int(H * 0.47)), arriba, ImageFont.truetype(F_CURSIVA, 150), CIAN)
+    texto_con_sombra(im, (W // 2 - 40, int(H * 0.47)), arriba, ImageFont.truetype(F_CURSIVA, 150), ACENTO)
     texto_con_sombra(im, (W // 2 + 30, int(H * 0.47) + 165), abajo.upper(), ImageFont.truetype(F_CONDENSADA, 190), BLANCO, glow=False)
     return im
 
@@ -66,6 +68,10 @@ def main(carpeta):
     src = next(f'{carpeta}/{n}' for n in ('original.mov', 'original.mp4') if os.path.exists(f'{carpeta}/{n}'))
     P = json.load(open(f'{carpeta}/palabras.json'))
     cfg = json.load(open(f'{carpeta}/subs.json'))
+    global ACENTO
+    if cfg.get('color_acento'):
+        h = cfg['color_acento'].lstrip('#')
+        ACENTO = tuple(int(h[i:i + 2], 16) for i in (0, 2, 4))
     acento = set(cfg.get('acento', []))
     tit = cfg.get('titulo')
     info = subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=r_frame_rate',

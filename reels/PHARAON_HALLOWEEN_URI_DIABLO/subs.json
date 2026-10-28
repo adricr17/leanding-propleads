@@ -1,5 +1,6 @@
 {
  "acento": ["100€"],
+ "color_acento": "#FF8A1F",
  "titulo": {"arriba": "Halloween", "abajo": "week", "hasta": 2.0},
  "efectos": [
   ["trueno.mp3", 0.0, 0.35],
