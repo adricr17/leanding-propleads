@@ -1,0 +1,15 @@
+{
+ "acento": ["100€"],
+ "titulo": {"arriba": "Halloween", "abajo": "week", "hasta": 2.0},
+ "efectos": [
+  ["trueno.mp3", 0.0, 0.35],
+  ["whoosh.mp3", 1.9, 0.5],
+  ["impacto.mp3", 3.45, 0.45],
+  ["whoosh.mp3", 10.25, 0.35],
+  ["whoosh.mp3", 12.65, 0.35],
+  ["impacto.mp3", 17.75, 0.55],
+  ["bip.mp3", 22.8, 0.4],
+  ["impacto.mp3", 30.15, 0.55],
+  ["trueno.mp3", 32.5, 0.45]
+ ]
+}
