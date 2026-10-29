@@ -2,3 +2,7 @@ node_modules/
 out/
 public/*.mov
 public/*.mp4
+referencia/fotogramas/
+referencia/cortes/
+referencia/*.mp4
+referencia/*.wav
