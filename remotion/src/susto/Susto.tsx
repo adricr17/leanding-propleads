@@ -6,9 +6,28 @@ import {Ficha, RotuloEntrada} from '../estilo/Rotulos';
 import {Palabra, Subtitulos} from '../estilo/Subtitulos';
 import {ESTILO} from '../estilo/tokens';
 import {FPS, framesDe, PLANOS} from './edicion';
-import palabras from './palabras.json';
+import fuente from './palabras_fuente.json';
 
 cargaFuentes();
+
+type PalabraFuente = Palabra & {src: string};
+
+// Pasa los tiempos del clip de origen a la línea de tiempo del montaje (los planos pueden cambiar sin rehacer nada).
+const aMontaje = (palabras: PalabraFuente[]): Palabra[] => {
+  const out: Palabra[] = [];
+  let t = 0;
+  for (const p of PLANOS) {
+    const ini = t / FPS;
+    for (const w of palabras) {
+      if (w.src === p.src && w.inicio >= p.desde && w.inicio < p.hasta) {
+        out.push({...w, inicio: ini + w.inicio - p.desde, fin: ini + Math.min(w.fin, p.hasta) - p.desde});
+      }
+    }
+    t += framesDe(p);
+  }
+  return out;
+};
+const PALABRAS = aMontaje(fuente as PalabraFuente[]);
 
 export const Susto: React.FC = () => {
   let t = 0;
@@ -44,7 +63,7 @@ export const Susto: React.FC = () => {
       <Sequence from={0} durationInFrames={Math.round(1.0 * FPS)}>
         <RotuloEntrada arriba="El susto" abajo="A SIZ0" />
       </Sequence>
-      <Subtitulos palabras={palabras as Palabra[]} />
+      <Subtitulos palabras={PALABRAS} />
     </AbsoluteFill>
   );
 };

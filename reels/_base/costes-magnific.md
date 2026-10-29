@@ -101,3 +101,4 @@ Hay que dejar un margen de un 10-15 % para repetir imágenes o clips que salgan 
 | 2026-10-23 | Reel4 · clips animados 03, 04, 05, 07 (Kling 720p x4) | video_generate | 560 |
 | 2026-10-23 | Sitcom · voz nueva de Adri (Puck, 5 frases en una toma) | audio_tts | 32 |
 | 2026-10-28 | Vídeo Uri Halloween · transcripción con tiempos (ElevenLabs Scribe, 34 s) | ElevenLabs | ~467 cr ElevenLabs (0 Magnific) |
+| 2026-10-29 | Susto a Siz0 · transcripción con tiempos (ElevenLabs Scribe, 46 s) | ElevenLabs | ~639 cr ElevenLabs (0 Magnific) |

@@ -24,12 +24,11 @@ export const PLANOS: Plano[] = [
   {src: 'v2.mp4', desde: 12.4, hasta: 14.5},
   {src: 'v2.mp4', desde: 18.0, hasta: 19.6, destelloAntes: true, efecto: ['impacto.mp3', 0.7]},
   {src: 'v2.mp4', desde: 19.6, hasta: 20.4},
-  {src: 'v2.mp4', desde: 20.6, hasta: 23.3, ficha: ['OYÓ LOS GRITOS', 'MEI']},
-  {src: 'v2.mp4', desde: 25.0, hasta: 27.2, destelloAntes: true, efecto: ['whoosh.mp3', 0.6]},
-  {src: 'v2.mp4', desde: 28.0, hasta: 29.5, zoom: 1.15},
-  {src: 'v2.mp4', desde: 30.0, hasta: 31.8},
-  {src: 'v2.mp4', desde: 32.0, hasta: 34.2},
-  {src: 'v2.mp4', desde: 34.6, hasta: 36.6, zoom: 1.15},
+  {src: 'v2.mp4', desde: 20.6, hasta: 24.2, ficha: ['OYÓ LOS GRITOS', 'MEI']},
+  {src: 'v2.mp4', desde: 25.0, hasta: 27.3, destelloAntes: true, efecto: ['whoosh.mp3', 0.6]},
+  {src: 'v2.mp4', desde: 28.7, hasta: 30.9, zoom: 1.15},
+  {src: 'v2.mp4', desde: 32.0, hasta: 34.62},
+  {src: 'v2.mp4', desde: 34.62, hasta: 36.6, zoom: 1.15},
 ];
 
 export const FPS = 30;
