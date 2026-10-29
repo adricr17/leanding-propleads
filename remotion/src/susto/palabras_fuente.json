@@ -3,212 +3,240 @@
   "texto": "otra",
   "src": "v2.mp4",
   "inicio": 5.787,
-  "fin": 6.067
+  "fin": 6.067,
+  "quien": "URI"
  },
  {
   "texto": "vez",
   "src": "v2.mp4",
   "inicio": 6.107,
-  "fin": 6.387
+  "fin": 6.387,
+  "quien": "URI"
  },
  {
-  "texto": "le iba a",
+  "texto": "le llegó a",
   "src": "v2.mp4",
   "inicio": 18.767,
-  "fin": 18.907
+  "fin": 18.907,
+  "quien": "KIKE"
  },
  {
   "texto": "pegar",
   "src": "v2.mp4",
   "inicio": 18.907,
-  "fin": 19.067
+  "fin": 19.067,
+  "quien": "KIKE"
  },
  {
   "texto": "un",
   "src": "v2.mp4",
   "inicio": 19.067,
-  "fin": 19.147
+  "fin": 19.127,
+  "quien": "KIKE"
  },
  {
-  "texto": "pinchado",
+  "texto": "pinchazo",
   "src": "v2.mp4",
   "inicio": 19.207,
   "fin": 19.507,
-  "acento": true
+  "quien": "KIKE",
+  "color": true
  },
  {
   "texto": "de",
   "src": "v2.mp4",
   "inicio": 19.527,
-  "fin": 19.709
+  "fin": 19.7,
+  "quien": "KIKE"
  },
  {
-  "texto": "más…",
+  "texto": "más",
   "src": "v2.mp4",
-  "inicio": 19.709,
-  "fin": 20.047
+  "inicio": 19.7,
+  "fin": 19.88,
+  "quien": "KIKE"
+ },
+ {
+  "texto": "y…",
+  "src": "v2.mp4",
+  "inicio": 19.88,
+  "fin": 20.047,
+  "quien": "KIKE"
  },
  {
   "texto": "yo",
   "src": "v2.mp4",
   "inicio": 22.687,
-  "fin": 22.767
+  "fin": 22.747,
+  "quien": "MEI"
  },
  {
   "texto": "estoy",
   "src": "v2.mp4",
   "inicio": 22.786,
-  "fin": 22.947
+  "fin": 22.947,
+  "quien": "MEI"
  },
  {
   "texto": "trabajando",
   "src": "v2.mp4",
   "inicio": 22.987,
-  "fin": 23.627
+  "fin": 23.627,
+  "quien": "MEI"
  },
  {
-  "texto": "qué",
+  "texto": "que",
   "src": "v2.mp4",
-  "inicio": 23.827,
-  "fin": 25.667
+  "inicio": 25.747,
+  "fin": 25.9,
+  "quien": "MEI"
  },
  {
   "texto": "haciendo",
   "src": "v2.mp4",
-  "inicio": 25.747,
-  "fin": 26.227
+  "inicio": 25.9,
+  "fin": 26.227,
+  "quien": "MEI"
  },
  {
-  "texto": "una",
+  "texto": "bromas",
   "src": "v2.mp4",
   "inicio": 26.267,
-  "fin": 26.447
- },
- {
-  "texto": "más",
-  "src": "v2.mp4",
-  "inicio": 26.547,
-  "fin": 26.867
+  "fin": 26.867,
+  "quien": "MEI"
  },
  {
   "texto": "no",
   "src": "v2.mp4",
   "inicio": 26.907,
-  "fin": 27.127
+  "fin": 27.127,
+  "quien": "MEI"
  },
  {
   "texto": "no",
   "src": "v2.mp4",
   "inicio": 29.047,
-  "fin": 29.127
+  "fin": 29.067,
+  "quien": "KIKE"
  },
  {
   "texto": "hacía",
   "src": "v2.mp4",
   "inicio": 29.107,
-  "fin": 29.307
+  "fin": 29.307,
+  "quien": "KIKE"
  },
  {
   "texto": "falta",
   "src": "v2.mp4",
   "inicio": 29.367,
-  "fin": 29.607
+  "fin": 29.607,
+  "quien": "KIKE"
  },
  {
   "texto": "eh",
   "src": "v2.mp4",
   "inicio": 29.627,
-  "fin": 29.707
+  "fin": 29.707,
+  "quien": "KIKE"
  },
  {
   "texto": "que",
   "src": "v2.mp4",
   "inicio": 29.727,
-  "fin": 29.807
+  "fin": 29.787,
+  "quien": "KIKE"
  },
  {
-  "texto": "le",
+  "texto": "te",
   "src": "v2.mp4",
   "inicio": 29.827,
-  "fin": 29.907
+  "fin": 29.867,
+  "quien": "KIKE"
  },
  {
-  "texto": "he",
+  "texto": "pusieras",
   "src": "v2.mp4",
   "inicio": 29.867,
-  "fin": 29.947
- },
- {
-  "texto": "puesto",
-  "src": "v2.mp4",
-  "inicio": 29.927,
-  "fin": 30.147
+  "fin": 30.147,
+  "quien": "KIKE"
  },
  {
   "texto": "la",
   "src": "v2.mp4",
   "inicio": 30.167,
-  "fin": 30.247
+  "fin": 30.247,
+  "quien": "KIKE"
  },
  {
   "texto": "máscara",
   "src": "v2.mp4",
   "inicio": 30.307,
   "fin": 30.707,
-  "acento": true
+  "quien": "KIKE",
+  "color": true
  },
  {
   "texto": "pero",
   "src": "v2.mp4",
   "inicio": 33.387,
-  "fin": 33.527
+  "fin": 33.527,
+  "quien": "MEI"
  },
  {
   "texto": "avisadme",
   "src": "v2.mp4",
   "inicio": 33.567,
-  "fin": 34.147
+  "fin": 34.147,
+  "quien": "MEI"
  },
  {
   "texto": "tío",
   "src": "v2.mp4",
   "inicio": 34.287,
-  "fin": 34.407
+  "fin": 34.407,
+  "quien": "MEI"
  },
  {
   "texto": "que",
   "src": "v2.mp4",
   "inicio": 34.487,
-  "fin": 34.567
+  "fin": 34.567,
+  "quien": "MEI"
  },
  {
   "texto": "yo",
   "src": "v2.mp4",
   "inicio": 34.607,
-  "fin": 34.687
+  "fin": 34.647,
+  "quien": "MEI"
  },
  {
   "texto": "estoy",
   "src": "v2.mp4",
   "inicio": 34.667,
-  "fin": 34.927
+  "fin": 34.927,
+  "quien": "MEI"
  },
  {
   "texto": "yo",
   "src": "v2.mp4",
   "inicio": 35.087,
-  "fin": 35.167
+  "fin": 35.147,
+  "quien": "MEI"
  },
  {
   "texto": "estoy",
   "src": "v2.mp4",
   "inicio": 35.187,
-  "fin": 35.307
+  "fin": 35.307,
+  "quien": "MEI"
  },
  {
   "texto": "tatuando",
   "src": "v2.mp4",
   "inicio": 35.347,
-  "fin": 36.227
+  "fin": 36.227,
+  "quien": "MEI"
  }
 ]

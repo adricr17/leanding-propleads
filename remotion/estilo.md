@@ -93,4 +93,7 @@ En los vídeos de PHARAON (corrección del usuario, 28/10): el color de acento e
 - 28/10 · Subtítulos sincronizados de verdad: tiempos por palabra de un transcriptor (Whisper o ElevenLabs Scribe), nunca estimados.
 - 28/10 · Naranja solo en las palabras clave (marca, evento, cifras).
 - 29/10 · Subtítulos un poco más abajo: centro al **58 %** de la altura (antes 51 %).
+- 29/10 · Palabra clave que no es una cifra (p. ej. «pinchazo»): **naranja al tamaño normal** (92 px), no gigante; el tamaño 2,2× queda solo para cifras y números.
+- 29/10 · Cuando hablan varias personas: **nombre de quien habla encima de la palabra** (Space Mono 34 px, naranja, espaciado 4 px, 16 px por encima), en todas las frases.
+- 29/10 · Las transcripciones se revisan con el usuario antes de dar el vídeo por bueno: el transcriptor confunde palabras en los gritos y las frases rápidas.
 - Reglas de PHARAON que siempre aplican: sin audio de terceros, sin cámara lenta, solo sale gente del equipo (clientes solo de fondo y sin cara).
