@@ -30,16 +30,22 @@
   "fin": 19.147
  },
  {
-  "texto": "pincho",
+  "texto": "pinchado",
   "src": "v2.mp4",
   "inicio": 19.207,
   "fin": 19.507,
   "acento": true
  },
  {
-  "texto": "además",
+  "texto": "de",
   "src": "v2.mp4",
   "inicio": 19.527,
+  "fin": 19.709
+ },
+ {
+  "texto": "más…",
+  "src": "v2.mp4",
+  "inicio": 19.709,
   "fin": 20.047
  },
  {
