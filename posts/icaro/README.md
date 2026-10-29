@@ -10,7 +10,7 @@
 6. En la piel: foto casi limpia, con el texto en una franja abajo (arriba el sol, en el centro el rostro agrietado, en la muñeca la cera). Es solo lo que se ve; no se le atribuye ninguna intención al artista.
 7. Curado, con la pregunta para comentarios y @PHARAONSTUDIO.
 
-**PENDIENTE DE COMPLETAR:** quién hizo la pieza, para el crédito (no se ha inventado).
+**Pieza de Uri (@uri.cr_tattoo)**, confirmado por el usuario (29/10). Ya publicado sin crédito en la imagen.
 
 ## Texto para la publicación
 

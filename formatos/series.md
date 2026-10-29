@@ -22,7 +22,7 @@ Regla: si un formato funciona, no se abandona por buscar novedades. Cada semana:
 
 ### LA HISTORIA DE… (post carrusel) · nace el 23/10/2026
 - **Qué es:** la historia, mito o símbolo que hay detrás de una pieza del estudio, contada en 5–7 diapositivas sobre las fotos del tatuaje; la última, la pieza curada.
-- **Episodios:** 01 Ícaro (artista: PENDIENTE DE COMPLETAR) · 02 La catrina (@avilastattoo, 28/10).
+- **Episodios:** 01 Ícaro (@uri.cr_tattoo · publicado) · 02 La catrina (@avilastattoo · 28/10).
 - **Por qué funciona:** se lee aunque no te quieras tatuar (cultura), da conversación («¿qué mito te tatuarías?») y enseña el trabajo sin «enseñar simplemente un resultado».
 - **Producción:** `posts/_plantillas/historia.json` + `posts/_base/carrusel.py`. Coste: 0 créditos.
 
