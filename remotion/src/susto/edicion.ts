@@ -20,7 +20,7 @@ export const PLANOS: Plano[] = [
   {src: 'negro', desde: 0, hasta: 0.2, efecto: ['desenchufe.mp3', 0.8]},
   {src: 'v2.mp4', desde: 4.6, hasta: 6.6},
   {src: 'v2.mp4', desde: 7.6, hasta: 9.4, zoom: 1.12},
-  {src: 'v2.mp4', desde: 10.3, hasta: 12.0, zoom: 1.12},
+  {src: 'v2.mp4', desde: 10.3, hasta: 12.0, zoom: 1.12, ficha: ['LA VÍCTIMA', 'KIKE']},
   {src: 'v2.mp4', desde: 12.4, hasta: 14.5},
   {src: 'v2.mp4', desde: 18.0, hasta: 19.6, destelloAntes: true, efecto: ['impacto.mp3', 0.7]},
   {src: 'v2.mp4', desde: 19.6, hasta: 20.4},
