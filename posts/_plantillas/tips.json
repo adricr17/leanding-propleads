@@ -1,0 +1,11 @@
+{
+ "formato": "tips",
+ "etiqueta": "TIPS DE [ARTISTA] · [NN]",
+ "fotos": "../../privado/kit-[artista]-[pieza]/",
+ "diapositivas": [
+  {"tipo": "pregunta", "foto": "portada.jpg", "titulo": "¿Qué crees que fue lo más difícil de esta pieza?", "texto": "Comenta antes de deslizar. La respuesta, en la [N]."},
+  {"tipo": "paso", "foto": "zona1.jpg", "paso": "01 · [ZONA]", "cita": "[Explicación del artista, con sus palabras y <b>lo clave</b> en negrita]", "quien": "[Artista] · @[usuario]", "marcas": [[540, 600, 150]]},
+  {"tipo": "paso", "foto": "zona2.jpg", "paso": "02 · [ZONA]", "cita": "[…]", "quien": "[Artista] · @[usuario]", "marcas": [[540, 600, 200, "disc"]]},
+  {"tipo": "cierre", "foto": "final.jpg", "num": "TIPS DE [ARTISTA] · [NN]", "titulo": "[Respuesta a la pregunta de la 2 o remate]", "texto": "¿Qué zona te ha sorprendido más? 👇"}
+ ]
+}

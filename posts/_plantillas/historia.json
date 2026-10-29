@@ -1,0 +1,15 @@
+{
+ "formato": "historia",
+ "etiqueta": "PHARAON · [TÍTULO]",
+ "fotos": "../../privado/[carpeta]/",
+ "acento": "#9925AE",
+ "diapositivas": [
+  {"tipo": "portada", "foto": "01_portada.jpg", "pos": "center 30%", "lado": "izquierda",
+   "antetitulo": "LA HISTORIA DE", "titulo": "[línea 1]", "titulo_acento": "[NOMBRE]",
+   "texto": ["[Gancho en una frase].", "[Segunda frase que da ganas de deslizar]."], "credito": "Pieza de @[artista]"},
+  {"tipo": "capitulo", "foto": "02.jpg", "pos": "center 20%", "num": "01 · [CUÁNDO / DÓNDE]", "titulo": "[Titular con <a>palabra clave</a>]", "texto": "[2 frases máximo, con <b>el dato clave</b> en negrita]."},
+  {"tipo": "capitulo", "foto": "03.jpg", "pos": "center 100%", "arriba": true, "num": "02 · [PASO]", "titulo": "[Titular]", "texto": "[Texto]."},
+  {"tipo": "capitulo", "foto": "04.jpg", "pos": "center 20%", "num": "03 · [PASO]", "titulo": "[Titular]", "texto": "[Texto]."},
+  {"tipo": "cierre", "foto": "05_curado.jpg", "pos": "center 25%", "num": "PIEZA DE @[ARTISTA]", "titulo": "[Remate con <a>giro</a>]", "texto": "[Pregunta para comentarios] 👇"}
+ ]
+}

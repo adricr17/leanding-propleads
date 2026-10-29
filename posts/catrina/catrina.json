@@ -1,0 +1,25 @@
+{
+ "formato": "historia",
+ "etiqueta": "PHARAON · LA CATRINA",
+ "fotos": "../../privado/catrina/",
+ "acento": "#9925AE",
+ "diapositivas": [
+  {"tipo": "portada", "foto": "01_portada.jpg", "pos": "center 30%", "lado": "izquierda",
+   "antetitulo": "LA HISTORIA DE", "titulo": "LA", "titulo_acento": "CATRINA",
+   "texto": ["No nació para dar miedo.", "Nació para burlarse de alguien."], "credito": "Pieza de @avilastattoo"},
+  {"tipo": "capitulo", "foto": "07.jpg", "pos": "center 20%", "num": "01 · MÉXICO, HACIA 1912",
+   "titulo": "Empezó siendo <a>una burla</a>",
+   "texto": "El grabador José Guadalupe Posada dibujó una calavera con un sombrero elegante. La llamó <b>La Calavera Garbancera</b>."},
+  {"tipo": "capitulo", "foto": "03.jpg", "pos": "center 100%", "arriba": true, "num": "02 · EL MENSAJE",
+   "titulo": "Da igual lo que <a>aparentes</a>",
+   "texto": "Se reía de quienes renegaban de sus raíces y copiaban la moda europea. Debajo del sombrero, <b>todos somos huesos</b>."},
+  {"tipo": "capitulo", "foto": "06.jpg", "pos": "center 20%", "num": "03 · 1947",
+   "titulo": "Diego Rivera le puso <a>nombre</a>",
+   "texto": "En su mural <b>Sueño de una tarde dominical en la Alameda Central</b> la vistió de gala y la llamó Catrina."},
+  {"tipo": "capitulo", "foto": "04.jpg", "pos": "center 100%", "arriba": true, "num": "04 · HOY",
+   "titulo": "No asusta: <a>recuerda</a>",
+   "texto": "Es el símbolo del <b>Día de Muertos</b> (1 y 2 de noviembre), cuando en México se celebra a quienes ya no están."},
+  {"tipo": "cierre", "foto": "02.jpg", "pos": "center 0%", "num": "PIEZA DE @AVILASTATTOO",
+   "titulo": "Un homenaje, <a>no un disfraz</a>", "texto": "¿Te la tatuarías? 👇"}
+ ]
+}

@@ -20,6 +20,17 @@ Regla: si un formato funciona, no se abandona por buscar novedades. Cada semana:
 
 ## Series activas
 
+### LA HISTORIA DE… (post carrusel) · nace el 23/10/2026
+- **Qué es:** la historia, mito o símbolo que hay detrás de una pieza del estudio, contada en 5–7 diapositivas sobre las fotos del tatuaje; la última, la pieza curada.
+- **Episodios:** 01 Ícaro (Uri? · crédito pendiente) · 02 La catrina (@avilastattoo, 28/10).
+- **Por qué funciona:** se lee aunque no te quieras tatuar (cultura), da conversación («¿qué mito te tatuarías?») y enseña el trabajo sin «enseñar simplemente un resultado».
+- **Producción:** `posts/_plantillas/historia.json` + `posts/_base/carrusel.py`. Coste: 0 créditos.
+
+### TIPS DE [ARTISTA] (post carrusel) · nace en octubre de 2026
+- **Qué es:** una pieza explicada por zonas con las palabras del propio artista; pregunta en la 2 («¿qué fue lo más difícil?») y respuesta más adelante.
+- **Episodios:** TIPS DE URI 01 (ojos realistas) · TIPS DE ANDREA 01 (cara en la mano).
+- **Producción:** `posts/_plantillas/tips.json` + `posts/_base/carrusel.py`. Las explicaciones siempre del artista.
+
 _Ninguna todavía. Pasan a activas cuando haya datos del primer episodio._
 
 ## Semillas y en prueba
