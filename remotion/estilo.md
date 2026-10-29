@@ -30,7 +30,7 @@ Para nuestro vídeo: **ningún plano dura más de 3 s sin un corte o un punch-in
 | Tamaño | palabra de 5 letras ≈ 21 % del ancho → **≈ 92 px** de cuerpo a 1080 de ancho |
 | Color | **#FFFFFF** |
 | Contorno y sombra | brillo exterior blanco (desenfoque ≈ 10 px, opacidad ≈ 45 %) + sombra oscura suave (desenfoque 6 px, 0/+4 px, negro al 60 %) |
-| Posición | centrada en horizontal; **centro vertical al 51 % de la altura (y ≈ 980 px)**, a la altura del pecho; varía ±6 % para no tapar la cara o las manos |
+| Posición | centrada en horizontal; **centro vertical al 58 % de la altura (y ≈ 1114 px)** (corrección del usuario, 29/10: «un pelín más abajo» que el 51 % de la referencia); varía ±6 % para no tapar la cara o las manos |
 | Mayúsculas | todo en **minúsculas**, como se dice; sin puntuación |
 | Animación | **ninguna**: entra y sale en seco con la palabra (medido fotograma a fotograma en 20,25–20,6 s) |
 | Duración | desde que empieza la palabra hasta que empieza la siguiente; sin huecos en blanco si la pausa < 0,35 s |
@@ -92,4 +92,5 @@ En los vídeos de PHARAON (corrección del usuario, 28/10): el color de acento e
 
 - 28/10 · Subtítulos sincronizados de verdad: tiempos por palabra de un transcriptor (Whisper o ElevenLabs Scribe), nunca estimados.
 - 28/10 · Naranja solo en las palabras clave (marca, evento, cifras).
+- 29/10 · Subtítulos un poco más abajo: centro al **58 %** de la altura (antes 51 %).
 - Reglas de PHARAON que siempre aplican: sin audio de terceros, sin cámara lenta, solo sale gente del equipo (clientes solo de fondo y sin cara).
