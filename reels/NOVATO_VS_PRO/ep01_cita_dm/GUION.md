@@ -6,8 +6,8 @@
 **Formato:** 1080×1920, 30 fps, 24,8 s (con voces). NOVATO arriba, PRO abajo, franja negra en medio. Paleta: hueso #EFEBE4 · negro #111 · morado PHARAON #9925AE · blanco.
 
 ## Personajes
-- **NOVATO:** cabeza redonda blanca, contorno negro grueso, ojos enormes, camiseta negra. Se mueve rápido (balanceo de ±6 px), suda, tiembla, salta.
-- **PRO:** el mismo muñeco con **gafas** y párpados a media asta; camiseta morada. Apenas se mueve (balanceo de ±3 px). Nunca cambia de cara: está aburrido de lo fácil que le sale.
+- **NOVATO (rediseño 04/11):** pringadillo. Pelo despeinado con remolino, pecas, sudadera blanca XXL con las mangas tapando medio puño, cordones desiguales, cuello flaco, hombros caídos y dientes de conejo. Se mueve rápido, suda, tiembla y salta.
+- **PRO (rediseño 04/11):** pelo corto con degradado, barba de tres días, gafas, camiseta morada ajustada y antebrazo tatuado. Apenas se mueve y nunca cambia de cara.
 
 ## Guion por tomas
 
