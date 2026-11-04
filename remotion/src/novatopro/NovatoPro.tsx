@@ -56,7 +56,7 @@ const Tarea: React.FC = () => {
   );
 };
 
-export const NovatoPro: React.FC = () => (
+const Episodio: React.FC = () => (
   <AbsoluteFill style={{background: NEGRO}}>
     <div style={{position: 'absolute', left: 0, right: 0, top: 0, height: 952, overflow: 'hidden'}}><Panel /></div>
     <div style={{position: 'absolute', left: 0, right: 0, top: 968, height: 952, overflow: 'hidden'}}><Panel pro /></div>
@@ -71,5 +71,50 @@ export const NovatoPro: React.FC = () => (
         <Audio src={staticFile(`sfx/${a}`)} volume={vol} />
       </Sequence>
     ))}
+  </AbsoluteFill>
+);
+
+// Intro de la serie (1,5 s): NOVATO entra por arriba, PRO por abajo, «VS» de golpe en la franja.
+export const INTRO = 45;
+const Intro: React.FC = () => {
+  const f = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const arriba = spring({frame: f, fps, config: {damping: 14, stiffness: 160}});
+  const abajo = spring({frame: f - 4, fps, config: {damping: 14, stiffness: 160}});
+  const vs = spring({frame: f - 12, fps, config: {damping: 8, stiffness: 220}});
+  const ep = spring({frame: f - 20, fps, config: {damping: 12}});
+  const sale = interpolate(f, [INTRO - 6, INTRO], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
+  const sacude = f >= 12 && f < 20 ? Math.sin(f * 3.1) * 10 : 0;
+  const rotulo = (txt: string, bg: string, fg: string) => (
+    <div style={{fontFamily: 'Anton', fontSize: 230, lineHeight: 1, letterSpacing: 6, color: fg, background: bg, padding: '10px 50px', borderRadius: 30,
+      border: `10px solid ${NEGRO}`, boxShadow: `16px 16px 0 ${NEGRO}`}}>{txt}</div>
+  );
+  return (
+    <AbsoluteFill style={{background: NEGRO, opacity: sale, transform: `translateX(${sacude}px)`}}>
+      <div style={{position: 'absolute', left: 0, right: 0, top: 0, height: 952, background: HUESO, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <div style={{transform: `translateX(${(1 - arriba) * -1100}px) rotate(-4deg)`}}>{rotulo('NOVATO', '#fff', NEGRO)}</div>
+      </div>
+      <div style={{position: 'absolute', left: 0, right: 0, top: 968, height: 952, background: MORADO, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <div style={{transform: `translateX(${(1 - abajo) * 1100}px) rotate(3deg)`}}>{rotulo('PRO', NEGRO, '#fff')}</div>
+      </div>
+      <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+        <div style={{transform: `scale(${vs * 1}) rotate(-8deg)`, width: 260, height: 260, borderRadius: 130, background: '#E63A2E', border: `10px solid ${NEGRO}`,
+          display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'Anton', fontSize: 150, color: '#fff', letterSpacing: 4}}>VS</div>
+      </AbsoluteFill>
+      <div style={{position: 'absolute', left: 0, right: 0, top: 1720, textAlign: 'center', opacity: ep, fontFamily: 'SpaceMono', fontSize: 40, letterSpacing: 8, color: '#fff'}}>
+        PHARAON · EP01
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+export const NovatoPro: React.FC = () => (
+  <AbsoluteFill style={{background: NEGRO}}>
+    <Sequence durationInFrames={INTRO}>
+      <Intro />
+      <Audio src={staticFile('sfx/whoosh.mp3')} volume={0.5} />
+      <Sequence from={12}><Audio src={staticFile('sfx/impacto.mp3')} volume={0.6} /></Sequence>
+    </Sequence>
+    <Sequence from={INTRO}><Episodio /></Sequence>
   </AbsoluteFill>
 );

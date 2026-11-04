@@ -44,3 +44,8 @@ Si algún día se quiere en IA (Kling): *«Flat 2D vector cartoon, vertical 9:16
 - Voces de ElevenLabs (eleven_v4): **Efrayn** = NOVATO, **Bruno** = PRO. Una toma por personaje, cortada en frases y acelerada ×1,25 (`montar_tiempos.py`).
 - **Hablan por turnos, nunca a la vez**; cada subtítulo dura lo mismo que su frase. «…buena pregunta» se queda **muda** (solo la mirada a cámara), para dar un respiro sin palabras.
 - Si se cambia una frase: regenerar la toma, ajustar los tramos en `montar_tiempos.py` y volver a ejecutarlo (reescribe `remotion/src/novatopro/guion.ts`).
+
+## Intro de la serie (añadida 04/11/2026)
+- 1,5 s antes del episodio: «NOVATO» entra desde la izquierda en la mitad de arriba (hueso), «PRO» desde la derecha en la de abajo (morado), y «VS» rojo cae de golpe en la franja con un impacto. Abajo, «PHARAON · EP01». Suenan un whoosh y un golpe.
+- Código: `Intro` en `remotion/src/novatopro/NovatoPro.tsx` (`INTRO = 45` fotogramas). Duración total: 26,3 s.
+- Ojo: con la intro, el loop ya no es perfecto (el último fotograma no es el primero).
