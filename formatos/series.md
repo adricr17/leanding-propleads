@@ -20,6 +20,12 @@ Regla: si un formato funciona, no se abandona por buscar novedades. Cada semana:
 
 ## Series activas
 
+### NOVATO vs PRO (reel animado 2D) · nace el 04/11/2026
+- **Qué es:** dos muñecos (NOVATO arriba, PRO con gafas abajo) hacen la misma tarea del mundo del tatuaje a la vez, en pantalla dividida. El PRO enseña algo real; el remate es inesperado y el final enlaza con el principio (loop).
+- **Episodios:** 01 Pedir cita por DM (04/11).
+- **Producción:** Remotion (`remotion/src/novatopro/`), 0 créditos. Voces: ElevenLabs o del equipo. Guion de cada episodio en `reels/NOVATO_VS_PRO/`.
+- **Banco de tareas:** elegir el primer tatuaje · aguantar el dolor · cuidar el tatuaje recién hecho · explicar la idea al tatuador.
+
 ### LA HISTORIA DE… (post carrusel) · nace el 23/10/2026
 - **Qué es:** la historia, mito o símbolo que hay detrás de una pieza del estudio, contada en 5–7 diapositivas sobre las fotos del tatuaje; la última, la pieza curada.
 - **Episodios:** 01 Ícaro (@uri.cr_tattoo · publicado) · 02 La catrina (@avilastattoo · 28/10).

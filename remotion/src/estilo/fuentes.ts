@@ -6,6 +6,7 @@ const FUENTES: [string, string][] = [
   ['Anton', 'fuentes/Anton-Regular.ttf'],
   ['SpaceMono', 'fuentes/SpaceMono-700.ttf'],
   ['SerifCursiva', 'fuentes/FreeSerifBoldItalic.ttf'],
+  ['DMSans', 'fuentes/DMSans-700.ttf'],
 ];
 
 let cargadas = false;
