@@ -3,7 +3,7 @@ import {AbsoluteFill, Audio, interpolate, Sequence, spring, staticFile, useCurre
 import {cargaFuentes} from '../estilo/fuentes';
 import {Chat} from './Chat';
 import {Muneco} from './Muneco';
-import {DURACION, EFECTOS, NOVATO, PRO, TAREA} from './guion';
+import {CIERRE, DURACION, EFECTOS, NOVATO, PRO, TAREA} from './guion';
 
 cargaFuentes();
 const NEGRO = '#111111', MORADO = '#9925AE', HUESO = '#EFEBE4';
@@ -31,7 +31,7 @@ const Panel: React.FC<{pro?: boolean}> = ({pro}) => {
         <Muneco pro={pro} cara={e.cara} brazo={e.brazo ?? 'movil'} sudor={e.sudor} bob={bob} temblor={temblor} salto={salto} />
       </div>
       <div style={{position: 'absolute', right: 40, top: 110, transform: 'scale(1.0)'}}>
-        <Chat burbujas={d.chat} visto={pro ? undefined : (d as typeof NOVATO).visto} vacio={580} />
+        <Chat burbujas={d.chat} visto={pro ? undefined : (d as typeof NOVATO).visto} vacio={CIERRE - 4} />
       </div>
       <div style={{position: 'absolute', left: 40, top: 36, fontFamily: 'Anton', fontSize: 54, letterSpacing: 3, color: '#fff', background: pro ? MORADO : NEGRO, padding: '2px 26px', borderRadius: 14}}>
         {pro ? 'PRO' : 'NOVATO'}
@@ -45,9 +45,9 @@ const Panel: React.FC<{pro?: boolean}> = ({pro}) => {
 const Tarea: React.FC = () => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const entra = f < 30 ? spring({frame: f, fps, config: {damping: 11}}) : f >= 584 ? spring({frame: f - 584, fps, config: {damping: 11}}) : 0;
+  const entra = f < 30 ? spring({frame: f, fps, config: {damping: 11}}) : f >= CIERRE ? spring({frame: f - CIERRE, fps, config: {damping: 11}}) : 0;
   const sale = f < 30 ? interpolate(f, [22, 30], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1;
-  if (entra <= 0.001 || (f >= 30 && f < 584)) return null;
+  if (entra <= 0.001 || (f >= 30 && f < CIERRE)) return null;
   return (
     <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', pointerEvents: 'none'}}>
       <div style={{transform: `scale(${entra}) rotate(-3deg)`, opacity: sale, background: '#fff', border: `8px solid ${NEGRO}`, borderRadius: 26, padding: '18px 40px', boxShadow: `12px 12px 0 ${MORADO}`,
@@ -61,6 +61,11 @@ export const NovatoPro: React.FC = () => (
     <div style={{position: 'absolute', left: 0, right: 0, top: 0, height: 952, overflow: 'hidden'}}><Panel /></div>
     <div style={{position: 'absolute', left: 0, right: 0, top: 968, height: 952, overflow: 'hidden'}}><Panel pro /></div>
     <Tarea />
+    {[...NOVATO.lineas, ...PRO.lineas].map((l, i) => (
+      <Sequence key={`v${i}`} from={l.desde} durationInFrames={l.hasta - l.desde + 10}>
+        <Audio src={staticFile(`voces/np_ep01/${l.audio}.wav`)} volume={1} />
+      </Sequence>
+    ))}
     {EFECTOS.map(([a, desde, vol], i) => (
       <Sequence key={i} from={desde} durationInFrames={Math.max(1, Math.min(90, DURACION - desde))}>
         <Audio src={staticFile(`sfx/${a}`)} volume={vol} />

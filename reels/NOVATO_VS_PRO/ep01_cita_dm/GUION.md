@@ -3,7 +3,7 @@
 **Tarea:** pedir cita en un estudio de tatuajes por mensaje directo.
 **Por qué esta:** la entiende cualquiera (todos hemos escrito «hola» y esperado), el PRO enseña algo real y útil para el estudio (qué poner en el DM para que os contesten rápido) y el loop sale solo.
 **Herramienta:** Remotion (`remotion/src/novatopro/`). Personajes vectoriales propios: idénticos en cada toma, 0 créditos.
-**Formato:** 1080×1920, 30 fps, 20 s. NOVATO arriba, PRO abajo, franja negra en medio. Paleta: hueso #EFEBE4 · negro #111 · morado PHARAON #9925AE · blanco.
+**Formato:** 1080×1920, 30 fps, 24,8 s (con voces). NOVATO arriba, PRO abajo, franja negra en medio. Paleta: hueso #EFEBE4 · negro #111 · morado PHARAON #9925AE · blanco.
 
 ## Personajes
 - **NOVATO:** cabeza redonda blanca, contorno negro grueso, ojos enormes, camiseta negra. Se mueve rápido (balanceo de ±6 px), suda, tiembla, salta.
@@ -39,3 +39,8 @@ Si algún día se quiere en IA (Kling): *«Flat 2D vector cartoon, vertical 9:16
 **Caption:** ¿Eres NOVATO o PRO pidiendo cita? 📲 Spoiler: te contestamos igual, pero así vas más rápido 😉
 **Hashtags:** #tatuajes #novatovspro #humor #santfeliudellobregat #pharaonstudio
 **Comentario fijado:** ¿Qué hacemos en el próximo NOVATO vs PRO? 👇 Escribe la tarea y la animamos.
+
+## Versión final con voces (04/11/2026)
+- Voces de ElevenLabs (eleven_v4): **Efrayn** = NOVATO, **Bruno** = PRO. Una toma por personaje, cortada en frases y acelerada ×1,25 (`montar_tiempos.py`).
+- **Hablan por turnos, nunca a la vez**; cada subtítulo dura lo mismo que su frase. «…buena pregunta» se queda **muda** (solo la mirada a cámara), para dar un respiro sin palabras.
+- Si se cambia una frase: regenerar la toma, ajustar los tramos en `montar_tiempos.py` y volver a ejecutarlo (reescribe `remotion/src/novatopro/guion.ts`).
