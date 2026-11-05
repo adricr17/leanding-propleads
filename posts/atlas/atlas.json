@@ -1,0 +1,28 @@
+{
+ "formato": "historia",
+ "etiqueta": "PHARAON · ATLAS",
+ "fotos": "../../privado/atlas/",
+ "acento": "#9925AE",
+ "diapositivas": [
+  {"tipo": "portada", "foto": "01.jpg", "pos": "center 20%", "lado": "arriba",
+   "antetitulo": "LA HISTORIA DE", "titulo": "EL TITÁN", "titulo_acento": "ATLAS",
+   "texto": ["No sostiene el mundo.", "Sostiene el cielo. Y es un castigo."], "credito": "Pieza de @siz0.tattoo"},
+  {"tipo": "capitulo", "foto": "02.jpg", "pos": "center 15%", "num": "01 · LA GUERRA",
+   "titulo": "Perdió contra <a>Zeus</a>",
+   "texto": "Los titanes se enfrentaron a los dioses del Olimpo por el poder. Atlas luchó en el bando de los titanes… y <b>perdieron</b>."},
+  {"tipo": "capitulo", "foto": "03.jpg", "pos": "center 0%", "num": "02 · EL CASTIGO",
+   "titulo": "Cargar el cielo <a>para siempre</a>",
+   "texto": "Zeus lo condenó a sostener el cielo sobre sus hombros, en el extremo del mundo. <b>Sin descanso. Sin final.</b>"},
+  {"tipo": "capitulo", "foto": "02.jpg", "pos": "center 80%", "arriba": true, "num": "03 · EL ENGAÑO",
+   "titulo": "Heracles le <a>la jugó</a>",
+   "texto": "Heracles le sostuvo el cielo mientras Atlas iba a por las manzanas de oro. Atlas no quería volver a cargarlo. Heracles le pidió que lo sujetara <b>«un momento»</b>… y se fue."},
+  {"tipo": "capitulo", "foto": "01.jpg", "pos": "center 0%", "num": "04 · EL FINAL",
+   "titulo": "Acabó siendo <a>montaña</a>",
+   "texto": "Según Ovidio, Perseo le enseñó la cabeza de <b>Medusa</b> y Atlas se convirtió en piedra: la cordillera del Atlas, en el norte de África."},
+  {"tipo": "capitulo", "foto": "03.jpg", "pos": "center 60%", "arriba": true, "num": "05 · ¿Y EL GLOBO?",
+   "titulo": "Una confusión de <a>siglos</a>",
+   "texto": "Una famosa estatua romana, el <b>Atlas Farnesio</b>, lo esculpió con una esfera del cielo. Con el tiempo, todos la vimos como la Tierra."},
+  {"tipo": "cierre", "foto": "01.jpg", "pos": "center 30%", "num": "PIEZA DE @SIZ0.TATTOO",
+   "titulo": "Cargar con <a>todo</a>", "texto": "¿Y tú qué llevas a cuestas? 👇", "handle": true}
+ ]
+}

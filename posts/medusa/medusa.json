@@ -1,0 +1,28 @@
+{
+ "formato": "historia",
+ "etiqueta": "PHARAON · MEDUSA",
+ "fotos": "../../privado/medusa/",
+ "acento": "#9925AE",
+ "diapositivas": [
+  {"tipo": "portada", "foto": "01.jpg", "pos": "center 30%", "lado": "arriba",
+   "antetitulo": "LA HISTORIA DE", "titulo": "LA GORGONA", "titulo_acento": "MEDUSA",
+   "texto": ["No nació monstruo.", "La convirtieron en uno."], "credito": "Pieza de @meii.tattoo"},
+  {"tipo": "capitulo", "foto": "03.jpg", "pos": "center 30%", "num": "01 · ANTES",
+   "titulo": "Era <a>humana</a>",
+   "texto": "Según Ovidio, Medusa era una joven bellísima que servía en el <b>templo de Atenea</b>."},
+  {"tipo": "capitulo", "foto": "02.jpg", "pos": "center 35%", "num": "02 · LA INJUSTICIA",
+   "titulo": "La castigaron <a>a ella</a>",
+   "texto": "Poseidón la agredió dentro del templo. Atenea, furiosa, no castigó al dios: <b>castigó a Medusa</b>."},
+  {"tipo": "capitulo", "foto": "04.jpg", "pos": "center 40%", "num": "03 · LA MALDICIÓN",
+   "titulo": "Una mirada que <a>petrifica</a>",
+   "texto": "Su pelo se volvió serpientes y quien la miraba a los ojos <b>se convertía en piedra</b>. Por eso la piel agrietada y los ojos en blanco."},
+  {"tipo": "capitulo", "foto": "03.jpg", "pos": "center 100%", "arriba": true, "num": "04 · PERSEO",
+   "titulo": "La venció <a>sin mirarla</a>",
+   "texto": "Perseo usó un escudo pulido como espejo y le cortó la cabeza. De su cuello nació <b>Pegaso</b>, el caballo alado."},
+  {"tipo": "capitulo", "foto": "02.jpg", "pos": "center 100%", "arriba": true, "num": "05 · HOY",
+   "titulo": "De monstruo a <a>escudo</a>",
+   "texto": "Los griegos ponían su cara en escudos y puertas para <b>espantar el mal</b>. Hoy mucha gente la lleva como símbolo de protección y de fuerza."},
+  {"tipo": "cierre", "foto": "01.jpg", "pos": "center 35%", "num": "PIEZA DE @MEII.TATTOO",
+   "titulo": "¿Víctima o <a>monstruo</a>?", "texto": "Te leemos 👇", "handle": true}
+ ]
+}
